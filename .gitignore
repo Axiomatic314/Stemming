@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+
+# Ignore files from the wiktionary dumps
+*.txt
+*.xml
