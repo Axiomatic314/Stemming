@@ -4,6 +4,7 @@
 #include <string>
 #include <set>
 #include <filesystem>
+#include <bzlib.h>
 using namespace std; namespace fs = filesystem;
 
 struct Block{
@@ -76,9 +77,51 @@ void printArticleList(vector<Block>  articleList){
     }
 }
 
-// void extractArticles(vector<Block> articleList, string outputFilePath, string dumpFilePath){
+void extractArticles(Block block, string outputFilePath, string dumpFilePath){
+    //read in block from the dump file
+    FILE* dumpFile;
+    BZFILE* bzFile;
+    int bzError, nBuf;
+    char buf[block.totalBytes];
 
-// }
+    //the following code would work on a regular bz2, but does not actually read in a single specified
+    //stream - so need to adapt it to actually process a single block as desired
+    dumpFile = fopen(dumpFilePath.c_str(), "r");
+    if(!dumpFile){
+        fprintf(stderr, "Error opening the Wiktionary dump!\n");
+        exit(EXIT_FAILURE);
+    }
+    bzFile = BZ2_bzReadOpen(&bzError, dumpFile, 0, 0, NULL, 0);
+    if(bzError != BZ_OK){
+        BZ2_bzReadClose(&bzError, bzFile);
+        fprintf(stderr, "Error opening the Wiktionary dump as a bz2 file!\n");
+        exit(EXIT_FAILURE);
+    }
+    nBuf = BZ2_bzRead(&bzError, bzFile, buf, block.totalBytes);
+    fprintf(stderr, "Processing the buffer...\n");
+    if(bzError == BZ_OK){
+        //process the buffer
+        fprintf(stderr, "The file was read in!\n");
+        int count = 0;
+        while(count < 50){
+            printf("%c", buf[count++]);
+        }
+    }
+    if(bzError != BZ_STREAM_END){
+        BZ2_bzReadClose(&bzError, bzFile);
+        fprintf(stderr, "Did not read in the entire block!\n");
+        exit(EXIT_FAILURE);
+    }
+    BZ2_bzReadClose(&bzError, bzFile);
+
+
+
+
+    bool validID = false;
+    int pageStart = 0, pageEnd = 0;
+    string xmlDump;
+    
+}
 
 int main(){
 
@@ -104,6 +147,8 @@ int main(){
     vector<Block> articleList = getArticleList(dict, indexFilePath, dumpFilePath);
 
     printArticleList(articleList);
+
+    // extractArticles(articleList.at(0),"output.xml", dumpFilePath);
 
 
     return EXIT_SUCCESS;
