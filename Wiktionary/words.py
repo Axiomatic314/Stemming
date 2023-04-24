@@ -51,7 +51,11 @@ for word in words:
             template["args"]["3"] = temp[1]
         if "<" in template["args"]["2"] or "<" in template["args"]["3"]:
             continue
-            
+
+        #Deal with any other language codes
+        if "lang1" in template["args"] and template["args"]["lang1"] not in valid_lang_codes: continue
+        if "lang2" in template["args"] and template["args"]["lang2"] not in valid_lang_codes: continue
+  
         #Process the template    
         negative_prefixes = ["anti", "anti-", "ab", "ab-", "non", "non-", "un", "un-"] #not exahustive
         negative_suffixes = ["n't", "n't-"]
@@ -60,16 +64,16 @@ for word in words:
         part2 = template["args"]["3"]
         if name == "affix" or name == "af":
             if part1.endswith("-") and not part2.startswith("-"): #prefix
-                if part1 not in negative_prefixes:
+                if part1 not in negative_prefixes and not part2.endswith("-"):
                     word_variants.append((word["word"], part2))
             elif part2.startswith("-") and not part1.endswith("-"): #suffix
-                if part2 not in negative_suffixes: 
+                if part2 not in negative_suffixes and not part1.startswith("-"): 
                     word_variants.append((word["word"], part1))
         if name == "prefix" or name == "pre":
-            if part1 not in negative_prefixes:
+            if part1 not in negative_prefixes and not part2.startswith("-") and not part2.endswith("-"):
                 word_variants.append((word["word"], part2))
         if name == "suffix" or name == "suf":
-            if part2 not in negative_suffixes:
+            if part2 not in negative_suffixes and not part1.startswith("-") and not part1.endswith("-"):
                 word_variants.append((word["word"], part1))
        
 
