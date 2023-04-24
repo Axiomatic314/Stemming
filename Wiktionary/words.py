@@ -2,7 +2,7 @@ import json
 
 filename = "raw-wiktextract-data.json"
 words = list() #list of all the English words in the Wiktionary
-word_variants = dict() #contains all the word:replacment pairs
+word_variants = list() #contains all the word:replacment pairs
 
 data: dict = None
 with open(filename, "r", encoding="utf-8") as f:
@@ -16,13 +16,14 @@ for word in words:
         continue
 
     #If the word is a person's name, we leave it as it is
-    isName = False
+    #If it is a multiword term, do not break it up
+    remove = False
     if "categories" in word.keys():
         for category in word["categories"]:
-            if category.find("surnames") > -1 or category.find("given names") > -1:
-                isName = True
+            if category.find("surnames") > -1 or category.find("given names") > -1 or category.find("multiword") > -1:
+                remove = True
                 break
-    if isName: continue
+    if remove: continue
 
     for template in word["etymology_templates"]:
         valid_lang_codes = ["en"]
@@ -33,6 +34,8 @@ for word in words:
         if "2" not in template["args"] or "3" not in template["args"]:
             continue
         if len(template["args"]["2"]) == 0 or len(template["args"]["3"]) == 0:
+            continue
+        if template["args"]["2"] == "?" or template["args"]["3"] == "?":
             continue
 
         #Deal with any language codes included in the word components
@@ -46,7 +49,7 @@ for word in words:
             if temp[0] not in valid_lang_codes:
                 continue
             template["args"]["3"] = temp[1]
-        if "<" in template["args"]["2"] or "<" in template["args"]["2"]:
+        if "<" in template["args"]["2"] or "<" in template["args"]["3"]:
             continue
             
         #Process the template    
@@ -58,17 +61,18 @@ for word in words:
         if name == "affix" or name == "af":
             if part1.endswith("-") and not part2.startswith("-"): #prefix
                 if part1 not in negative_prefixes:
-                    word_variants[word["word"]] = part2
+                    word_variants.append((word["word"], part2))
             elif part2.startswith("-") and not part1.endswith("-"): #suffix
                 if part2 not in negative_suffixes: 
-                    word_variants[word["word"]] = part1
+                    word_variants.append((word["word"], part1))
         if name == "prefix" or name == "pre":
             if part1 not in negative_prefixes:
-                word_variants[word["word"]] = part2
+                word_variants.append((word["word"], part2))
         if name == "suffix" or name == "suf":
             if part2 not in negative_suffixes:
-                word_variants[word["word"]] = part1
+                word_variants.append((word["word"], part1))
        
+
+word_variants.sort(key=lambda x: x[1])
 for word in word_variants:
-    print(word + ": ", end="")
-    print(word_variants[word])
+    print(word[0] + ": " + word[1])
