@@ -38,17 +38,19 @@ for word in words:
         #Deal with any language codes included in the word components
         temp = template["args"]["2"].split(":")
         if len(temp) > 1:
-            if temp[0] not in valid_lang_codes or temp[0].find("<") > -1:
+            if temp[0] not in valid_lang_codes:
                 continue
             template["args"]["2"] = temp[1]
         temp = template["args"]["3"].split(":")
         if len(temp) > 1:
-            if temp[0] not in valid_lang_codes or temp[0].find("<") > -1:
+            if temp[0] not in valid_lang_codes:
                 continue
             template["args"]["3"] = temp[1]
+        if "<" in template["args"]["2"] or "<" in template["args"]["2"]:
+            continue
             
         #Process the template    
-        negative_prefixes = ["anti", "anti-", "ab", "ab-", "non", "non-", "un", "un-"]
+        negative_prefixes = ["anti", "anti-", "ab", "ab-", "non", "non-", "un", "un-"] #not exahustive
         negative_suffixes = ["n't", "n't-"]
         name = template["name"]
         part1 = template["args"]["2"]
