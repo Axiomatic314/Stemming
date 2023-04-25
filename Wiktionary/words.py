@@ -17,13 +17,13 @@ for word in words:
 
     #If the word is a person's name, we leave it as it is
     #If it is a multiword term, do not break it up
-    remove = False
+    ignore = False
     if "categories" in word.keys():
         for category in word["categories"]:
             if category.find("surnames") > -1 or category.find("given names") > -1 or category.find("multiword") > -1:
-                remove = True
+                ignore = True
                 break
-    if remove: continue
+    if ignore: continue
 
     for template in word["etymology_templates"]:
         valid_lang_codes = ["en"]
@@ -37,6 +37,9 @@ for word in words:
             continue
         if template["args"]["2"] == "?" or template["args"]["3"] == "?":
             continue
+
+        #Remove unreliable entries
+        if "*" in template["args"]["2"] or "*" in template["args"]["3"]: continue
 
         #Deal with any language codes included in the word components
         temp = template["args"]["2"].split(":")
@@ -57,17 +60,18 @@ for word in words:
         if "lang2" in template["args"] and template["args"]["lang2"] not in valid_lang_codes: continue
   
         #Process the template    
-        negative_prefixes = ["anti", "anti-", "ab", "ab-", "non", "non-", "un", "un-"] #not exahustive
-        negative_suffixes = ["n't", "n't-"]
+        negative_affixes = ["-n't", "-less", "a-", "ab-", "dis-", "il-", "im-", "in-", "ir-", "non-", "un-", "anti-", "an-", "mis-", "ig-"]
+        negative_prefixes = ["anti", "a", "ab", "dis", "il", "im", "in", "ir", "non", "un", "anti", "an", "mis", "ig"] 
+        negative_suffixes = ["n't", "less"]
         name = template["name"]
         part1 = template["args"]["2"]
         part2 = template["args"]["3"]
         if name == "affix" or name == "af":
             if part1.endswith("-") and not part2.startswith("-"): #prefix
-                if part1 not in negative_prefixes and not part2.endswith("-"):
+                if part1 not in negative_affixes and not part2.endswith("-"):
                     word_variants.append((word["word"], part2))
             elif part2.startswith("-") and not part1.endswith("-"): #suffix
-                if part2 not in negative_suffixes and not part1.startswith("-"): 
+                if part2 not in negative_affixes and not part1.startswith("-"): 
                     word_variants.append((word["word"], part1))
         if name == "prefix" or name == "pre":
             if part1 not in negative_prefixes and not part2.startswith("-") and not part2.endswith("-"):
