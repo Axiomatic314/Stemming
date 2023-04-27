@@ -58,24 +58,40 @@ for word in words:
         #Deal with any other language codes
         if "lang1" in template["args"] and template["args"]["lang1"] not in valid_lang_codes: continue
         if "lang2" in template["args"] and template["args"]["lang2"] not in valid_lang_codes: continue
-  
-        #Process the template    
-        negative_affixes = ["-n't", "-less", "a-", "ab-", "dis-", "il-", "im-", "in-", "ir-", "non-", "un-", "anti-", "an-", "mis-", "ig-"]
-        negative_prefixes = ["anti", "a", "ab", "dis", "il", "im", "in", "ir", "non", "un", "anti", "an", "mis", "ig"] 
-        negative_suffixes = ["n't", "less"]
-        name = template["name"]
+
+        #Remove entries that include brackets, numbers, anything that isn't ASCII
         part1 = template["args"]["2"]
         part2 = template["args"]["3"]
+        if not part1.isascii() or not part2.isascii():
+            continue
+
+        isValid = True
+        for c in part1:
+            if not c.isalpha() and c != "-":
+                isValid = False
+                break
+        if not isValid: continue
+        for c in part1:
+            if not c.isalpha() and c != "-":
+                isValid = False
+                break
+        if not isValid: continue
+          
+        #Process the template    
+        # negative_affixes = ["-n't", "-less", "a-", "ab-", "dis-", "il-", "im-", "in-", "ir-", "non-", "un-", "anti-", "an-", "mis-", "ig-"]
+        # negative_prefixes = ["anti", "a", "ab", "dis", "il", "im", "in", "ir", "non", "un", "anti", "an", "mis", "ig"] 
+        negative_suffixes = ["n't", "less", "-n't", "-less"]
+        name = template["name"]
         if name == "affix" or name == "af":
-            if part1.endswith("-") and not part2.startswith("-"): #prefix
-                if part1 not in negative_affixes and not part2.endswith("-"):
-                    word_variants.append((word["word"], part2))
-            elif part2.startswith("-") and not part1.endswith("-"): #suffix
-                if part2 not in negative_affixes and not part1.startswith("-"): 
+            # if part1.endswith("-") and not part2.startswith("-"): #prefix
+            #     if part1 not in negative_affixes and not part2.endswith("-"):
+            #         word_variants.append((word["word"], part2))
+            if part2.startswith("-") and not part1.endswith("-"): #suffix
+                if part2 not in negative_suffixes and not part1.startswith("-"): 
                     word_variants.append((word["word"], part1))
-        if name == "prefix" or name == "pre":
-            if part1 not in negative_prefixes and not part2.startswith("-") and not part2.endswith("-"):
-                word_variants.append((word["word"], part2))
+        # if name == "prefix" or name == "pre":
+        #     if part1 not in negative_prefixes and not part2.startswith("-") and not part2.endswith("-"):
+        #         word_variants.append((word["word"], part2))
         if name == "suffix" or name == "suf":
             if part2 not in negative_suffixes and not part1.startswith("-") and not part1.endswith("-"):
                 word_variants.append((word["word"], part1))
