@@ -1,8 +1,10 @@
 import json
+import sys
 
 filename = "raw-wiktextract-data.json"
 words = list() #list of all the English words in the Wiktionary
-word_variants = list() #contains all the word:replacment pairs
+word_replacements = list() #contains all the word:replacment pairs
+word_groupings = dict() #contains all the roots and what words map to them
 
 data: dict = None
 with open(filename, "r", encoding="utf-8") as f:
@@ -83,20 +85,48 @@ for word in words:
         negative_suffixes = ["n't", "less", "-n't", "-less"]
         name = template["name"]
         if name == "affix" or name == "af":
-            # if part1.endswith("-") and not part2.startswith("-"): #prefix
-            #     if part1 not in negative_affixes and not part2.endswith("-"):
-            #         word_variants.append((word["word"], part2))
             if part2.startswith("-") and not part1.endswith("-"): #suffix
                 if part2 not in negative_suffixes and not part1.startswith("-"): 
-                    word_variants.append((word["word"], part1))
-        # if name == "prefix" or name == "pre":
-        #     if part1 not in negative_prefixes and not part2.startswith("-") and not part2.endswith("-"):
-        #         word_variants.append((word["word"], part2))
+                    word_replacements.append((word["word"], part1))
+                    if part1 in word_groupings.keys():
+                        if word["word"] not in word_groupings[part1]:
+                            word_groupings[part1].append(word["word"])
+                    else:
+                        word_groupings[part1] = list()
+                        word_groupings[part1].append(word["word"])
         if name == "suffix" or name == "suf":
             if part2 not in negative_suffixes and not part1.startswith("-") and not part1.endswith("-"):
-                word_variants.append((word["word"], part1))
+                word_replacements.append((word["word"], part1))
+                if part1 in word_groupings.keys():
+                    if word["word"] not in word_groupings[part1]:
+                        word_groupings[part1].append(word["word"])
+                else:
+                    word_groupings[part1] = list()
+                    word_groupings[part1].append(word["word"])
        
 
-word_variants.sort(key=lambda x: x[1])
-for word in word_variants:
-    print(word[0] + ": " + word[1])
+# word_replacements.sort(key=lambda x: x[1])
+# for word in word_replacements:
+#     print(word[0] + ": " + word[1])
+
+word_replacements = dict(word_replacements)
+
+initial_groups = set(word_groupings.keys())
+
+for word in initial_groups:
+    print(f"{word}{' '*80}", end="\r", file=sys.stderr)
+    if word in word_replacements:
+        stem = word_replacements[word]
+        for variant in word_groupings[word]:
+            word_replacements[variant] = stem
+        word_groupings[stem].extend(word_groupings[word])
+        word_groupings.pop(word)
+
+for word in word_groupings:
+    print(word + ": ", end="")
+    for variant in word_groupings[word]:
+        print(variant, end=", ")
+    print("\n")
+
+
+
