@@ -1,8 +1,10 @@
 import json
 import sys
 
-PRINT_STEMS = True
-PRINT_STEM_GROUPS = False
+PRINT_WORDS = False
+PRINT_STEMS = False
+PRINT_STEM_PAIRS = False
+PRINT_STEM_GROUPS = True
 SIMPLIFY_STEM_GROUPS = True
 
 def process_words(words):    
@@ -55,8 +57,8 @@ def process_words(words):
             if "lang2" in template["args"] and template["args"]["lang2"] not in valid_lang_codes: continue
 
             #Skip entries that include brackets, numbers, anything that isn't ASCII
-            part1 = template["args"]["2"]
-            part2 = template["args"]["3"]
+            part1 = template["args"]["2"].lower()
+            part2 = template["args"]["3"].lower()
             if not part1.isascii() or not part2.isascii():
                 continue
 
@@ -81,22 +83,22 @@ def process_words(words):
             if name == "affix" or name == "af":
                 if part2.startswith("-") and not part1.endswith("-"): #suffix
                     if part2 not in negative_suffixes and not part1.startswith("-"): 
-                        word_replacements.append((word["word"], part1))
+                        word_replacements.append((word["word"].lower(), part1))
                         if part1 in word_groupings.keys():
                             if word["word"] not in word_groupings[part1]:
-                                word_groupings[part1].append(word["word"])
+                                word_groupings[part1].append(word["word"].lower())
                         else:
                             word_groupings[part1] = list()
-                            word_groupings[part1].append(word["word"])
+                            word_groupings[part1].append(word["word"].lower())
             if name == "suffix" or name == "suf":
                 if part2 not in negative_suffixes and not part1.startswith("-") and not part1.endswith("-"):
-                    word_replacements.append((word["word"], part1))
+                    word_replacements.append((word["word"].lower(), part1))
                     if part1 in word_groupings.keys():
                         if word["word"] not in word_groupings[part1]:
-                            word_groupings[part1].append(word["word"])
+                            word_groupings[part1].append(word["word"].lower())
                     else:
                         word_groupings[part1] = list()
-                        word_groupings[part1].append(word["word"])
+                        word_groupings[part1].append(word["word"].lower())
 
     word_replacements.sort(key=lambda x: x[0])
 
@@ -104,12 +106,13 @@ def process_words(words):
         word_replacements, word_groupings = merge_groups(word_replacements, word_groupings)
 
     word_replacements = dict(word_replacements)
+    word_groupings = dict(sorted.word_groupings.items())
 
     return word_replacements, word_groupings
        
 def print_replacements(word_replacements):
     for word in word_replacements:
-        print(word + ": " + word_replacements[word])
+        print(word + " -> " + word_replacements[word])
 
 def merge_groups(word_replacements, word_groupings):
     initial_groups = set(word_groupings.keys())
@@ -127,8 +130,16 @@ def print_groupings(word_groupings):
     for word in word_groupings:
         print(word + ": ", end="")
         for variant in word_groupings[word]:
-            print(variant, end=", ")
-        print("\n")
+            print(variant, end=" ")
+        print()
+
+def output_stems(word_groupings):
+    for stem in word_groupings.keys():
+        print(stem)
+
+def output_words(word_replacements):
+    for word in word_replacements.keys():
+        print(word)
 
 def main():
     wiktionary_data = "raw-wiktextract-data.json"
@@ -144,10 +155,15 @@ def main():
     #word_groupings contains all the stem -> word groups
     word_replacements, word_groupings = process_words(words)
 
-    if PRINT_STEMS:
+    if PRINT_STEM_PAIRS:
         print_replacements(word_replacements)
     if PRINT_STEM_GROUPS:
         print_groupings(word_groupings)
+    if PRINT_STEMS:
+        output_stems(word_groupings)
+    if PRINT_WORDS:
+        output_words(word_replacements)
+
 
 
 
