@@ -32,6 +32,8 @@
 *.app
 
 
-# Ignore files from the wiktionary dumps
-*.txt
-*.xml
+# Ignore irrelevant local files
+/OLD
+
+#Ignore the wiktextract file
+*.json
