@@ -106,7 +106,7 @@ def process_words(words):
         word_replacements, word_groupings = merge_groups(word_replacements, word_groupings)
 
     word_replacements = dict(word_replacements)
-    word_groupings = dict(sorted.word_groupings.items())
+    word_groupings = dict(sorted(word_groupings.items()))
 
     return word_replacements, word_groupings
        
