@@ -9,7 +9,7 @@ SIMPLIFY_STEM_GROUPS = True
 
 def process_words(words):    
     word_replacements = list()
-    word_groupings = dict()
+    word_clusters = dict()
 
     for word in words:
         if "etymology_templates" not in word.keys():
@@ -85,52 +85,52 @@ def process_words(words):
                 if part2.startswith("-") and not part1.endswith("-"): #suffix
                     if part2 not in negative_suffixes and not part1.startswith("-"): 
                         word_replacements.append((word_lower, part1))
-                        if part1 not in word_groupings.keys():
-                            word_groupings[part1] = list()
-                        if word_lower not in word_groupings[part1]:
-                            word_groupings[part1].append(word_lower)
+                        if part1 not in word_clusters.keys():
+                            word_clusters[part1] = list()
+                        if word_lower not in word_clusters[part1]:
+                            word_clusters[part1].append(word_lower)
             if name == "suffix" or name == "suf":
                 if part2 not in negative_suffixes and not part1.startswith("-") and not part1.endswith("-"):
                     word_replacements.append((word_lower, part1))
-                    if part1 not in word_groupings.keys():
-                        word_groupings[part1] = list()
-                    if word_lower not in word_groupings[part1]:
-                        word_groupings[part1].append(word_lower)
+                    if part1 not in word_clusters.keys():
+                        word_clusters[part1] = list()
+                    if word_lower not in word_clusters[part1]:
+                        word_clusters[part1].append(word_lower)
 
     word_replacements.sort(key=lambda x: x[0])
 
     if SIMPLIFY_STEM_GROUPS:
-        word_replacements, word_groupings = merge_groups(word_replacements, word_groupings)
+        word_replacements, word_clusters = merge_groups(word_replacements, word_clusters)
 
     word_replacements = dict(word_replacements)
-    word_groupings = dict(sorted(word_groupings.items()))
+    word_clusters = dict(sorted(word_clusters.items()))
 
-    return word_replacements, word_groupings
+    return word_replacements, word_clusters
        
 def print_replacements(word_replacements):
     for word in word_replacements:
         print(word + " -> " + word_replacements[word])
 
-def merge_groups(word_replacements, word_groupings):
-    initial_groups = set(word_groupings.keys())
+def merge_groups(word_replacements, word_clusters):
+    initial_groups = set(word_clusters.keys())
     for word in initial_groups:
         if word in word_replacements:
             stem = word_replacements[word]
-            for variant in word_groupings[word]:
+            for variant in word_clusters[word]:
                 word_replacements[variant] = stem
-            word_groupings[stem].extend(word_groupings[word])
-            word_groupings.pop(word)
-    return word_replacements, word_groupings
+            word_clusters[stem].extend(word_clusters[word])
+            word_clusters.pop(word)
+    return word_replacements, word_clusters
 
-def print_groupings(word_groupings):
-    for word in word_groupings:
+def print_clusters(word_clusters):
+    for word in word_clusters:
         print(word + ": ", end="")
-        for variant in word_groupings[word]:
+        for variant in word_clusters[word]:
             print(variant, end=" ")
         print()
 
-def output_stems(word_groupings):
-    for stem in word_groupings.keys():
+def output_stems(word_clusters):
+    for stem in word_clusters.keys():
         print(stem)
 
 def output_words(word_replacements):
@@ -148,15 +148,15 @@ def main():
                 words.append(data)
     
     #word_replacements contains all the word -> stem mappings
-    #word_groupings contains all the stem -> word groups
-    word_replacements, word_groupings = process_words(words)
+    #word_clusters contains all the stem -> word groups
+    word_replacements, word_clusters = process_words(words)
 
     if PRINT_STEM_PAIRS:
         print_replacements(word_replacements)
     if PRINT_STEM_GROUPS:
-        print_groupings(word_groupings)
+        print_clusters(word_clusters)
     if PRINT_STEMS:
-        output_stems(word_groupings)
+        output_stems(word_clusters)
     if PRINT_WORDS:
         output_words(word_replacements)
 
