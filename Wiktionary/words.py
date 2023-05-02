@@ -77,28 +77,25 @@ def process_words(words):
             #Skip words that start/end with hyphens
             if word["word"].startswith("-") or word["word"].endswith("-"): continue
             
-            #Process the template     
+            #Process the template
+            word_lower = word["word"].lower()     
             negative_suffixes = ["n't", "less", "-n't", "-less"]
             name = template["name"]
             if name == "affix" or name == "af":
                 if part2.startswith("-") and not part1.endswith("-"): #suffix
                     if part2 not in negative_suffixes and not part1.startswith("-"): 
-                        word_replacements.append((word["word"].lower(), part1))
-                        if part1 in word_groupings.keys():
-                            if word["word"] not in word_groupings[part1]:
-                                word_groupings[part1].append(word["word"].lower())
-                        else:
+                        word_replacements.append((word_lower, part1))
+                        if part1 not in word_groupings.keys():
                             word_groupings[part1] = list()
-                            word_groupings[part1].append(word["word"].lower())
+                        if word_lower not in word_groupings[part1]:
+                            word_groupings[part1].append(word_lower)
             if name == "suffix" or name == "suf":
                 if part2 not in negative_suffixes and not part1.startswith("-") and not part1.endswith("-"):
-                    word_replacements.append((word["word"].lower(), part1))
-                    if part1 in word_groupings.keys():
-                        if word["word"] not in word_groupings[part1]:
-                            word_groupings[part1].append(word["word"].lower())
-                    else:
+                    word_replacements.append((word_lower, part1))
+                    if part1 not in word_groupings.keys():
                         word_groupings[part1] = list()
-                        word_groupings[part1].append(word["word"].lower())
+                    if word_lower not in word_groupings[part1]:
+                        word_groupings[part1].append(word_lower)
 
     word_replacements.sort(key=lambda x: x[0])
 
@@ -117,7 +114,6 @@ def print_replacements(word_replacements):
 def merge_groups(word_replacements, word_groupings):
     initial_groups = set(word_groupings.keys())
     for word in initial_groups:
-        print(f"{word}{' '*80}", end="\r", file=sys.stderr)
         if word in word_replacements:
             stem = word_replacements[word]
             for variant in word_groupings[word]:
@@ -142,7 +138,7 @@ def output_words(word_replacements):
         print(word)
 
 def main():
-    wiktionary_data = "raw-wiktextract-data.json"
+    wiktionary_data = "Wiktionary/raw-wiktextract-data.json"
     words = list()  #list of all the English words in the Wiktionary
     data: dict = None
     with open(wiktionary_data, "r", encoding="utf-8") as f:
