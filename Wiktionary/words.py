@@ -1,9 +1,9 @@
 import json
 import sys
 
-PRINT_WORDS = False
+PRINT_WORDS = True
 PRINT_STEMS = False
-PRINT_STEM_PAIRS = False
+PRINT_STEM_PAIRS = True
 PRINT_STEM_GROUPS = True
 SIMPLIFY_STEM_GROUPS = True
 
@@ -98,23 +98,25 @@ def process_words(words):
                         word_clusters[part1].append(word_lower)
 
     word_replacements.sort(key=lambda x: x[0])
+    word_replacements = dict(word_replacements)
 
     if SIMPLIFY_STEM_GROUPS:
         word_replacements, word_clusters = merge_groups(word_replacements, word_clusters)
 
-    word_replacements = dict(word_replacements)
+    # word_replacements = dict(word_replacements)
     word_clusters = dict(sorted(word_clusters.items()))
 
     return word_replacements, word_clusters
        
-def print_replacements(word_replacements):
-    for word in word_replacements:
-        print(word + " -> " + word_replacements[word])
+def print_replacements(word_replacements, filename):
+    with open(filename, "w", encoding="utf-8") as f:
+        for word in word_replacements:
+            f.write(word + " -> " + word_replacements[word] + "\n")
 
 def merge_groups(word_replacements, word_clusters):
     initial_groups = set(word_clusters.keys())
     for word in initial_groups:
-        if word in word_replacements:
+        if word in word_replacements.keys():
             stem = word_replacements[word]
             for variant in word_clusters[word]:
                 word_replacements[variant] = stem
@@ -122,20 +124,23 @@ def merge_groups(word_replacements, word_clusters):
             word_clusters.pop(word)
     return word_replacements, word_clusters
 
-def print_clusters(word_clusters):
-    for word in word_clusters:
-        print(word + ": ", end="")
-        for variant in word_clusters[word]:
-            print(variant, end=" ")
-        print()
+def print_clusters(word_clusters, filename):
+    with open(filename, "w", encoding="utf-8") as f:
+        for word in word_clusters:
+            f.write(word + ":")
+            for variant in word_clusters[word]:
+                f.write(" " + variant)
+            f.write("\n")
 
-def output_stems(word_clusters):
-    for stem in word_clusters.keys():
-        print(stem)
+def output_stems(word_clusters, filename):
+    with open(filename, "w", encoding="utf-8") as f:
+        for stem in word_clusters.keys():
+            f.write(stem + "\n")
 
-def output_words(word_replacements):
-    for word in word_replacements.keys():
-        print(word)
+def output_words(word_replacements, filename):
+    with open(filename, "w", encoding="utf-8") as f:
+        for word in word_replacements.keys():
+            f.write(word + "\n")
 
 def main():
     wiktionary_data = "Wiktionary/raw-wiktextract-data.json"
@@ -152,13 +157,13 @@ def main():
     word_replacements, word_clusters = process_words(words)
 
     if PRINT_STEM_PAIRS:
-        print_replacements(word_replacements)
+        print_replacements(word_replacements, "Wiktionary/replacements.txt")
     if PRINT_STEM_GROUPS:
-        print_clusters(word_clusters)
+        print_clusters(word_clusters, "Wiktionary/clusters.txt")
     if PRINT_STEMS:
-        output_stems(word_clusters)
+        output_stems(word_clusters, "Wiktionary/stems.txt")
     if PRINT_WORDS:
-        output_words(word_replacements)
+        output_words(word_replacements, "Wiktionary/words.txt")
 
 
 
