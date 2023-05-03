@@ -12,6 +12,9 @@ def process_words(words):
     word_clusters = dict()
 
     for word in words:
+        if "word" in word.keys() and len(word["word"]) <= 2:
+            continue
+
         if "etymology_templates" not in word.keys():
             continue
 

@@ -5777,7 +5777,6 @@ arytenoidectomy -> arytenoid
 arytenoiditis -> arytenoid
 arytenoidopexy -> arytenoid
 arzawan -> arzawa
-as -> a
 asaphic -> asaph
 asatruan -> asatru
 asatruism -> asatru
@@ -13047,8 +13046,8 @@ burlesquely -> burlesque
 burlesqueness -> burlesque
 burlesquer -> burlesque
 burlike -> bur
-burlily -> burl
-burliness -> burl
+burlily -> bow
+burliness -> bow
 burlingamer -> burlingame
 burlington -> burling
 burly -> bow
@@ -22022,7 +22021,7 @@ cowles -> cole
 cowlessness -> cowless
 cowlet -> kye
 cowley -> kye
-cowleyan -> kye
+cowleyan -> coal
 cowlicked -> cowlick
 cowlike -> kye
 cowling -> kye
@@ -32993,7 +32992,6 @@ erythroplakic -> erythroplakia
 erythropoietic -> erythropoiesis
 erythroxyline -> erythroxylon
 erzyan -> erzya
-es -> e
 esanland -> esan
 esaprazole -> hex
 escalader -> escalade
@@ -51521,7 +51519,6 @@ irvingism -> irving
 irvingite -> irving
 irvington -> irving
 irwinton -> irwin
-is -> i
 isaacson -> isaac
 isabelline -> isabella
 isagogically -> isagogic
@@ -51597,7 +51594,7 @@ ismaelite -> ismael
 ismailism -> ismail
 ismailist -> ismail
 ismailite -> ismail
-isness -> i
+isness -> is
 isoantigenic -> isoantigen
 isobaric -> isobar
 isobarically -> isobar
@@ -63242,8 +63239,7 @@ mozartian -> mozart
 mozillian -> mozilla
 mpumalangan -> mpumalanga
 mroseite -> mrose
-ms -> m
-mser -> m
+mser -> ms
 mstability -> mst
 mstable -> mst
 mster -> mst
@@ -68470,7 +68466,6 @@ oryctognostically -> oryctognostic
 oryctologic -> oryctology
 oryctologist -> oryctology
 oryzin -> oryzae
-os -> o
 osakan -> osaka
 oscared -> oscar
 oscarlike -> oscar
@@ -72624,7 +72619,7 @@ phillipson -> phillip
 phillygenin -> phillyrea
 phillyrin -> phillyrea
 philmont -> phillip
-philmonter -> phillip
+philmonter -> philip
 philogenitiveness -> philogenitive
 philogynistic -> philogynist
 philologaster -> philology
