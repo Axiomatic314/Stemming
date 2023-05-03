@@ -3929,7 +3929,6 @@ arytenoid: arytenoidal arytenoiditis
 arytenoidectomi: arytenoidectomy 
 arytenoidopexi: arytenoidopexy 
 arzawan: arzawan 
-as: as 
 asaph: asaphic 
 asatruan: asatruan 
 asatru: asatruism 
@@ -24069,7 +24068,6 @@ erythroplak: erythroplakic
 erythropoiet: erythropoietic 
 erythroxylin: erythroxyline 
 erzyan: erzyan 
-es: es 
 esanland: esanland 
 esaprazol: esaprazole 
 escalad: escalader 
@@ -37540,7 +37538,6 @@ irving: irvingism
 irvingit: irvingite 
 irvington: irvington 
 irwinton: irwinton 
-is: is isness 
 isaacson: isaacson 
 isabellin: isabelline 
 isagog: isagogically 
@@ -37596,6 +37593,7 @@ ismaelit: ismaelite
 ismail: ismailism 
 ismailist: ismailist 
 ismailit: ismailite 
+is: isness 
 isoantigen: isoantigenic 
 isobar: isobaric isobarically isobaricity 
 isobath: isobathic 
@@ -46626,7 +46624,6 @@ mozartian: mozartian
 mozillian: mozillian 
 mpumalangan: mpumalangan 
 mroseit: mroseite 
-ms: ms 
 mser: mser 
 mstabil: mstability 
 mstabl: mstable 
@@ -50521,7 +50518,6 @@ oryctognost: oryctognostically
 oryctolog: oryctologic 
 oryctologist: oryctologist 
 oryzin: oryzin 
-os: os 
 osakan: osakan 
 oscar: oscared 
 oscarlik: oscarlike 
