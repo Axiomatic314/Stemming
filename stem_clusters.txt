@@ -75,7 +75,6 @@ academical academicalism academically academicals academicness academism academi
 academicism academicization academicize 
 acadian acadianness 
 acanthological acanthology 
-adenoides cysticum: acanthoma adenoides cysticum 
 acaricidal acaricide 
 accedence acceder 
 accelerant acceleratedly acceleratingly acceleration accelerational accelerator 
@@ -101,7 +100,6 @@ accompaniable accompanier accompaniment
 accomplishable accomplished accomplisher accomplishment 
 accordance accordant accordantly accorder according accordingly 
 accoster accostment 
-man: account man 
 accountability accountable accountableness accountably accountancy accountant accounter accounting accountment 
 accreditable accreditation accreditational accredited accredition accreditive accreditment 
 accreter accretional accretionally accretive 
@@ -127,7 +125,6 @@ acidophil acidophile acidophilic acidophilicity
 acidulously acidulousness 
 acknowledgeable acknowledgedly acknowledger acknowledging acknowledgment 
 aconital aconitate aconitic 
-acid: aconitic acid 
 acontextuality acontextually 
 acoustically acousticness acoustics 
 acquaintance acquaintant 
@@ -342,13 +339,11 @@ albumenization albumenize albumenizer
 albuminate albuminization albuminous albuminousness 
 alchemist alchemistic 
 alcoholate alcoholic alcoholically alcoholicity alcoholism alcoholization alcoholize 
-acid: aldehydic acid 
 aldermanate aldermanic aldermanity aldermanly 
 aldol aldolate aldolic aldolization 
 aldonate aldonic 
 alecied alecy 
 alembicated alembication 
-acid: alendronic acid 
 alertable alertly alertness 
 alethiological alethiologically 
 alexandrian alexandrianism 
@@ -357,7 +352,6 @@ algebraizability algebraizable
 algerian algerianize algerianness 
 algicidal algicide 
 algidity algidness 
-acid: alginic acid 
 algometric algometrical 
 algorithmic algorithmically algorithmics algorithmization algorithmize 
 algorithmizability algorithmizable 
@@ -561,7 +555,6 @@ anklet ankleted
 annalist annalistic 
 annalize annalled 
 annamite annamitic 
-roy: annapolis royal 
 annealable annealer annealment 
 annexable annexational annexer annexment 
 annexationist annexationistic 
@@ -937,7 +930,6 @@ australize australly
 austrian austrianism austrianization austrianize austrianness 
 autapomorphic autapomorphically 
 autarkic autarkical autarkically 
-dipp: autem dipper 
 authentical authentically authenticate authenticator authenticity authenticly authenticness 
 authenticalness authenticism authenticize 
 authorable authorism authorization authorizedly authorizer authorly 
@@ -1022,7 +1014,6 @@ babykin babykins
 babylonically babylonism babylonize 
 babyproof babyproofed babyproofer babyproofing 
 bacchanalian bacchanalianism 
-handbag: bachelor's handbag 
 bachelorism bachelorize bachelorly 
 bacillicidal bacillicide 
 backbiter backbiting backbitingly 
@@ -1222,7 +1213,6 @@ belligerence belligerently
 bellowser bellowsful 
 belonger belonging belongingly 
 beloved belovingly 
-bodi: beltian body 
 bemoanable bemoaner bemoaningly 
 bemusedly bemusement bemusingly 
 benchmarkable benchmarker 
@@ -1241,7 +1231,6 @@ benthamic benthamism
 benthic benthically 
 bentonite bentonitic bentonitization 
 benumber benumbingly benumbment 
-acid: benzilic acid 
 benzoyl benzoylation 
 benzylated benzylating benzylation benzylic 
 bequeathable bequeathal bequeather bequeathment 
@@ -1370,7 +1359,6 @@ bittiness bitty
 bivariantly bivariately 
 bizarrely bizarreness 
 blackbirder blackbirding 
-warbl: blackburnian warbler 
 blacken blackened blackener blackening blackenization blackenize 
 blackguardism blackguardize blackguardly 
 blackish blackishly blackishness 
@@ -1523,9 +1511,7 @@ bosnian bosnianness
 bosonic bosonization bosonize 
 bosonisation bosonise 
 bossiness bossy 
-p: bossy pants 
 bostoner bostonization bostonize 
-acid: boswellic acid 
 boswellism boswellize boswellizer 
 botanical botanically botanize botanizer 
 botcher botcherly 
@@ -1648,7 +1634,6 @@ bruisability bruisable bruisably
 bruising bruisingly 
 brumous brumously 
 bruneian bruneianness 
-link: brunnian link 
 brunonian brunonianism 
 brushability brushable 
 brushful brushingly 
@@ -1668,7 +1653,6 @@ buckish buckishly buckishness
 buckle buckling 
 buddhist buddhistic buddhistically 
 budgeteer budgeter budgetize 
-frog: budgett's frog 
 bufferable bufferize 
 buffeted buffeter 
 buffoonic buffoonism buffoonly 
@@ -1687,7 +1671,6 @@ bulletproof bulletproofness
 bulliness bullying bullyingly 
 bullioned bullionism bullionize 
 bullish bullishly bullishness 
-heart: bullock's heart 
 bumble bumblingly bumbly 
 bumpfired bumpfiring 
 bumpiness bumpy 
@@ -1792,7 +1775,6 @@ campability campable
 campaigner campaigning 
 campanologic campanological campanologically 
 campful campness 
-acid: camphretic acid 
 campiness campy 
 campward campwards 
 canaanic canaanism 
@@ -1816,7 +1798,6 @@ canonical canonicality canonically canonicity canonization canonize
 canonicalization canonicalize canonicalness 
 canonist canonistic 
 canorously canorousness 
-acid: canrenoic acid 
 cantankerously cantankerousness 
 canter canterer 
 canterburian canterburianism 
@@ -2180,7 +2161,6 @@ churchward churchwards
 churlish churlishly churlishness 
 churnful churningly 
 chylific chylification 
-acid: cichoric acid 
 cimmerian cimmerianism cimmerianize 
 cinchonic cinchonism cinchonize 
 cineastic cineastically 
@@ -2408,7 +2388,6 @@ colourist colouristic colouristical colouristically
 colourlessly colourlessness 
 colposcopic colposcopically 
 coltish coltishly coltishness 
-acid: columbic acid 
 columnal columned columnization columnize 
 columnar columnarity columnarize 
 comatose comatosely comatoseness 
@@ -2910,7 +2889,6 @@ credulity credulously credulousness
 creeper creepered 
 creepiness creepy 
 creeping creepingly 
-crawl: creepy crawler 
 cremation cremator 
 crenellate crenellation crenelled 
 creolisation creolise 
@@ -2982,7 +2960,6 @@ crystalloid crystalloidal crystalloidally
 ctenophoric ctenophorous 
 cuban cubane cubanism cubanization cubanize cubanness 
 cubbish cubbishly cubbishness 
-acid: cubebic acid 
 cubeful cubing 
 cubically cubicalness cubicity 
 cubicled cubiclize 
@@ -3095,7 +3072,6 @@ daffiness daffy
 daftie dafty 
 daftly daftness 
 dailiness daily 
-leatherbug: dalman's leatherbug 
 damageability damageable damageableness damageful damageous damager damaging damagingly 
 damascened damascener 
 damnability damnable damnableness damnably 
@@ -3613,7 +3589,6 @@ dishiness dishy
 dishonestly dishonestness 
 dishonorableness dishonorably dishonorer 
 dishonourableness dishonourably dishonourer 
-proof: dishwasher proof 
 disinfectable disinfectant 
 disinformational disinformer 
 disingenuously disingenuousness 
@@ -3726,7 +3701,6 @@ dixieland dixielander
 dizzard dizzardly 
 dizziness dizzyingly 
 do-nothingism do-nothingness 
-telescop: dobsonian telescope 
 docilely docileness 
 dockisation dockise 
 dockization dockize 
@@ -4049,7 +4023,6 @@ eightieth eightiethly
 ejaculative ejaculator 
 ejectability ejectable ejective ejectively ejectment 
 ekeing eking 
-stupido: el stupido 
 elaborately elaborateness elaboration elaboratively elaborativeness elaborator 
 elamite elamitic 
 elastance elastically elasticate elastication elasticity elasticness 
@@ -4169,7 +4142,6 @@ enantiomorphically enantiomorphous enantiomorphously
 encasement encaser 
 encashable encashment 
 encephalitogen encephalitogenous 
-quoti: encephalization quotient 
 encephalographic encephalographically 
 enchantable enchantedly enchanter enchantingly 
 encipherer encipherment 
@@ -4710,7 +4682,6 @@ fallacious fallaciously fallaciousness
 fallen fallenness 
 fallibilist fallibilistically 
 fallibility fallibleness fallibly 
-tub: fallopian tube 
 fallower fallowness 
 falsed falseful falsefully falsely falseness falsing 
 falsen falsening 
@@ -4915,9 +4886,7 @@ firie firy
 firmly firmness 
 first firstly firstness 
 fiscalism fiscally 
-chameleon: fischer's chameleon 
 fishability fishable 
-loop: fisherman's loop 
 fishful fishing fishingly fishly 
 fishie fishiness fishy 
 fissileness fissility 
@@ -5056,7 +5025,6 @@ folkish folkishly folkishness
 folkloric folklorically folkloricness 
 folklorist folkloristic folkloristically folkloristics 
 folksiness folksy 
-challeng: follicly challenged 
 followability followable follower followingly 
 fomentation fomenter 
 fond fondly fondness 
@@ -5306,7 +5274,6 @@ galactosyl galactosylate
 galenic galenical galenically galenism 
 galician galicianness 
 galilean galileanism 
-telescop: galilean telescope 
 gallantize gallantly gallantness 
 galliardly galliardness 
 gallic gallicization gallicize gallicizer gallicness 
@@ -5448,7 +5415,6 @@ gestalter gestaltic gestaltism
 gestational gestationally 
 gesticulatingly gesticulative gesticulatively 
 gesturable gestural gesturalism gesturality gesturally gesturalness gesturement gesturer gesturingly 
-rich quick: get rich quicker 
 geyseral geyseric 
 ghanaian ghanaianism ghanaianization ghanaianize ghanaianness 
 ghastful ghastfully ghastfulness ghastness 
@@ -5497,7 +5463,6 @@ glandular glandularly
 glandulously glandulousness 
 glariness glary 
 glassiness glassy 
-acid: glaucic acid 
 glauconitic glauconitization 
 glaucously glaucousness 
 glazedly glazing 
@@ -5538,7 +5503,6 @@ glovelessly glovelessness
 glower glowerer gloweringly 
 glowie glowiness glowy 
 glucosamine glucosaminic 
-acid: glucosaminic acid 
 glucosidal glucosidation glucoside glucosidic 
 glucosyl glucosylation 
 glucuronidate glucuronidation 
@@ -5606,7 +5570,6 @@ gothic gothically gothicism gothicity gothicize gothicness
 gothiness gothy 
 gothish gothishness 
 gotlander gotlandic 
-finch: gouldian finch 
 gourmandism gourmandizer 
 goutiness gouty 
 governability governable governableness governably governate governingly government 
@@ -5748,8 +5711,6 @@ gullibility gullible gullibleness gullibly
 gullish gullishly gullishness 
 gulpful gulping gulpingly 
 gumminess gummy 
-lin: gunter's line 
-scal: gunter's scale 
 gushiness gushy 
 gustful gustfully gustfulness 
 gustiness gusty 
@@ -5839,7 +5800,6 @@ harborer harborful harborous
 harborward harborwards 
 harbourer harbourful 
 harden hardenability hardenable hardener 
-gland: harderian gland 
 hardly hardness 
 haredization haredize 
 haremic haremism 
@@ -5923,7 +5883,6 @@ hebraization hebraize hebraizer
 hectically hecticity hecticness 
 hectorer hectoring hectoringly hectorism hectorly 
 hedenbergite hedenbergitic 
-acid: hederic acid 
 hedgeward hedgewards 
 hedgie hedgy 
 hedonistic hedonistically 
@@ -5962,7 +5921,6 @@ hematological hematologically
 hemispheric hemispherically 
 hemoglobinization hemoglobinize hemoglobinous 
 hemorrhagic hemorrhagically 
-strok: hemorrhagic stroke 
 hempie hempy 
 hennish hennishly hennishness 
 henotheistic henotheistically 
@@ -6128,7 +6086,6 @@ homozygously homozygousness
 honestly honestness 
 honeyed honeyedly honeyful 
 honeysuckle honeysuckled 
-tonk-lik: honky tonk-like 
 honorability honorable honorableness honorably honorer 
 honorifical honorifically 
 honourability honourableness honourably honourer honourous 
@@ -7009,7 +6966,6 @@ irrevocability irrevocableness irrevocably
 irrigable irrigably irrigational irrigator 
 irritableness irritably irritancy irritatedly irritatingly irritational irritative irritativeness irritator 
 irrotationality irrotationally 
-is isness 
 islamic islamically islamicate islamication islamicness islamics islamism islamization islamize islamizer islamness 
 islamicism islamicization islamicize 
 islamisation islamise 
@@ -7153,7 +7109,6 @@ judaic judaically
 judgeful judgely judgingly 
 judgemental judgementally 
 judgment judgmental judgmentalism judgmentally 
-mcjudgerson: judgy mcjudgerson 
 judicialization judicialize judicially judicialness judiciously judiciousness 
 juggling jugglingly 
 juiciness juicy 
@@ -7201,7 +7156,6 @@ kemetic kemetism
 kenyan kenyanism kenyanization kenyanize kenyanness 
 keratinic keratinization keratinize keratinous 
 keratinisation keratinise 
-acid: kermesic acid 
 kerned kerning 
 kernel kernelate kernelization kernelize kernelled 
 keswick keswickism 
@@ -7306,7 +7260,6 @@ laconicalness laconicism
 lacquerable lacquerer 
 lactate lactation lactational lactationally lactator 
 lactiferous lactiferousness 
-acid: lactobacillic acid 
 lactonic lactonization 
 lactyl lactylate 
 lacunose lacunosity 
@@ -7315,7 +7268,6 @@ laddish laddishly laddishness
 ladied ladiness 
 ladle ladleful 
 ladylike ladylikely ladylikeness 
-up: lagered up 
 laggard laggardism laggardly laggardness 
 lagginess laggy 
 lagoonward lagoonwards 
@@ -7629,7 +7581,6 @@ lockability lockable
 lockean lockeanism 
 lockful lockingly 
 lockie lockiness locky 
-d: locky d 
 lodgeful lodging 
 loftiness lofty 
 logarithmal logarithmancy logarithmic logarithmically logarithmize 
@@ -7644,7 +7595,6 @@ londoner londonful londonism londonization londonize
 londonward londonwards 
 lonely loneness 
 lonesome lonesomely lonesomeness 
-distanc: long distancer 
 long-termism long-termly long-termness 
 longboarder longboarding 
 longie longies longy 
@@ -7882,7 +7832,6 @@ marined marinism marinization marinize
 mariological mariology 
 maritality maritally 
 maritimal maritimely maritimization 
-twainish: mark twainish 
 marked markedly marking 
 marketability marketable marketableness marketably marketeer marketeering marketer marketful marketization marketize marketizer 
 marketisation marketise 
@@ -8002,7 +7951,6 @@ mediterraneanism mediterraneanize mediterraneanness
 mediumic mediumism mediumize mediumly 
 mediumist mediumistic mediumistically 
 medize medizer 
-acid: medronic acid 
 medullated medullitis medullization 
 meekish meekishly 
 meekly meekness 
@@ -8014,7 +7962,6 @@ meibomian meibomianitis
 melanate melanated melanism melanization melanize 
 melancholic melancholically melancholize 
 melancholiness melancholiously 
-acid: melilotic acid 
 melioristic melioristically 
 melismatic melismatically 
 mellifluently mellifluously mellifluousness 
@@ -8159,7 +8106,6 @@ microtonalism microtonality microtonally
 microwavable microwaveable 
 middleness middling middlingly middlings 
 midgetism midgetly midgetness 
-hitch: midshipman's hitch 
 miffiness miffy 
 mightful mightly 
 mightiness mighty 
@@ -8398,7 +8344,6 @@ moravian moravianism moravianize
 morbidize morbidly morbidness 
 morcellation morcellator 
 moribundity moribundly moribundness 
-acid: moringic acid 
 morisonian morisonianism 
 mormonisation mormonise 
 mormonism mormonization mormonize mormonness 
@@ -8422,7 +8367,6 @@ mosqued mosqueful mosqueing
 mossiness mossy 
 mostly mostness 
 mothballer mothbally 
-milk: mother's milk 
 mothered motherer motherful motheringly motherism motherly motherment motherness 
 motheriness mothery 
 motherkin motherkins 
@@ -8581,12 +8525,10 @@ nakedize nakedness
 nameability nameable nameableness nameably 
 namelessly namelessness 
 namibian namibianness 
-p: nancy pants 
 nanodosimetric nanodosimetrically 
 naphthalate naphthalic 
 naphthalene naphthalenic 
 naphthenate naphthene naphthenic 
-acid: naphthenic acid 
 napkin napkinned 
 napoleonic napoleonically napoleonism napoleonize 
 nappiness nappy 
@@ -8632,7 +8574,6 @@ nearly nearness
 neatly neatness 
 nebbie nebby 
 nebraskan nebraskanic 
-acid: nebraskanic acid 
 nebular nebularization nebularize 
 nebulization nebulizer nebulously nebulousness 
 necessitatedly necessitatingly necessitation necessitative necessitously necessitousness 
@@ -8686,7 +8627,6 @@ nestorian nestorianize nestorianizer
 netballer netballing 
 netcast netcaster 
 netful netting 
-wyresdal: nether wyresdale 
 netherlander netherlandic 
 netherward netherwards 
 netnographer netnographic netnographical netnographically 
@@ -8710,7 +8650,6 @@ neutralizability neutralizable
 neutralophile neutralophilic 
 neutrinosphere neutrinospheric 
 neutron neutronic neutronics neutronization 
-model: new modelize 
 newbieness newby 
 newel neweled newelled 
 newfangledly newfanglement 
@@ -8817,7 +8756,6 @@ normlessly normlessness
 normoxic normoxically 
 norse norseness 
 norseland norselander 
-tawton: north tawton 
 northeastward northeastwardly 
 norther northerly 
 northern northerner northernism northernization northernize northernly northernness 
@@ -8852,7 +8790,6 @@ notoriously notoriousness
 noumenal noumenality noumenalize noumenally 
 nounal nounally 
 nouniness nouny 
-pronoun: nounself pronoun 
 nourishable nourisher nourishingly 
 novelise noveliser 
 novelism novelization novelize novelizer novelness 
@@ -9042,7 +8979,6 @@ one's oneness
 onefold onefoldness 
 oner onerously onerousness 
 onesie onesied onesies 
-a: onionin a 
 onliness only 
 onomasiological onomasiologically 
 onomatopoeic onomatopoeically 
@@ -9499,7 +9435,6 @@ peatiness peaty
 peckiness pecky 
 peckish peckishly peckishness 
 pectocellulose pectocellulosic 
-acid: pectosic acid 
 peculiarism peculiarity peculiarization peculiarize peculiarly peculiarness 
 pedagogical pedagogically 
 pedaler pedality pedaller pedally 
@@ -9807,7 +9742,6 @@ piquantly piquantness
 piratable pirately pirater piratic piratically 
 piscicultural pisciculturally 
 pissiness pissy 
-dark: pitch darkness 
 pitcher pitcherful 
 pitchiness pitchy 
 piteously piteousness 
@@ -9856,7 +9790,6 @@ plannability plannable
 plantar plantarly 
 planted plantly 
 planter planterful 
-wart: planter's wart 
 plasmablast plasmablastic 
 plasmacyte plasmacytic 
 plasmasphere plasmaspheric 
@@ -10172,7 +10105,6 @@ preservability preservable preservation preservational preserver preservingly
 presettable presetter 
 presidentiable presidential presidentialism presidentiality presidentially presidentialness 
 pressful pressingly 
-beam: pressor beam 
 pressural pressurer pressurization pressurize pressurizer 
 pressurisation pressurise 
 prestiged prestigeful 
@@ -10222,7 +10154,6 @@ princessliness princessly
 principalism principality principally principalness 
 principled principledly principlism 
 printability printable printableness 
-hat: printer's hat 
 printworthiness printworthy 
 prioritarian prioritarianism 
 prioritization prioritize prioritizer 
@@ -10409,7 +10340,6 @@ psychopathological psychopathologically psychopathologize
 psychopharmacologic psychopharmacological psychopharmacologically 
 psychotic psychotically 
 pterygial pterygiate 
-system: ptolemaic system 
 pubbiness pubby 
 puberulently puberulously 
 pubic pubically pubicly 
@@ -10980,7 +10910,6 @@ republicism republicize
 repudiatingly repudiation repudiator 
 repugnable repugnancy repugnantly repugnantness repugner 
 repulser repulsingly repulsively repulsiveness 
-beam: repulsor beam 
 repurposability repurposable repurposer 
 reputability reputable reputableness reputably reputational reputationally reputatively reputedly 
 requestable requester requestive 
@@ -11135,7 +11064,6 @@ rhinologic rhinological
 rhinoscopic rhinoscopically 
 rhizomatic rhizomatically rhizomatously 
 rhizomed rhizomic 
-acid: rhodeoretinic acid 
 rhodesian rhodesianness 
 rhombically rhombicity 
 rhomboidally rhomboidly 
@@ -11218,7 +11146,6 @@ rodenticidal rodenticide
 roentgenographer roentgenographically 
 roentgenological roentgenologically roentgenology 
 roguish roguishly roguishness 
-out: roided out 
 roisterer roisteringly roisterly roisterous roisterously 
 rollability rollable 
 roller rollered 
@@ -11281,7 +11208,6 @@ rubberiness rubbery
 rubbing rubbingly 
 rubbisher rubbishly rubbishness 
 rubbled rubbly 
-acid: rubianic acid 
 rubrical rubrically rubrication rubricator rubricism rubricity 
 ruched ruching 
 rudderlessly rudderlessness 
@@ -11457,7 +11383,6 @@ scalarization scalarize scalarly
 scalding scaldingly 
 scalie scaliness scaly 
 scalloped scalloper 
-acid: scammonic acid 
 scamper scamperer scamperingly 
 scampish scampishly scampishness 
 scandalise scandaliser 
@@ -11470,7 +11395,7 @@ scapegoatable scapegoater scapegoatism
 scapolitic scapolitize 
 scarcely scarceness 
 scared scaredly scareful scaringly 
-p: scaredy pant scaredy pants 
+scaredy pant scaredy pants 
 scarified scarifier scarifyingly 
 scariness scary 
 scarlatinal scarlatinous 
@@ -11643,7 +11568,6 @@ selflessly selflessness
 selfward selfwards 
 sellability sellable sellably 
 sellarsian sellarsianism 
-a: selligueain a 
 semantical semantically semanticity 
 semanticism semanticization semanticize 
 semaphoric semaphorically 
@@ -12078,7 +12002,6 @@ smallie smally
 smallish smallishness 
 smarminess smarmy 
 smartful smarting smartingly smartly smartness 
-p: smarty pants 
 smashed smashing smashingly 
 smatterer smattering smatteringly 
 smeariness smeary 
@@ -12144,7 +12067,6 @@ snootiness snooty
 snooziness snoozy 
 snorkeler snorkeller 
 snottie snottiness snotty 
-cross: snowboard cross 
 snowboardable snowboarder 
 snowiness snowy 
 snowman snowmanness 
@@ -12466,7 +12388,6 @@ squirminess squirmy
 squirtiness squirty 
 squishable squishably 
 squishiness squishy 
-martinvill: st. martinville 
 stabilizability stabilizable 
 stabilization stabilize stabilizer 
 stableful stableness 
@@ -12505,7 +12426,6 @@ starchedly starchly starchness
 starchiness starchy 
 staree staringly 
 starful starly starred 
-pi: stargazy pie 
 starkly starkness 
 starlessly starlessness 
 starlike starlikeness 
@@ -12809,7 +12729,6 @@ sulphided sulphidic
 sulphurate sulphurator sulphureity sulphurity sulphurization sulphurously sulphurousness 
 sultanate sultanic 
 sultriness sultry 
-acid: sumbulic acid 
 sumerian sumerianism 
 sumerological sumerology 
 summability summable 
@@ -12936,7 +12855,6 @@ sweatiness sweaty
 sweatshirted sweatshirting 
 swedenborgian swedenborgianism 
 swedish swedishly swedishness 
-anni: sweet annie 
 sweeten sweetened sweetener 
 sweetful sweetfully sweetfulness sweeting sweetly sweetness 
 sweetie sweety 
@@ -13204,7 +13122,6 @@ terminological terminologically terminologization
 termital termitic 
 termiticidal termiticide 
 termlessly termlessness 
-acid: terpenylic acid 
 terraceward terracewards 
 terraform terraformer 
 terran terraneous 
@@ -13265,7 +13182,6 @@ thelarchal thelarcheal
 thelemic thelemically 
 thematic thematically thematizer 
 thematicization thematicize 
-acid: theobromic acid 
 theocentrically theocentricity 
 theocratic theocratical theocratically theocratism theocratization 
 theolog theologic theological theologically theologizer 
@@ -13361,7 +13277,6 @@ tigerish tigerishly tigerishness
 tigerism tigerly 
 tighten tightenable tightener tighteningly 
 tightly tightness 
-wh: tighty whities 
 tileability tileable 
 tiltability tiltable 
 timbered timbering 
@@ -14527,7 +14442,6 @@ vampirist vampiristic vampiristically
 vampirological vampirology 
 vampish vampishly vampishness 
 vanadate vanadic vanadous 
-mag: vancian magic 
 vandalic vandalically vandalization vandalize vandalizer vandalous vandalously 
 vandalise vandaliser 
 vandalist vandalistic vandalistically 
@@ -14666,7 +14580,6 @@ vinegared vinegarer
 vinegariness vinegary 
 vinegarish vinegarishly vinegarishness 
 vinicultural viniculturally 
-collapso: vino collapso 
 vinously vinousness 
 vinylated vinylation vinylic 
 violableness violably 
@@ -14829,10 +14742,8 @@ waterfowler waterfowling
 wateriness watery 
 waterish waterishly waterishness 
 waterlessly waterlessness 
-knot: waterman's knot 
 waterproof waterproofer waterproofness 
 waterward waterwards 
-hairstreak: watson's hairstreak 
 waveful wavingly 
 wavelessly wavelessness 
 waverable waverer wavering waveringly 
@@ -14925,7 +14836,6 @@ wholesalely wholesaleness wholesaler
 wholesome wholesomely wholesomeness 
 wholist wholistic wholistically 
 whoopingly whoops 
-paint: whore's paint 
 whorfian whorfianism 
 whorish whorishly whorishness 
 wiccan wiccaning wiccanism wiccanize wiccanness 
@@ -15122,7 +15032,6 @@ zairean zaireanization
 zairian zairianization 
 zambian zambianness 
 zappiness zappy 
-acid: zaragozic acid 
 zarathustrian zarathustrianism 
 zealander zealandic 
 zealed zealful 
@@ -15151,7 +15060,6 @@ zippiness zippy
 zirconate zirconated zirconation zirconic 
 zoisitic zoisitization 
 zolaist zolaistic 
-acid: zoledronic acid 
 zombic zombically 
 zombied zombieness 
 zombifier zombify 
