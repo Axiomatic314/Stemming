@@ -1,6 +1,7 @@
 import sys
 import os
-import nltk.metrics.distance as distance
+from nltk.metrics import edit_distance, jaccard_distance
+import numpy as np
 
 def create_clusters(filename):
     cluster_list = list()
@@ -13,11 +14,10 @@ def create_clusters(filename):
     #Find which words map to the same stem
     for word, stem in stem_pairs:
         if stem not in stem_clusters.keys():
-            stem_clusters[stem] = list()
-        stem_clusters[stem].append(word)
+            stem_clusters[stem] = set()
+        stem_clusters[stem].add(word)
     #Get list of the clusters
     for stem in stem_clusters:
-        cluster = list()
         cluster = stem_clusters[stem]
         cluster_list.append(cluster)
     return cluster_list, stem_pairs
@@ -29,10 +29,11 @@ def get_clusters(filename):
             cluster = list()
             cluster = line.split()
             cluster.pop(0)
+            cluster = set(cluster)
             cluster_list.append(cluster)
     return cluster_list
 
-def print_size_distribution(clusters, filename):
+def write_size_distribution(clusters, filename):
     cluster_sizes = dict()
     for cluster in clusters:
         size = len(cluster)
@@ -45,21 +46,30 @@ def print_size_distribution(clusters, filename):
         for size in cluster_sizes:
             f.write("(" + str(size) + ", " + str(cluster_sizes[size]) + ")\n")
 
-def print_clusters(clusters, filename):
+def write_clusters(clusters, filename):
     with open(filename, "w", encoding="utf-8") as f:
         for cluster in clusters:
             for word in cluster:
                 f.write(word + " ")
             f.write("\n")
 
-def measure_word_accuracy(wikt_pairs, stem_pairs):
-    scores = list()
+def write_word_distances(wikt_pairs, stem_pairs, filename):
+    distances = list()
+    distance_distribution = dict()
     for i in range (0, len(stem_pairs)):
-        #may want to add more of a penalty to substitions??
-        scores.append(distance.edit_distance(wikt_pairs[i][1], stem_pairs[i][1]))
-    #return an average
-    
-
+        distance = edit_distance(wikt_pairs[i][1], stem_pairs[i][1], substitution_cost=3)
+        distances.append(distance)
+        if distance not in distance_distribution.keys():
+            distance_distribution[distance] = 0
+        distance_distribution[distance]+=1
+    distance_distribution = dict(sorted(distance_distribution.items()))
+    mean = np.mean(distances)
+    median = np.median(distances)
+    print("Average distance between stems from wiktionary and the algorithm:")
+    print(f"Mean: {mean}\nMedian: {median}", file = sys.stderr)
+    with open(filename, "w", encoding="utf-8") as f:
+        for distance in distance_distribution:
+            f.write("(" + str(distance) + ", " + str(distance_distribution[distance]) + ")\n")
 
 def measure_cluster_accuracy(wikt_clusters, stem_clusters):
     #determine the accuracy of the clusters....
@@ -82,8 +92,8 @@ def main():
     print(f"Total clusters for the wiktionary: {len(wikt_clusters)}", file=sys.stderr)
 
     # Get the distribution of cluster sizes 
-    print_size_distribution(stem_clusters, "stem_distribution")
-    print_size_distribution(wikt_clusters, "wikt_distribution")
+    write_size_distribution(stem_clusters, "stem_distribution")
+    write_size_distribution(wikt_clusters, "wikt_distribution")
 
     #Remove clusters with only one element
     stem_clusters[:] = [x for x in stem_clusters if len(x) > 1]
@@ -92,9 +102,9 @@ def main():
     print(f"Clusters for the wiktionary with length > 1: {len(wikt_clusters)}", file=sys.stderr)
 
     #Included for testing
-    print_clusters(wikt_clusters, "wikt_clusters.txt")
-    print_clusters(stem_clusters, "stem_clusters.txt")
-
+    write_clusters(wikt_clusters, "wikt_clusters.txt")
+    write_clusters(stem_clusters, "stem_clusters.txt")
+    write_word_distances(wikt_pairs, stem_pairs, "word_distances.txt")
 
 
 if __name__ == "__main__":
