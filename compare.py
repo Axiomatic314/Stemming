@@ -1,7 +1,8 @@
 import sys
 import os
-from nltk.metrics import edit_distance, jaccard_distance
+from nltk.metrics import edit_distance, jaccard_distance, f_measure, precision, recall
 import numpy as np
+from collections import Counter
 
 def create_clusters(filename):
     cluster_list = list()
@@ -65,15 +66,55 @@ def write_word_distances(wikt_pairs, stem_pairs, filename):
     distance_distribution = dict(sorted(distance_distribution.items()))
     mean = np.mean(distances)
     median = np.median(distances)
-    print("Average distance between stems from wiktionary and the algorithm:")
+    print("Average distance between stems from wiktionary and the algorithm:", file=sys.stderr)
     print(f"Mean: {mean}\nMedian: {median}", file = sys.stderr)
     with open(filename, "w", encoding="utf-8") as f:
         for distance in distance_distribution:
             f.write("(" + str(distance) + ", " + str(distance_distribution[distance]) + ")\n")
 
 def measure_cluster_accuracy(wikt_clusters, stem_clusters):
-    #determine the accuracy of the clusters....
-    return 0
+    ref_clusters = set()
+    test_clusters = set()
+    for cluster in wikt_clusters:
+        temp = " ".join(cluster)
+        ref_clusters.add(temp)
+    for cluster in stem_clusters:
+        temp = " ".join(cluster)
+        test_clusters.add(temp)
+    print(f"Jaccard distance: {jaccard_distance(ref_clusters, test_clusters)}", file=sys.stderr)
+    print(f"F measure: {f_measure(ref_clusters, test_clusters)}", file=sys.stderr)
+    print(f"Precision: {precision(ref_clusters, test_clusters)}", file=sys.stderr)
+    print(f"Recall: {recall(ref_clusters, test_clusters)}", file=sys.stderr)
+
+def write_cluster_distances(wikt_clusters, stem_clusters, filename):
+    temp_clusters = stem_clusters.copy()
+    cluster_distances = list()
+    distance_distribution = dict()
+    for ref_cluster in wikt_clusters:
+        best_cluster = list()
+        # best_distance = 1.00
+        best_distance = 0
+        for cluster in temp_clusters:
+            # distance = jaccard_distance(ref_cluster, cluster)
+            distance = f_measure(ref_cluster, cluster)
+            if distance > best_distance:
+                best_distance = distance
+                best_cluster = cluster
+        if best_distance > 0:
+            temp_clusters.remove(best_cluster)
+        cluster_distances.append(best_distance)
+        best_distance = "{:.2f}".format(best_distance)
+        if best_distance not in distance_distribution.keys():
+            distance_distribution[best_distance] = 0
+        distance_distribution[best_distance]+=1
+    distance_distribution = dict(sorted(distance_distribution.items()))
+    print(f"Remaining clusters: {len(temp_clusters)}", file=sys.stderr)
+    print("Average distance between the clusterings:", file=sys.stderr)
+    print(f"Mean: {np.mean(cluster_distances)}\nMedian: {np.median(cluster_distances)}", file=sys.stderr)
+    with open(filename, "w", encoding="utf-8") as f:
+        for distance in distance_distribution:
+            f.write("(" + str(distance) + ", " + str(distance_distribution[distance]) + ")\n")
+
 
 def main():
     #todo: check if the necessary files are actually there
@@ -95,17 +136,27 @@ def main():
     write_size_distribution(stem_clusters, "stem_distribution")
     write_size_distribution(wikt_clusters, "wikt_distribution")
 
+    #Testing comparing both clusterings as sets themselves
+    print("Before removing singles:", file=sys.stderr)
+    measure_cluster_accuracy(wikt_clusters, stem_clusters)
+
     #Remove clusters with only one element
     stem_clusters[:] = [x for x in stem_clusters if len(x) > 1]
     wikt_clusters[:] = [x for x in wikt_clusters if len(x) > 1]
-    print(f"Clusters for the stemmer with length > 1: {len(stem_clusters)}", file=sys.stderr)
-    print(f"Clusters for the wiktionary with length > 1: {len(wikt_clusters)}", file=sys.stderr)
+    # print(f"Clusters for the stemmer with length > 1: {len(stem_clusters)}", file=sys.stderr)
+    # print(f"Clusters for the wiktionary with length > 1: {len(wikt_clusters)}", file=sys.stderr)
+
+    #Testing
+    print("After removing singles:", file=sys.stderr)
+    measure_cluster_accuracy(wikt_clusters, stem_clusters)
 
     #Included for testing
-    write_clusters(wikt_clusters, "wikt_clusters.txt")
-    write_clusters(stem_clusters, "stem_clusters.txt")
-    write_word_distances(wikt_pairs, stem_pairs, "word_distances.txt")
+    # write_clusters(wikt_clusters, "wikt_clusters.txt")
+    # write_clusters(stem_clusters, "stem_clusters.txt")
+    # write_word_distances(wikt_pairs, stem_pairs, "word_distances.txt")
 
+    #Find some measure of accuracy between the two clusterings
+    # write_cluster_distances(wikt_clusters, stem_clusters, "cluster_distances.txt")
 
 if __name__ == "__main__":
     main()
