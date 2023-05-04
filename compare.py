@@ -4,7 +4,7 @@ from nltk.metrics import edit_distance, jaccard_distance, f_measure, precision, 
 import numpy as np
 
 def create_clusters(filename):
-    cluster_list = list()
+    # cluster_list = list()
     stem_clusters = dict()
     stem_pairs = list()
     with open(filename, "r", encoding="utf-8") as f:
@@ -16,11 +16,22 @@ def create_clusters(filename):
         if stem not in stem_clusters.keys():
             stem_clusters[stem] = set()
         stem_clusters[stem].add(word)
-    #Get list of the clusters
-    for stem in stem_clusters:
-        cluster = stem_clusters[stem]
-        cluster_list.append(cluster)
-    return cluster_list, stem_pairs
+    # #Get list of the clusters
+    # for stem in stem_clusters:
+    #     cluster = stem_clusters[stem]
+    #     cluster_list.append(cluster)
+    return stem_clusters, stem_pairs
+
+def trim_clusters(wikt_clusters, stem_clusters):
+    clusters = set(wikt_clusters.keys())
+    for cluster in clusters:
+        if len(wikt_clusters[cluster]) == 1:
+            wikt_clusters.pop(cluster)
+    clusters = set(stem_clusters.keys())
+    for cluster in clusters:
+        if len(stem_clusters[cluster]) == 1:
+            stem_clusters.pop(cluster)
+    return wikt_clusters, stem_clusters
 
 def get_clusters(filename):
     cluster_list = list()
@@ -35,7 +46,7 @@ def get_clusters(filename):
 
 def write_size_distribution(clusters, filename):
     cluster_sizes = dict()
-    for cluster in clusters:
+    for cluster in clusters.values():
         size = len(cluster)
         if size in cluster_sizes.keys():
             cluster_sizes[size]+=1
@@ -48,7 +59,7 @@ def write_size_distribution(clusters, filename):
 
 def write_clusters(clusters, filename):
     with open(filename, "w", encoding="utf-8") as f:
-        for cluster in clusters:
+        for cluster in clusters.values():
             for word in cluster:
                 f.write(word + " ")
             f.write("\n")
@@ -74,10 +85,10 @@ def write_word_distances(wikt_pairs, stem_pairs, filename):
 def measure_cluster_accuracy(wikt_clusters, stem_clusters):
     ref_clusters = set()
     test_clusters = set()
-    for cluster in wikt_clusters:
+    for cluster in wikt_clusters.values():
         temp = " ".join(cluster)
         ref_clusters.add(temp)
-    for cluster in stem_clusters:
+    for cluster in stem_clusters.values():
         temp = " ".join(cluster)
         test_clusters.add(temp)
     print(f"Jaccard distance: {jaccard_distance(ref_clusters, test_clusters)}", file=sys.stderr)
@@ -86,10 +97,10 @@ def measure_cluster_accuracy(wikt_clusters, stem_clusters):
     print(f"Recall: {recall(ref_clusters, test_clusters)}", file=sys.stderr)
 
 def write_cluster_distances(wikt_clusters, stem_clusters, filename):
-    temp_clusters = stem_clusters.copy()
+    temp_clusters = list(stem_clusters.values())
     cluster_distances = list()
     distance_distribution = dict()
-    for ref_cluster in wikt_clusters:
+    for ref_cluster in wikt_clusters.values():
         best_cluster = list()
         best_distance = 1.00
         for cluster in temp_clusters:
@@ -137,8 +148,9 @@ def main():
     measure_cluster_accuracy(wikt_clusters, stem_clusters)
 
     #Remove clusters with only one element
-    stem_clusters[:] = [x for x in stem_clusters if len(x) > 1]
-    wikt_clusters[:] = [x for x in wikt_clusters if len(x) > 1]
+    # stem_clusters[:] = [x for x in stem_clusters if len(x) > 1]
+    # wikt_clusters[:] = [x for x in wikt_clusters if len(x) > 1]
+    wikt_clusters, stem_clusters = trim_clusters(wikt_clusters, stem_clusters)
     # print(f"Clusters for the stemmer with length > 1: {len(stem_clusters)}", file=sys.stderr)
     # print(f"Clusters for the wiktionary with length > 1: {len(wikt_clusters)}", file=sys.stderr)
 
