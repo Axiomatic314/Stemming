@@ -26,10 +26,7 @@ def measure_cluster_accuracy(wikt_pairs, wikt_clusters, stem_pairs, stem_cluster
         curr_label+=1
         best_cluster = ""
         best_distance = 1.00
-        count = 0
         for cluster in temp_clusters.keys():
-            count+=1
-            print(f"Processing {count}/{len(temp_clusters.keys())}")
             distance = jaccard_distance(wikt_clusters[ref_cluster], stem_clusters[cluster])
             if distance < best_distance:
                 best_distance = distance
