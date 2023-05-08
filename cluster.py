@@ -52,8 +52,8 @@ def label_clusters(wikt_pairs, wikt_clusters, stem_pairs, stem_clusters):
     logging.info("Writing labelled data to files...")
     stem_labels = np.array(stem_labels, dtype=np.int32)
     wikt_labels = np.array(wikt_labels, dtype=np.int32)
-    np.savetxt("wikt_labels.csv", wikt_labels)
-    np.savetxt("stem_labels.csv", stem_labels)
+    np.savetxt("Data/wikt_labels.csv", wikt_labels)
+    np.savetxt("Data/stem_labels.csv", stem_labels)
     logging.info("Saved labels!")
 
 def measure_clusters(wikt_labels, stem_labels):
