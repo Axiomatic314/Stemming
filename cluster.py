@@ -1,3 +1,5 @@
+import logging
+import numpy as np
 from nltk.metrics import jaccard_distance
 from sklearn.metrics.cluster import adjusted_mutual_info_score, adjusted_rand_score
 
@@ -15,7 +17,7 @@ def create_clusters(filename):
         stem_clusters[stem].add(word)
     return stem_clusters, stem_pairs
 
-def measure_cluster_accuracy(wikt_pairs, wikt_clusters, stem_pairs, stem_clusters):
+def label_clusters(wikt_pairs, wikt_clusters, stem_pairs, stem_clusters):
     wikt_labels = list()
     stem_labels = list()
     labels = dict()
@@ -23,6 +25,7 @@ def measure_cluster_accuracy(wikt_pairs, wikt_clusters, stem_pairs, stem_cluster
     #find the appropriate labels for the clusters
     curr_label = 0
     for ref_cluster in wikt_clusters.keys():
+        logging.info(f"Processing cluster {curr_label}/{len(wikt_clusters)}......")
         curr_label+=1
         best_cluster = ""
         best_distance = 1.00
@@ -35,22 +38,33 @@ def measure_cluster_accuracy(wikt_pairs, wikt_clusters, stem_pairs, stem_cluster
             temp_clusters.pop(best_cluster)
             labels[best_cluster] = curr_label
         labels[ref_cluster] = curr_label
+    logging.info("Finished processing clusters.... Now assigning labels...")
     #make lists of the stems as labels
     for word, stem in wikt_pairs:
         wikt_labels.append(labels[stem])
+    logging.info("Finished Wiktionary labels...")
     for word, stem in stem_pairs:
         if stem in labels.keys():
             stem_labels.append(labels[stem])
         else:
             stem_labels.append(0)
-    #find the ami
+    logging.info("Finished stemmer...")
+    logging.info("Writing labelled data to files...")
+    stem_labels = np.array(stem_labels, dtype=np.int32)
+    wikt_labels = np.array(wikt_labels, dtype=np.int32)
+    np.savetxt("wikt_labels.csv", wikt_labels)
+    np.savetxt("stem_labels.csv", stem_labels)
+    logging.info("Saved labels!")
+
+def measure_clusters(wikt_labels, stem_labels):
+    logging.info("Calculating AMI...")
     print(f"AMI: {adjusted_mutual_info_score(wikt_labels, stem_labels)}")
+    logging.info("Calculating ARI...")
     print(f"ARI: {adjusted_rand_score(wikt_labels, stem_labels)}")
 
 
-
-
 def main():
+    logging.basicConfig(filename="cluster.log", level=logging.INFO)
     #todo: check if the necessary files are actually there
     wikt_file = "Wiktionary/replacements.txt"
     #Todo: change the stemmer file to be given via command line?
@@ -60,7 +74,7 @@ def main():
     wikt_clusters, wikt_pairs = create_clusters(wikt_file)
     stem_clusters, stem_pairs = create_clusters(stemmer_file)
 
-    measure_cluster_accuracy(wikt_pairs, wikt_clusters, stem_pairs, stem_clusters)
+    label_clusters(wikt_pairs, wikt_clusters, stem_pairs, stem_clusters)
 
 if __name__ == "__main__":
     main()
