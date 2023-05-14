@@ -1,6 +1,7 @@
 import sys
 from nltk.metrics import edit_distance, jaccard_distance, f_measure, precision, recall
 import numpy as np
+from tqdm import tqdm
 
 def create_clusters(filename):
     # cluster_list = list()
@@ -62,7 +63,7 @@ def write_clusters(clusters, filename, includeStem):
 
 def write_word_distances(wikt_pairs, stem_pairs, filename):
     distances = list()
-    for i in range (0, len(stem_pairs)):
+    for i in tqdm(range (0, len(stem_pairs))):
         distance = edit_distance(wikt_pairs[i][1], stem_pairs[i][1], substitution_cost=1)
         distances.append(distance)
     print("Average distance between stems from wiktionary and the algorithm:", file=sys.stderr)
@@ -86,17 +87,17 @@ def measure_cluster_accuracy(wikt_clusters, stem_clusters):
 
 def write_cluster_fmeasures(wikt_clusters, stem_clusters, filename):
     cluster_fmeasures = list()
-    for ref_cluster in stem_clusters.values():
-        best_cluster = list()
+    for ref_cluster in tqdm(stem_clusters.values()):
+        # best_cluster = list()
         best_fmeasure = 0.00
         for cluster in wikt_clusters.values():
             fmeasure = f_measure(ref_cluster, cluster)
             if fmeasure > best_fmeasure:
                 best_fmeasure = fmeasure
-                best_cluster = cluster
+                # best_cluster = cluster
         cluster_fmeasures.append(best_fmeasure)
-        if best_fmeasure == 0.00:
-            print(f"Best wiktionary match: {best_cluster} for the stemmer cluster {ref_cluster}", file=sys.stderr)
+        # if best_fmeasure == 0.00:
+        #     print(f"Best wiktionary match: {best_cluster} for the stemmer cluster {ref_cluster}", file=sys.stderr)
     cluster_fmeasures = np.array(cluster_fmeasures)
     print("Average F measure between the two sets of clusters:", file=sys.stderr)
     print(f"Mean: {np.mean(cluster_fmeasures)}\nMedian: {np.median(cluster_fmeasures)}", file=sys.stderr)
@@ -105,7 +106,7 @@ def write_cluster_fmeasures(wikt_clusters, stem_clusters, filename):
 def write_cluster_distances(wikt_clusters, stem_clusters, filename):
     temp_clusters = list(stem_clusters.values())
     cluster_distances = list()
-    for ref_cluster in wikt_clusters.values():
+    for ref_cluster in tqdm(wikt_clusters.values()):
         best_cluster = list()
         best_distance = 1.00
         for cluster in temp_clusters:
@@ -152,17 +153,16 @@ def main():
     print(f"Clusters for the stemmer with length > 1: {len(stem_clusters)}", file=sys.stderr)
     print(f"Clusters for the wiktionary with length > 1: {len(wikt_clusters)}", file=sys.stderr)
 
-    #Testing
     print("After removing singles:", file=sys.stderr)
-    # measure_cluster_accuracy(wikt_clusters, stem_clusters)
+    measure_cluster_accuracy(wikt_clusters, stem_clusters)
 
     #Included for testing
-    write_clusters(wikt_clusters, "wikt_clusters.txt", False)
-    write_clusters(stem_clusters, "stem_clusters.txt", False)
+    # write_clusters(wikt_clusters, "wikt_clusters.txt", False)
+    # write_clusters(stem_clusters, "stem_clusters.txt", False)
 
     #Find some measure of accuracy between the two clusterings
-    # write_word_distances(wikt_pairs, stem_pairs, "Data/word_distances.csv")
-    # write_cluster_distances(wikt_clusters, stem_clusters, "Data/cluster_distances.csv")
+    write_word_distances(wikt_pairs, stem_pairs, "Data/word_distances.csv")
+    write_cluster_distances(wikt_clusters, stem_clusters, "Data/cluster_distances.csv")
 
 if __name__ == "__main__":
     main()
