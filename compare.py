@@ -84,6 +84,24 @@ def measure_cluster_accuracy(wikt_clusters, stem_clusters):
     print(f"Precision: {precision(ref_clusters, test_clusters)}", file=sys.stderr)
     print(f"Recall: {recall(ref_clusters, test_clusters)}", file=sys.stderr)
 
+def write_cluster_fmeasures(wikt_clusters, stem_clusters, filename):
+    cluster_fmeasures = list()
+    for ref_cluster in stem_clusters.values():
+        best_cluster = list()
+        best_fmeasure = 0.00
+        for cluster in wikt_clusters.values():
+            fmeasure = f_measure(ref_cluster, cluster)
+            if fmeasure > best_fmeasure:
+                best_fmeasure = fmeasure
+                best_cluster = cluster
+        cluster_fmeasures.append(best_fmeasure)
+        if best_fmeasure == 0.00:
+            print(f"Best wiktionary match: {best_cluster} for the stemmer cluster {ref_cluster}", file=sys.stderr)
+    cluster_fmeasures = np.array(cluster_fmeasures)
+    print("Average F measure between the two sets of clusters:", file=sys.stderr)
+    print(f"Mean: {np.mean(cluster_fmeasures)}\nMedian: {np.median(cluster_fmeasures)}", file=sys.stderr)
+    np.savetxt(filename, cluster_fmeasures) 
+
 def write_cluster_distances(wikt_clusters, stem_clusters, filename):
     temp_clusters = list(stem_clusters.values())
     cluster_distances = list()
@@ -127,22 +145,24 @@ def main():
     #Testing comparing both clusterings as sets themselves
     print("Before removing singles:", file=sys.stderr)
     measure_cluster_accuracy(wikt_clusters, stem_clusters)
+    write_cluster_fmeasures(wikt_clusters, stem_clusters, "Data/cluster_fmeasures.csv")
 
+    #Removing single clusters
     wikt_clusters, stem_clusters = trim_clusters(wikt_clusters, stem_clusters)
     print(f"Clusters for the stemmer with length > 1: {len(stem_clusters)}", file=sys.stderr)
     print(f"Clusters for the wiktionary with length > 1: {len(wikt_clusters)}", file=sys.stderr)
 
     #Testing
     print("After removing singles:", file=sys.stderr)
-    measure_cluster_accuracy(wikt_clusters, stem_clusters)
+    # measure_cluster_accuracy(wikt_clusters, stem_clusters)
 
     #Included for testing
-    # write_clusters(wikt_clusters, "wikt_clusters.txt", False)
-    # write_clusters(stem_clusters, "stem_clusters.txt", False)
+    write_clusters(wikt_clusters, "wikt_clusters.txt", False)
+    write_clusters(stem_clusters, "stem_clusters.txt", False)
 
     #Find some measure of accuracy between the two clusterings
-    write_word_distances(wikt_pairs, stem_pairs, "Data/word_distances.csv")
-    write_cluster_distances(wikt_clusters, stem_clusters, "Data/cluster_distances.csv")
+    # write_word_distances(wikt_pairs, stem_pairs, "Data/word_distances.csv")
+    # write_cluster_distances(wikt_clusters, stem_clusters, "Data/cluster_distances.csv")
 
 if __name__ == "__main__":
     main()
