@@ -1,7 +1,3 @@
-a-bomber
-a-cupper
-a-lifer
-a-lister
 aabomycin
 aardvarklike
 aaronic
@@ -182,9 +178,6 @@ ablatival
 ablatively
 ablativity
 ablator
-able-bodiedism
-able-bodiedness
-able-mindedness
 ableism
 ableist
 ableness
@@ -326,8 +319,6 @@ abscondeth
 abscondment
 abscotchalater
 abseiler
-absent-mindedly
-absent-mindedness
 absentation
 absentative
 absentee
@@ -529,7 +520,6 @@ acanthodian
 acanthological
 acanthology
 acantholysis
-acanthoma adenoides cysticum
 acanthopodous
 acanthopore
 acanthosis
@@ -691,7 +681,6 @@ accostest
 accosteth
 accostment
 accoucheurship
-account man
 accountability
 accountable
 accountableness
@@ -945,7 +934,6 @@ aconital
 aconitase
 aconitate
 aconitic
-aconitic acid
 aconitine
 acontextuality
 acontextually
@@ -1130,7 +1118,6 @@ actlessness
 actometry
 actonian
 actor
-actor-proof
 actoress
 actorial
 actorine
@@ -1183,9 +1170,6 @@ acylium
 acylome
 acylomic
 acylphosphatase
-ad-free
-ad-hocness
-ad-libber
 adagial
 adamantanoid
 adamantanol
@@ -1253,7 +1237,6 @@ addictedness
 addicting
 addictingly
 addiction
-addiction-like
 addictionlike
 addictionologist
 addictionology
@@ -1745,6 +1728,7 @@ advoutress
 adware
 adzelike
 adzer
+adæquately
 aeaean
 aedeagal
 aedileship
@@ -1815,7 +1799,6 @@ aerosolization
 aerosolize
 aerostatically
 aesculapian
-aesop-like
 aesopianism
 aesopic
 aesopical
@@ -2076,7 +2059,6 @@ agatization
 agatize
 agaty
 agavaceous
-age-mate
 ageable
 agedly
 agedness
@@ -2291,7 +2273,6 @@ ahrimanic
 aiblins
 aidable
 aidance
-aide-de-campship
 aider
 aidest
 aideth
@@ -2315,7 +2296,6 @@ aimworthiness
 aimworthy
 ainuness
 aipacer
-air-proof
 airable
 airbagged
 airborne
@@ -2391,8 +2371,6 @@ aksaite
 aksumite
 aksumitic
 aktashite
-al-qaedaesque
-alabama-like
 alabaman
 alabamian
 alabamine
@@ -2401,6 +2379,7 @@ alacrify
 alacriously
 alacriousness
 aladdinize
+alamosite
 alana
 alander
 alane
@@ -2423,7 +2402,6 @@ alarmistic
 alarmistically
 alarmone
 alarplasty
-alaska-like
 alaskan
 alaskana
 alaskanization
@@ -2484,8 +2462,6 @@ alchemise
 alchemist
 alchemistic
 alcmanian
-alco-holic
-alcohol-free
 alcoholaemia
 alcoholase
 alcoholate
@@ -2517,7 +2493,6 @@ alcuronium
 aldebaranian
 aldebaranium
 aldehydic
-aldehydic acid
 aldenhamian
 aldermanate
 aldermancy
@@ -2545,7 +2520,6 @@ aldosidic
 aldosteronism
 aldosteronoma
 aldrin
-ale-drapery
 aleatorically
 aleatoricism
 aleatorily
@@ -2555,7 +2529,6 @@ alecy
 alelike
 alembicated
 alembication
-alendronic acid
 alentejan
 alertable
 alertly
@@ -2610,7 +2583,6 @@ algicide
 algidity
 algidness
 algin
-alginic acid
 alginitic
 algist
 algivore
@@ -2751,10 +2723,6 @@ alkyne
 alkynoate
 alkynol
 alkynylated
-all-americanness
-all-outer
-all-overishness
-all-seeingness
 allahabad
 allanitic
 allantoate
@@ -2945,12 +2913,14 @@ allylboration
 allylic
 allylically
 allyship
+allœopathic
 almeidaite
 almightiful
 almightily
 almightiness
 almightyship
 almodovarian
+almodóvarian
 almondine
 almondlike
 almondy
@@ -3014,10 +2984,7 @@ alpujarran
 alreadiness
 alrightnik
 alrighty
-alsace-lorrainer
 alsakharovite
-alt-righter
-alt-rightist
 altaian
 altaic
 altaicist
@@ -3519,6 +3486,8 @@ amylophagic
 amyloplastic
 amyluria
 amyraldianism
+amœbiases
+amœbicidal
 anabaptistry
 anabatically
 anabohitsite
@@ -3615,8 +3584,6 @@ anaplastologist
 anaplerotically
 anaptyctic
 anaptyctically
-anarcha-feministic
-anarcha-feministically
 anarchese
 anarchic
 anarchical
@@ -3626,9 +3593,6 @@ anarchistic
 anarchistically
 anarchization
 anarchize
-anarcho-capitalistic
-anarcho-capitalistically
-anarcho-individualistic
 anarchology
 anarthrously
 anarthrousness
@@ -3695,7 +3659,6 @@ anconoid
 anctiously
 ancylistaceous
 ancylostomiasis
-andalusi
 andalusian
 andalusianness
 andalusite
@@ -3865,9 +3828,6 @@ anglicanize
 anglicisation
 anglicist
 anglish
-anglo-saxondom
-anglo-saxonist
-anglo-saxonize
 anglocentrically
 anglodom
 angloid
@@ -3887,7 +3847,6 @@ angrify
 angrily
 angriness
 angritic
-angst-ridden
 angster
 angstful
 angstiness
@@ -3922,7 +3881,6 @@ anilism
 animacy
 animadversiveness
 animadverter
-animal-like
 animalcular
 animalcule
 animalculism
@@ -4014,7 +3972,6 @@ annalled
 annamese
 annamite
 annamitic
-annapolis royal
 annealable
 annealer
 annealment
@@ -4032,7 +3989,6 @@ annexionism
 annexionist
 annexment
 annexure
-anniesland
 annihilable
 annihilateth
 annihilatingly
@@ -4293,14 +4249,6 @@ anthropotomical
 anthropotomically
 anthropotomist
 anthumously
-anti-abortionism
-anti-americanism
-anti-choicer
-anti-jewishness
-anti-semitically
-anti-vaxer
-anti-vaxxer
-anti-vaxxery
 antiabortionist
 antiapoptotically
 antiarin
@@ -4569,7 +4517,6 @@ anxiously
 anxiousness
 anxom
 any
-anybody's
 anycast
 anyon
 anyonic
@@ -4578,6 +4525,11 @@ anythingarianism
 anythingism
 anywhereness
 anywise
+anæmial
+anæmic
+anæmical
+anæmically
+anæsthetician
 aoler
 aonian
 aoristic
@@ -4885,7 +4837,6 @@ applauselike
 applauseometer
 applausive
 applausively
-apple-like
 appleade
 appled
 applehood
@@ -5393,7 +5344,6 @@ argumentativity
 argumenthood
 argumentive
 argumentize
-argus-like
 arguslike
 argutely
 arguteness
@@ -5451,7 +5401,6 @@ arithmetician
 arithmeticity
 arithmetizable
 arithmogram
-arizona-like
 arizonan
 arizonian
 arizonite
@@ -5465,7 +5414,6 @@ arkley
 arklike
 arkosic
 arlingtonian
-arm-twister
 armable
 armageddonism
 armageddonist
@@ -5933,7 +5881,6 @@ asparagaceous
 asparaginase
 asparaginic
 asparaginyl
-asparagus-like
 asparagusate
 aspartase
 aspartate
@@ -6341,12 +6288,15 @@ asystolism
 atabegate
 atacaman
 atacamanian
+atacameñan
 atacamite
 atactically
 atactostelic
 atafuan
 atarian
 atariesque
+ataturkian
+ataturkist
 atavistic
 atavistical
 atavistically
@@ -6412,7 +6362,6 @@ atlantian
 atlanticism
 atlanticist
 atlantification
-atlas-like
 atlasic
 atlasing
 atlaslike
@@ -6427,6 +6376,7 @@ atmospherically
 atmospherics
 atmospherization
 atmospherology
+atmosphæric
 atomic
 atomically
 atomician
@@ -6496,6 +6446,7 @@ attachest
 attacheth
 attachingness
 attachment
+attachéship
 attackable
 attackee
 attacker
@@ -6659,7 +6610,6 @@ audiation
 audibility
 audibleness
 audibly
-audience-proof
 audiencelessness
 audiolingualism
 audiolingually
@@ -6811,7 +6761,6 @@ autarkical
 autarkically
 autecologically
 autecologist
-autem dipper
 auteurial
 auteurism
 auteurist
@@ -7030,10 +6979,6 @@ availful
 availingly
 availment
 avalonian
-avant-gardism
-avant-gardist
-avantgardist
-avantgardistic
 avarian
 avaric
 avariciously
@@ -7309,11 +7254,7 @@ azurous
 azury
 azylene
 azymite
-b-drinker
-b-lister
-b-movieish
-b-moviesque
-b-sider
+aëtheogamous
 baaing
 baalian
 baalic
@@ -7375,7 +7316,6 @@ babudom
 babuism
 babushkaed
 baby
-baby-to-be
 babydom
 babyese
 babygram
@@ -7405,10 +7345,8 @@ babywear
 bacchanalian
 bacchanalianism
 bacchanalize
-bacchus-like
 bacchuslike
 bacharachian
-bachelor's handbag
 bachelordom
 bacheloress
 bachelorette
@@ -7428,9 +7366,6 @@ bacillicide
 bacilliferous
 bacilloscopic
 bacilloscopist
-back-handedly
-back-handedness
-back-patty
 backable
 backal
 backative
@@ -7445,7 +7380,6 @@ backchecker
 backcourtman
 backdater
 backdrivability
-backendish
 backer
 backest
 backfatter
@@ -7494,7 +7428,6 @@ backtracker
 backtroller
 backvelder
 backward
-backward-lookingness
 backwardation
 backwardism
 backwardly
@@ -7541,7 +7474,6 @@ bacteroid
 bacteroidal
 bactrian
 baculovirally
-bad-assness
 badassery
 badassitude
 badassness
@@ -7607,6 +7539,8 @@ bahamianness
 bahiaite
 bahian
 bahraini
+baháʼísm
+baháʼíst
 baianism
 baianist
 baicalein
@@ -7659,7 +7593,6 @@ bakhchisaraitsevite
 bakhtinian
 baking
 bakingly
-baklava-like
 baklavalike
 bakuninian
 bakuninist
@@ -7724,8 +7657,6 @@ balkiness
 balkingly
 balkish
 balky
-ball-gowned
-ball-like
 balladeer
 ballader
 balladesque
@@ -7804,7 +7735,6 @@ balsamy
 balticism
 balticist
 baltimorean
-balto-slavicist
 balustered
 balusterlike
 balustraded
@@ -7831,8 +7761,6 @@ banalization
 banalize
 banally
 banalness
-banana-ey
-banana-like
 bananagate
 bananageddon
 bananahood
@@ -7891,7 +7819,6 @@ banger
 bangingly
 bangkoker
 bangkokian
-bangla-centric
 bangladeshiness
 bangladeshize
 banglaphile
@@ -8052,8 +7979,6 @@ bardolatrous
 bardolatry
 bardolphian
 bardship
-bare-footen
-bare-handedness
 barebacker
 barebacking
 barefacedly
@@ -8218,6 +8143,7 @@ bartholomewtide
 bartlesville
 bartonite
 bartramian
+bartókian
 barware
 barwise
 barycentrically
@@ -8271,7 +8197,6 @@ bashfest
 bashful
 bashfully
 bashfulness
-bashi-bazoukery
 bashism
 bashkiria
 bashkirian
@@ -8338,7 +8263,6 @@ bassooner
 bassoonist
 bassorin
 bassy
-bastard-dom
 bastardess
 bastardhood
 bastarding
@@ -8361,6 +8285,7 @@ bastardship
 bastardy
 baster
 bastian
+bastnaesite
 basutoland
 basutolander
 basylous
@@ -8500,15 +8425,15 @@ bays
 bazaarlike
 bazillionaire
 bazookaist
+baʻthism
+baʻthist
 bbcesque
-bbq'd
 bbqer
 bbser
 bbsing
 bcer
 bdser
 bdsmer
-be-er
 beable
 beached
 beachful
@@ -8649,7 +8574,6 @@ beatledom
 beatlehead
 beatlemania
 beatlemaniac
-beatles-like
 beatlessness
 beatley
 beatnikery
@@ -8715,8 +8639,6 @@ becometh
 becomingly
 becomingness
 becquerelium
-bed-hopper
-bed-jacketed
 bedaft
 bedamped
 bedaubeth
@@ -9049,14 +8971,12 @@ belittlingly
 belizean
 belizeanness
 belizian
-bell-like
 bellairsian
 bellarminian
 belldom
 belledom
 bellehood
 bellerophonic
-belletrist
 belletristic
 belletristically
 belleville
@@ -9099,7 +9019,6 @@ belshazzarian
 belter
 beltful
 beltian
-beltian body
 beltlessness
 beltlike
 beltwise
@@ -9224,7 +9143,6 @@ benzenoid
 benzenol
 benzidinic
 benzilate
-benzilic acid
 benzimidazolium
 benzoate
 benzocaine
@@ -9399,8 +9317,6 @@ bestretched
 bestrophinopathy
 bestsellerdom
 besuited
-beta-lactamase
-beta-lactamic
 betacyaninuria
 betafite
 betaish
@@ -9519,6 +9435,7 @@ beyondward
 beyship
 bezanted
 bezosian
+beïng
 bhabhan
 bhangmeter
 bhutanese
@@ -9663,10 +9580,6 @@ bifurcation
 bifurcational
 bifurcative
 bifurcator
-big-ass
-big-heartedly
-big-heartedness
-big-noter
 bigamies
 bigamize
 bigamously
@@ -9832,9 +9745,6 @@ bindingly
 bindingness
 binetian
 binful
-binge-watchable
-binge-watcher
-binge-worthy
 bingeable
 bingeful
 bingefully
@@ -10171,7 +10081,6 @@ bitchness
 bitchola
 bitchwad
 bitchy
-bitchy-pants
 bitchzilla
 bitcoiner
 biteable
@@ -10243,7 +10152,6 @@ blackberrylike
 blackbirder
 blackbirding
 blackbirdlike
-blackburnian warbler
 blackcurranty
 blackdar
 blacken
@@ -10423,6 +10331,7 @@ blastproof
 blastular
 blastworthy
 blasty
+blasély
 blatant
 blatantly
 blatantness
@@ -10618,7 +10527,6 @@ bloater
 bloatsome
 bloatware
 bloaty
-blob-like
 blobbily
 blobbiness
 blobby
@@ -10726,10 +10634,6 @@ bloodthirstily
 bloodthirstiness
 bloodthirstyness
 bloody
-bloody-handedly
-bloody-handedness
-bloody-mindedly
-bloody-mindedness
 bloodyhandedly
 bloodyhandedness
 bloodyish
@@ -10819,7 +10723,6 @@ bluebelled
 blueberried
 blueberrying
 blueberrylike
-bluegrass-like
 bluegrassy
 blueish
 blueism
@@ -10915,13 +10818,13 @@ blytheville
 blytonesque
 blytonian
 blytonish
+blödite
 bmxer
 bmxing
 bnfdom
 bnper
 boadicean
 boaed
-board-shorted
 boardable
 boarden
 boarder
@@ -11154,7 +11057,6 @@ bonable
 bonapartean
 bonapartism
 bonapartist
-bond-like
 bondability
 bondable
 bondager
@@ -11179,7 +11081,6 @@ bondswoman
 bondverse
 bondwoman
 bondwork
-bone-shakingly
 boneheadedly
 boneheadedness
 bonelessly
@@ -11235,7 +11136,6 @@ boofish
 boogieboarder
 boogieman
 boogyman
-book-ridden
 bookable
 bookaholic
 bookcased
@@ -11472,15 +11372,14 @@ bossnapping
 bossocracy
 bossware
 bossy
-bossy pants
 bostoner
 bostonese
 bostonian
 bostonite
 bostonization
 bostonize
+boströmian
 boswellian
-boswellic acid
 boswellism
 boswellize
 boswellizer
@@ -11500,7 +11399,6 @@ botchery
 botchily
 botchiness
 botchy
-both-handedly
 botherance
 botheration
 botherer
@@ -11670,7 +11568,6 @@ bowspritted
 bowswoman
 bowtied
 bowyer
-box-like
 boxable
 boxen
 boxer
@@ -11805,6 +11702,7 @@ brahmaness
 brahmanical
 brahmanism
 brahmanist
+brahmic
 brahminess
 brahminic
 brahminical
@@ -11882,7 +11780,7 @@ branchlike
 branchling
 branchwise
 branchy
-brand-newness
+brancusian
 brandable
 brandenburger
 brander
@@ -12026,7 +11924,6 @@ breastplated
 breaststroker
 breastwear
 breasty
-breath-catchingly
 breathability
 breathable
 breathableness
@@ -12140,7 +12037,6 @@ bricolagist
 bridal
 bridally
 bridalwear
-bride-to-be
 bridegroomlike
 bridehood
 bridelike
@@ -12156,7 +12052,6 @@ bridewear
 bridey
 bridezilla
 bridgable
-bridge-and-tunneler
 bridgeable
 bridgegate
 bridgelessness
@@ -12280,14 +12175,10 @@ brittleness
 brittly
 brittonic
 brittonicism
-bro's
 broachable
 broacher
 broachest
 broacheth
-broad-brusher
-broad-mindedly
-broad-mindedness
 broadcastability
 broadcastable
 broadcaster
@@ -12334,8 +12225,6 @@ broilsome
 broish
 brokeass
 broken
-broken-heartedly
-broken-heartedness
 brokeness
 brokenheartedly
 brokenheartedness
@@ -12384,6 +12273,7 @@ bronchoscopically
 bronchoscopist
 bronchospasmolytic
 broness
+brontean
 brontoscopic
 bronydom
 bronyism
@@ -12531,7 +12421,6 @@ brunetness
 brunetteness
 bruniaceous
 brunisolic
-brunnian link
 brunonian
 brunonianism
 brunswicker
@@ -12687,7 +12576,6 @@ budgetary
 budgeteer
 budgeter
 budgetize
-budgett's frog
 budgetwise
 budgie
 budlessness
@@ -12695,6 +12583,7 @@ budlet
 budlike
 budling
 budweiser
+buetschliite
 buffable
 buffaholic
 buffaloburger
@@ -12733,7 +12622,6 @@ buffyology
 buffyspeak
 buffyverse
 buformin
-bug-man
 bugandan
 bugbearish
 bugdom
@@ -12826,7 +12714,6 @@ bulklike
 bulksome
 bulkwise
 bulky
-bull-mobile
 bulldogger
 bulldoggy
 bulldozable
@@ -12855,7 +12742,6 @@ bullish
 bullishly
 bullishness
 bullock
-bullock's heart
 bullockite
 bullocky
 bullous
@@ -12879,7 +12765,6 @@ bullyragger
 bullysome
 bulrushlike
 bulrushy
-bum-fluffed
 bumble
 bumblepuppist
 bumbler
@@ -12959,6 +12844,7 @@ bunny
 bunnykind
 bunodosine
 bunter
+bunuelian
 bunyanesque
 bunyanian
 buoyage
@@ -13005,7 +12891,6 @@ burgerland
 burgerlicious
 burgerlike
 burgery
-burgess-ship
 burgessdom
 burgessian
 burghal
@@ -13207,7 +13092,6 @@ butanoic
 butanol
 butanoylation
 butcher
-butcher's
 butcherdom
 butcherer
 butcheress
@@ -13354,6 +13238,7 @@ byzantinize
 byzantinological
 byzantinologist
 byzantinology
+bœotian
 cabalism
 cabalist
 cabalistic
@@ -13409,7 +13294,6 @@ cachinnation
 cachinnator
 cachinnatory
 caciquism
-cack-handedly
 cackhandedly
 cackhandedness
 cackler
@@ -13419,6 +13303,7 @@ cacodaemoniacal
 cacodemonomania
 cacodylate
 cacodylic
+cacodæmonic
 cacoepist
 cacoethical
 cacoethically
@@ -13478,13 +13363,11 @@ cafeterial
 caffeate
 caffeinate
 caffeinator
-caffeine-free
 caffeinelike
 caffeinism
 caffeoyl
 caffeoylquinate
 caftaned
-cage-free
 cagean
 cageful
 cagelessness
@@ -13521,6 +13404,7 @@ cajoler
 cajolest
 cajoleth
 cajolingly
+cajonist
 cajunness
 cajuputene
 cakeage
@@ -13626,7 +13510,6 @@ calibration
 calibrator
 caliciaceous
 calicoed
-california-like
 californiaese
 californiaish
 californian
@@ -13703,7 +13586,6 @@ calophyllaceous
 calorically
 caloricist
 caloricity
-calorie-ful
 calorimetre
 calorimetrically
 calorizator
@@ -13736,7 +13618,6 @@ calycled
 calycoid
 calycophoran
 calydonian
-calypso-like
 calypsolike
 calypsonian
 calyptrate
@@ -13815,7 +13696,6 @@ camphol
 camphoraceous
 camphoric
 camphory
-camphretic acid
 camphrous
 campily
 campiness
@@ -13918,7 +13798,6 @@ candelabraform
 candelabralike
 candian
 candicidin
-candida-like
 candidacidal
 candidacy
 candidalike
@@ -13940,7 +13819,6 @@ candlemas
 candler
 candlesticklike
 candolleaceous
-candy-ass
 candygram
 candyish
 candylike
@@ -14044,7 +13922,6 @@ canosan
 canossan
 canossian
 canrenoate
-canrenoic acid
 cantabrian
 cantabric
 cantaloupey
@@ -14253,7 +14130,6 @@ captureth
 capuan
 capuched
 caputoan
-car-free
 caracoler
 caraholic
 caramelesque
@@ -14716,7 +14592,6 @@ cassythine
 castability
 castable
 castanetist
-caste-ridden
 casted
 casteism
 casteist
@@ -14855,8 +14730,6 @@ catawban
 catboater
 catcallee
 catcaller
-catch-all
-catch-allism
 catchability
 catchable
 catchee
@@ -15005,7 +14878,6 @@ cattiness
 cattish
 cattishly
 cattishness
-cattle-like
 cattledom
 cattlelike
 cattleproof
@@ -15141,7 +15013,6 @@ cayenned
 cayleyan
 caymanian
 caytoniaceous
-cbd's
 cber
 cckergic
 cder
@@ -15631,7 +15502,6 @@ chambermaiding
 chambers
 chambersburg
 chambersian
-chameleon-like
 chameleonic
 chameleonically
 chameleonize
@@ -15789,7 +15659,6 @@ characterologist
 characterology
 characteropathy
 characterwise
-charactery
 charactonym
 charactonymous
 charactron
@@ -16032,7 +15901,6 @@ cheekiness
 cheeky
 cheeper
 cheepy
-cheer-off
 cheerable
 cheerer
 cheerest
@@ -16102,6 +15970,7 @@ chelate
 chelater
 chelation
 chelator
+cheletropic
 cheliceral
 chelski
 chemical
@@ -16226,8 +16095,6 @@ chicanerous
 chichling
 chickdom
 chicken
-chicken-heartedly
-chicken-heartedness
 chickenability
 chickenarian
 chickenburger
@@ -16285,8 +16152,6 @@ chiffony
 chignoned
 chigwellian
 chilblained
-child-free
-child-in-law
 childed
 childfreeness
 childhood
@@ -16656,7 +16521,6 @@ chopper
 choppergate
 choppeth
 choppily
-choppin'
 choppiness
 choppy
 chopstickful
@@ -16742,7 +16606,6 @@ christening
 christer
 christfag
 christhood
-christian-like
 christianese
 christianess
 christianish
@@ -16774,7 +16637,6 @@ christlikeness
 christliness
 christly
 christmas
-christmas-like
 christmaslessness
 christmaslike
 christmasly
@@ -16927,7 +16789,6 @@ chunklike
 chunkster
 chunkwise
 chunky
-church-ridden
 churchal
 churchane
 churchdom
@@ -17003,7 +16864,6 @@ ciceroneship
 ciceronianism
 ciceronism
 cichoriaceous
-cichoric acid
 cicisbeism
 ciclafrine
 ciclotizolam
@@ -17279,8 +17139,6 @@ civeted
 civetlike
 civetone
 civey
-civic-mindedly
-civic-mindedness
 civically
 civicism
 civicmindedness
@@ -17528,13 +17386,10 @@ clayish
 clayishness
 claylike
 clayton
-clayton's
 claytonian
 claytons
 claytonville
 clayware
-clean-handedly
-clean-handedness
 cleanability
 cleanable
 cleanaholic
@@ -17554,8 +17409,6 @@ cleansest
 cleanseth
 cleansingly
 cleanth
-clear-headedness
-clear-sightedness
 clearable
 clearage
 clearance
@@ -17652,6 +17505,10 @@ cleverishness
 cleverly
 cleverness
 cleversome
+clichéd
+clichédly
+clichédness
+clichély
 clickability
 clickable
 clickably
@@ -17705,7 +17562,6 @@ climactic
 climactically
 climatal
 climatarian
-climate-speak
 climategate
 climatewise
 climatic
@@ -17893,14 +17749,8 @@ clooneyesque
 clopper
 closability
 closable
-close-handedness
-close-mindedly
-close-mindedness
 closeability
 closeable
-closed-earedness
-closed-mindedly
-closed-mindedness
 closedmindedly
 closedmindedness
 closedness
@@ -18051,7 +17901,6 @@ clunkiness
 clunkingly
 clunky
 clusiaceous
-cluster-wise
 clusterability
 clusterable
 clustercentric
@@ -18094,11 +17943,6 @@ cnidome
 cnner
 cnnesque
 cnutian
-co-father-in-law
-co-grandfather-in-law
-co-mother-in-law
-co-ordinational
-co-parent-in-law
 coachability
 coachable
 coachee
@@ -18331,7 +18175,6 @@ codder
 coddler
 coddlesome
 coddlingly
-code-switcher
 codeathon
 codedness
 codefest
@@ -18470,6 +18313,7 @@ cognizant
 cognizantly
 cognization
 cognizer
+cognominal
 cognominally
 cognoscible
 cognoscitively
@@ -18542,10 +18386,6 @@ colbertine
 colchian
 colchicaceous
 colchicine
-cold-bloodedly
-cold-bloodedness
-cold-heartedly
-cold-heartedness
 colden
 coldheartedly
 coldheartedness
@@ -18779,7 +18619,6 @@ colorability
 colorable
 colorably
 coloradan
-colorado-like
 coloradoite
 colorate
 colorational
@@ -18861,7 +18700,6 @@ columbate
 columbia
 columbiad
 columbian
-columbic acid
 columbiferous
 columbinic
 columbite
@@ -18941,8 +18779,6 @@ combustive
 combustor
 combwise
 comby
-come-hithery
-come-outerism
 comedian
 comedic
 comedically
@@ -19111,8 +18947,6 @@ commissural
 commissuroplasty
 commissurotomy
 commitment
-commitment-phobe
-commitment-phobic
 commitmentphobia
 commitmentphobic
 committable
@@ -19998,7 +19832,6 @@ confiscatable
 confiscator
 conflatable
 conflation
-conflict-ridden
 conflictarian
 conflictedly
 conflictedness
@@ -20078,6 +19911,7 @@ confuter
 confutest
 confuteth
 confuzzlement
+confœderated
 congealability
 congealable
 congealableness
@@ -20305,7 +20139,6 @@ consanguineally
 consanguined
 consanguineously
 consanguinously
-conscience-proof
 conscienced
 consciencelessly
 consciencelessness
@@ -21077,15 +20910,12 @@ cooketh
 cookeville
 cookian
 cookie
-cookie-cutterish
 cookieholic
 cookielike
 cooking
 cookish
 cooklessness
 cookware
-cool-headedness
-cool-o-meter
 coolable
 coolamundo
 coolant
@@ -21216,7 +21046,6 @@ copulator
 copulatress
 copulin
 copulist
-copy-pasteable
 copycatism
 copycatter
 copydom
@@ -21281,6 +21110,7 @@ cordite
 cordlessly
 cordlessness
 cordlike
+cordoban
 cordocentesis
 cordopexy
 cordotomy
@@ -21433,7 +21263,6 @@ corporealization
 corporealize
 corporeally
 corporealness
-corpse-to-be
 corpsehood
 corpselike
 corpser
@@ -21625,7 +21454,6 @@ cosplayer
 cossackdom
 cosseter
 cossie
-cost-effectiveness
 costable
 costally
 costameric
@@ -21718,7 +21546,6 @@ cougheth
 coughingly
 coughlessness
 coughy
-could've
 couldest
 coules
 coulombic
@@ -21933,6 +21760,7 @@ cousiny
 couthie
 couturial
 couzens
+couéism
 covalently
 covariantisation
 covariantization
@@ -21981,7 +21809,6 @@ covetously
 covetousness
 covey
 covian
-covid-safe
 covidian
 covidianism
 covidly
@@ -22062,6 +21889,8 @@ cozenage
 cozener
 cozily
 coziness
+coöperatively
+coördinately
 crabbed
 crabbedly
 crabbedness
@@ -22086,7 +21915,6 @@ crackbrainedness
 crackedly
 crackedness
 cracker
-cracker-ass
 crackerass
 crackerjack
 crackerlike
@@ -22287,7 +22115,6 @@ crawlerize
 crawlingly
 crawlsome
 crawly
-cray-dar
 crayette
 crayonist
 crayonlike
@@ -22298,7 +22125,6 @@ crazily
 craziness
 crazo
 crazy
-crazy-ass
 crazyish
 crazyitis
 crazysauce
@@ -22428,7 +22254,6 @@ creeptacular
 creeptastic
 creepware
 creepy
-creepy crawler
 cremasteric
 cremation
 cremationism
@@ -22529,8 +22354,6 @@ cricothyroidotomy
 crier
 crieth
 crification
-crime-free
-crime-ridden
 crimean
 crimefree
 crimeful
@@ -22540,7 +22363,6 @@ crimeproof
 crimeridden
 crimeware
 crimie
-criminal-like
 criminaldom
 criminalese
 criminalise
@@ -22607,7 +22429,6 @@ cripplesome
 crippleware
 cripplingly
 cripply
-crisis-ridden
 crispener
 crisper
 crispification
@@ -22739,11 +22560,6 @@ croquetlike
 crosbyton
 crosiered
 croslandian
-cross-bencher
-cross-grainedness
-cross-handedly
-cross-liver
-cross-stitcher
 crossability
 crossable
 crossbarred
@@ -22865,17 +22681,15 @@ crudeness
 crudening
 crudesome
 crudites
+crudités
 crudware
 crudy
-cruel-heartedly
-cruel-heartedness
 cruelheartedness
 cruelize
 cruelly
 cruelness
 cruelsome
 cruelty
-cruelty-free
 cruftiness
 cruftware
 crufty
@@ -23040,6 +22854,7 @@ crystalloidally
 crystalluria
 crystally
 crystalware
+crêpy
 csser
 ctenoidean
 ctenophoric
@@ -23057,7 +22872,6 @@ cubbish
 cubbishly
 cubbishness
 cubbison
-cubebic acid
 cubebin
 cubefree
 cubeful
@@ -23270,7 +23084,6 @@ cuntward
 cuntwardly
 cunty
 cuntzilla
-cupboard-like
 cupboardful
 cupboardlike
 cupboardwise
@@ -23282,7 +23095,6 @@ cupellation
 cupeller
 cupertinian
 cupful
-cupid-like
 cupidical
 cupidlike
 cuplet
@@ -23332,6 +23144,7 @@ curatorially
 curatorship
 curatress
 curatrix
+curaçaoan
 curbable
 curber
 curbside
@@ -23346,7 +23159,6 @@ curdle
 curdler
 curdleth
 curdy
-cure-all
 curebie
 curehead
 curelessly
@@ -23823,8 +23635,14 @@ czechness
 czechoslovakism
 czechoslovakization
 czechoslovakize
+cámaraite
 cæsarean
 cæsarian
+césairean
+cézannean
+cézannesque
+cézannian
+cœlomic
 dabber
 dabble
 dabblement
@@ -23869,7 +23687,6 @@ daddishness
 daddle
 daddocky
 daddy
-daddy-o
 daddyhood
 daddyish
 daddykins
@@ -23943,12 +23760,13 @@ daleman
 daleside
 dalesman
 daleville
+dalian
+daliesque
 dalinian
 dallasite
 dalliance
 dallier
 dallyingly
-dalman's leatherbug
 dalmatian
 dalmatic
 dalriadan
@@ -24015,7 +23833,6 @@ dampy
 damselhood
 danaite
 danalite
-dance-happy
 danceability
 danceable
 danceaholic
@@ -24125,7 +23942,6 @@ darbyite
 dardanian
 dardic
 dardistan
-dare-saying
 daredevilism
 daredevilry
 dareful
@@ -24252,9 +24068,9 @@ dauber
 daubery
 daubest
 daubeth
+daubreelite
 daubster
 dauby
-daughter-in-law
 daughtered
 daughterhood
 daughtering
@@ -24312,7 +24128,6 @@ dawson
 dawsonite
 dawsonville
 daxophonist
-day-blindness
 daydreamer
 daydreamily
 daydreamingly
@@ -24348,7 +24163,6 @@ dazzlest
 dazzleth
 dazzlingly
 dazzlingness
-de-esser
 deaconess
 deaconhood
 deaconly
@@ -24356,9 +24170,6 @@ deaconry
 deaconship
 deactivatable
 deactivator
-dead-handedness
-dead-heartedly
-dead-heartedness
 deaden
 deadener
 deadeningly
@@ -24382,7 +24193,6 @@ deadnamer
 deadness
 deadpanner
 deaerator
-deaf-muteness
 deafblindness
 deafen
 deafener
@@ -24501,8 +24311,6 @@ debrider
 debriefer
 debrite
 debritic
-debt-free
-debt-ridden
 debted
 debtee
 debtlessness
@@ -24523,7 +24331,6 @@ debutantism
 debutard
 decadal
 decadally
-decade-long
 decadeful
 decadelong
 decadentism
@@ -25065,8 +24872,6 @@ defrayment
 defrostable
 defrostee
 defroster
-deft-handedly
-deft-handedness
 defthandedly
 defthandedness
 deftly
@@ -25363,7 +25168,6 @@ demister
 demiurgic
 demiurgically
 demmie
-demob-happy
 demobilization
 demobilizee
 demobilizer
@@ -25883,7 +25687,6 @@ derpiness
 derpy
 derridan
 derridean
-derring-doery
 derussification
 dervishlike
 derzhavinian
@@ -26573,6 +26376,7 @@ diarrheal
 diarrheic
 diarrheogenic
 diarrhoeal
+diarrhœal
 diarylike
 diascopic
 diasporal
@@ -26718,7 +26522,6 @@ didiereaceous
 didonian
 didymellaceous
 didymiaceous
-die-in
 diegetically
 dielectrically
 dielectrophoretic
@@ -27180,7 +26983,6 @@ dirtsider
 dirtsome
 dirtwad
 dirty
-dirty-handedness
 dirtyish
 disability
 disableable
@@ -27340,7 +27142,6 @@ discloser
 disclosest
 discloseth
 disclosive
-disco-like
 discocone
 discoconic
 discocytic
@@ -27507,8 +27308,6 @@ disdainfully
 disdainfulness
 disdainingly
 disdainously
-disease-free
-disease-ridden
 diseased
 diseasedly
 diseasedness
@@ -27632,7 +27431,6 @@ dishorner
 dishpanful
 dishware
 dishwashable
-dishwasher proof
 dishwasherable
 dishwatery
 dishy
@@ -28238,6 +28036,7 @@ dithizonate
 dithyrambic
 dithyrambically
 ditrigonally
+ditroite
 dittied
 dittohead
 dittology
@@ -28248,7 +28047,6 @@ diurnalist
 diurnality
 diurnally
 diurnalness
-diva-ish
 divable
 divadom
 divaesque
@@ -28380,10 +28178,6 @@ djiboutian
 djurleite
 dmer
 dnaemia
-do-gooderism
-do-goodery
-do-nothingism
-do-nothingness
 doability
 doable
 dobbinson
@@ -28391,7 +28185,6 @@ dobbs
 dobinson
 dobkin
 dobroist
-dobsonian telescope
 docetically
 docibleness
 docilely
@@ -28734,8 +28527,6 @@ donovanosis
 donship
 donutlike
 donutty
-doo-wopper
-doo-woppy
 doobage
 doobie
 doodlebugger
@@ -28860,7 +28651,6 @@ dost
 dostoevskyan
 dostoyevskeian
 dostoyevskian
-dot-commer
 dotage
 dotard
 dotardly
@@ -28892,9 +28682,6 @@ dottle
 dotty
 doty
 doublable
-double-crosser
-double-mindedly
-double-mindedness
 doublehandedly
 doublehandedness
 doublemindedly
@@ -28985,8 +28772,6 @@ dowdyism
 doweress
 dowerlessness
 dowfness
-down-heartedly
-down-to-earthness
 downable
 downblouser
 downcastly
@@ -29060,6 +28845,7 @@ dozer
 dozily
 doziness
 dozy
+doïng
 drabber
 drabbish
 drabbler
@@ -29135,7 +28921,6 @@ dragooner
 dragphobia
 dragsman
 dragster
-drain-like
 drainable
 drainage
 drained
@@ -29178,7 +28963,6 @@ drapey
 draping
 drastically
 draught
-draught-free
 draughter
 draughtily
 draughtiness
@@ -29408,7 +29192,6 @@ drollness
 drolly
 droloxifene
 dromospheric
-drone-athon
 dronelike
 droner
 dronesome
@@ -29492,10 +29275,8 @@ druckerian
 drudger
 drudgerie
 drudgery
-drudgery-ridden
 drudgingly
 drudgy
-drug-ridden
 drugability
 drugfree
 druggability
@@ -29599,7 +29380,6 @@ dualize
 dualizer
 dualling
 dually
-dubai-esque
 dubaian
 dubaier
 dubaiesque
@@ -29697,6 +29477,7 @@ dufferdom
 dufferish
 dufferism
 duffo
+dufrenite
 dugganite
 duginism
 dugongine
@@ -29726,7 +29507,6 @@ dullishly
 dullness
 dullsome
 dullsville
-dullwittedness
 dully
 duluthian
 dulwichian
@@ -29777,7 +29557,6 @@ dumpishness
 dumplingy
 dumpsville
 dumpy
-duna-gate
 dunal
 duncedom
 duncehood
@@ -29903,7 +29682,6 @@ duskishness
 duskly
 duskness
 dusky
-dust-free
 dustable
 duster
 dustfree
@@ -29943,6 +29721,7 @@ dutifully
 dutifulness
 dutilessness
 dutyman
+dvorakian
 dwarfage
 dwarfdom
 dwarfen
@@ -30102,11 +29881,10 @@ dystrophin
 dysuric
 dzungaria
 dzungarian
-e-biker
-e-head
-e-mailable
-e-scooterist
-e-tard
+dæmonic
+dæmonical
+dæmonism
+dæmonize
 eagarville
 eagerly
 eagerness
@@ -30119,7 +29897,6 @@ eaglet
 eagletonian
 eagreness
 ealdormanic
-ear-splittingly
 earable
 earal
 earconic
@@ -30160,7 +29937,6 @@ earpieced
 earringed
 earsies
 earsplittingly
-earth-fast
 eartha
 earthan
 earthbound
@@ -30218,10 +29994,6 @@ easify
 easily
 easiness
 eason
-east-northeastern
-east-northeastwards
-east-southeastern
-east-southeastwards
 easterfest
 easterliness
 easterly
@@ -30478,7 +30250,6 @@ edemagenic
 edematic
 edematously
 edemogen
-eden-like
 edenic
 edenization
 edenize
@@ -30695,7 +30466,6 @@ eggplanty
 eggshellful
 eggwoman
 eggy
-ego-mindedness
 egocast
 egocaster
 egocentrically
@@ -30836,7 +30606,6 @@ ekker
 ekoid
 ekphrasic
 ekronite
-el stupido
 elaborately
 elaborateness
 elaboration
@@ -31566,8 +31335,6 @@ emptieth
 emptily
 emptiness
 emptional
-empty-handedly
-empty-handedness
 emptyhandedly
 emptyhandedness
 emptyish
@@ -31647,7 +31414,6 @@ encephalitogen
 encephalitogenous
 encephalitozoonosis
 encephalization
-encephalization quotient
 encephalogenicity
 encephalographic
 encephalographically
@@ -31744,6 +31510,11 @@ encyclopedical
 encyclopedically
 encyclopedicity
 encyclopedist
+encyclopædiacal
+encyclopædial
+encyclopædical
+encyclopædically
+encyclopædist
 encysted
 endable
 endangerable
@@ -32429,7 +32200,6 @@ envisager
 envisioner
 envisionment
 envoyship
-envy-free
 envyfreeness
 envyful
 envyingly
@@ -32826,6 +32596,7 @@ erastianism
 erastianize
 erbate
 erbian
+erdoğanism
 erectable
 erecter
 erectest
@@ -32931,8 +32702,6 @@ erroneity
 erroneous
 erroneously
 erroneousness
-error-free
-error-proneness
 errorfree
 errorful
 errorfully
@@ -33611,10 +33380,6 @@ evasively
 evasiveness
 evectional
 evelike
-even-handedly
-even-handedness
-even-mindedly
-even-mindedness
 evenest
 evenhandedly
 evenhandedness
@@ -34048,7 +33813,6 @@ exhorteth
 exhortingly
 exhumable
 exhumer
-exie-osies
 exigenter
 exigently
 exiguously
@@ -34353,7 +34117,6 @@ explorest
 exploreth
 exploringly
 explorista
-explosion-proof
 explosionlike
 explosionproof
 explosiony
@@ -34702,7 +34465,6 @@ exumas
 exumbrellar
 exurbanite
 exusion
-eye-poppingly
 eyeable
 eyeballer
 eyebathful
@@ -34744,7 +34506,6 @@ eyren
 eysenckian
 ezetimibe
 ezralite
-f-cupper
 faanish
 faanishness
 fabacean
@@ -34821,7 +34582,6 @@ facingly
 facinorousness
 facsimilist
 facsimilize
-fact-checking
 factette
 factful
 factfulness
@@ -34971,8 +34731,6 @@ failureproof
 fainaiguer
 faineantism
 fainness
-faint-heartedly
-faint-heartedness
 fainten
 fainter
 fainteth
@@ -34991,10 +34749,6 @@ faintness
 faintsome
 faintward
 fainty
-fair-handedly
-fair-handedness
-fair-mindedly
-fair-mindedness
 faircloughian
 fairdom
 fairfaxian
@@ -35097,14 +34851,10 @@ fallibleness
 fallibly
 fallingly
 fallish
-fallopian tube
 fallower
 fallowist
 fallowness
 fallwear
-fally-aparty
-false-heartedly
-false-heartedness
 falsed
 falseful
 falsefully
@@ -35138,7 +34888,6 @@ faltereth
 falteringly
 falwellian
 famacide
-fame-ish
 famelessly
 famelessness
 famesque
@@ -35162,7 +34911,6 @@ familiocracy
 familist
 familistic
 familistically
-family-friendliness
 familyhood
 familyish
 familyism
@@ -35262,8 +35010,6 @@ faptastic
 fapworthy
 faqeerism
 faqirism
-far-rightist
-far-sightedness
 faradaic
 faradaically
 faradayan
@@ -35292,12 +35038,10 @@ farest
 fareth
 fareweller
 fareworthy
-farfetchedness
 farinaceously
 farinographic
 farley
 farlie
-farm-mate
 farmability
 farmable
 farmcore
@@ -35360,6 +35104,7 @@ fartlike
 fartometer
 fartsome
 farty
+faröelite
 fascial
 fascialike
 fasciately
@@ -35402,7 +35147,6 @@ fashionwise
 fashiony
 fashy
 fassaite
-fast-foodie
 fastballer
 fastcore
 fasten
@@ -35439,7 +35183,6 @@ fatelike
 fatesome
 fatheadedly
 fatheadedness
-father-to-be
 fathercraft
 fatherdom
 fatherer
@@ -35511,7 +35254,6 @@ faulkneresque
 faulknerian
 faulknerish
 faulkton
-fault-free
 faultable
 faulter
 faultful
@@ -35693,8 +35435,6 @@ fedoraed
 fedspeak
 fedzilla
 feeable
-feeble-mindedly
-feeble-mindedness
 feeblemindedness
 feebleness
 feeblesome
@@ -35710,7 +35450,6 @@ feederism
 feedfest
 feedism
 feejeean
-feel-goodism
 feelable
 feelefold
 feeler
@@ -36184,7 +35923,6 @@ fictively
 fictiveness
 fictivity
 ficusin
-fiddle-faddler
 fiddlesome
 fiddleth
 fiddliness
@@ -36359,7 +36097,6 @@ filletlike
 fillingly
 fillingness
 fillock
-film-craft
 filmable
 filmaholic
 filmcraft
@@ -36409,7 +36146,6 @@ filthy
 filtride
 fimbrial
 fimbriation
-fin-like
 finable
 finagler
 finalise
@@ -36518,7 +36254,6 @@ finnish
 finnishization
 finnishman
 finnishness
-finno-ugricist
 finny
 fiorite
 firable
@@ -36584,7 +36319,6 @@ firy
 fiscalism
 fiscalist
 fiscally
-fischer's chameleon
 fischerian
 fishability
 fishable
@@ -36600,7 +36334,6 @@ fisheress
 fisherette
 fisherian
 fisherman
-fisherman's loop
 fishermanship
 fisherwoman
 fishery
@@ -36744,7 +36477,6 @@ flacianist
 flacker
 flackery
 flacourtiaceous
-flag-happy
 flagbearership
 flagellantism
 flagellariaceous
@@ -36872,9 +36604,6 @@ flaskette
 flaskful
 flasklet
 flasklike
-flat-chestedness
-flat-earthery
-flat-earthism
 flatboater
 flatdom
 flatette
@@ -36975,7 +36704,6 @@ flayer
 flayest
 flayeth
 flaysome
-flea-marketer
 flealike
 fleamy
 fleaproof
@@ -37037,7 +36765,6 @@ fletcherism
 fletcherist
 fletcherite
 fletcherize
-fleur-de-lysed
 flewed
 flewian
 flexer
@@ -37106,7 +36833,6 @@ flintshire
 flintware
 flintwork
 flinty
-flip-flopper
 flipism
 flipness
 flippable
@@ -37455,7 +37181,6 @@ fluxon
 fluxonium
 fluxotaxis
 fluxuation
-fly-ass
 flyability
 flyable
 flyer
@@ -37603,7 +37328,6 @@ folkston
 folksy
 folky
 follicly
-follicly challenged
 follicularly
 folliculoma
 folliful
@@ -37647,7 +37371,6 @@ foodfest
 foodful
 foodgasm
 foodie
-foodie-ism
 foodious
 foodism
 foodist
@@ -37664,8 +37387,6 @@ foodware
 foodwise
 foody
 foodyism
-fool-heartedly
-fool-heartedness
 foolability
 foolable
 fooldom
@@ -37788,7 +37509,6 @@ forcelessness
 forcely
 forcement
 forceness
-forceps-like
 forcepslike
 forcer
 forcest
@@ -37809,8 +37529,6 @@ fordist
 fordistic
 fordite
 fordson
-fore-handedly
-fore-handedness
 forebodement
 foreboder
 forebodingly
@@ -38120,7 +37838,6 @@ fortuned
 fortunize
 fortuynism
 fortuynist
-forty-eightmo
 fortyfold
 fortyish
 fortysomething
@@ -38128,7 +37845,6 @@ forumer
 foruming
 forumite
 forward
-forward-lookingness
 forwardable
 forwardal
 forwarder
@@ -38183,13 +37899,13 @@ fotmal
 foucauldian
 foucauldianism
 foucaultian
+fougerite
 foughten
 foulable
 fouler
 fouleth
 foulish
 foully
-foulmouthedness
 foulness
 foundable
 foundational
@@ -38222,8 +37938,6 @@ fountainwise
 fountful
 fountlet
 fouquieriaceous
-four-dimensionalism
-four-dimensionally
 fourfold
 fourfoldness
 fourgon
@@ -38260,7 +37974,6 @@ foveolar
 foveole
 fower
 fowler
-fowler's
 fowlerian
 fowlerite
 fowlery
@@ -38486,9 +38199,6 @@ fredericksburg
 fredericton
 frederictonian
 fredrikssonite
-free-diver
-free-heartedly
-free-heartedness
 freeable
 freeaboo
 freeballer
@@ -38666,7 +38376,6 @@ friedmanian
 friedmanite
 friedmannian
 friedrichite
-friend-zonee
 friendess
 friendful
 friendhood
@@ -38778,7 +38487,6 @@ froebelian
 froebelianism
 froebelism
 froebelist
-frog-speak
 frogdom
 frogese
 frogess
@@ -38998,7 +38706,6 @@ fuchsian
 fuchsine
 fuchsinophil
 fuchsinophilic
-fuck-ese
 fuckability
 fuckable
 fuckableness
@@ -39006,7 +38713,6 @@ fuckass
 fuckathon
 fuckbot
 fucked
-fucked-upest
 fuckedness
 fuckee
 fuckening
@@ -39059,9 +38765,6 @@ fuddledness
 fuddlement
 fuddler
 fuddlesome
-fuddy-duddery
-fuddy-duddily
-fuddy-duddyism
 fudgeable
 fudgelike
 fudger
@@ -39106,12 +38809,6 @@ fulgurance
 fulgurantly
 fulgurously
 fuliginously
-full-grownness
-full-handedly
-full-handedness
-full-heartedly
-full-heartedness
-full-timer
 fullage
 fullen
 fullerian
@@ -39260,7 +38957,6 @@ funniness
 funnish
 funnisome
 funny
-funny-ish
 funnyman
 funsies
 funsome
@@ -39409,7 +39105,6 @@ futurize
 futurologically
 futurologist
 futurology
-fux0r
 fuzhounese
 fuzzable
 fuzzer
@@ -39423,6 +39118,10 @@ fuzzlessness
 fuzztoned
 fuzzy
 fuzzyheadedness
+fæcally
+fætal
+führership
+fœderalism
 gabaergic
 gabapentinoid
 gabber
@@ -39572,7 +39271,6 @@ galeproof
 galician
 galicianness
 galilean
-galilean telescope
 galileanism
 galileian
 galileiite
@@ -39997,8 +39695,6 @@ gastroscopist
 gastrular
 gastrulate
 gastrulation
-gate-happy
-gate-keepy
 gateable
 gategate
 gatekeeperism
@@ -40039,7 +39735,6 @@ gaulic
 gaulish
 gaulishness
 gaulter
-gaum-like
 gaumish
 gaumlessness
 gaumy
@@ -40071,7 +39766,6 @@ gawksome
 gawky
 gawper
 gawpingly
-gay-in
 gaycel
 gaydom
 gayfag
@@ -40200,7 +39894,6 @@ gelidity
 gelidly
 gelidness
 gellable
-gem-diolate
 gemaric
 gemarist
 gematric
@@ -40394,7 +40087,6 @@ gentilize
 gentilizing
 gentilly
 gentisate
-gentle-heartedly
 gentleheartedly
 gentleheartedness
 gentlehood
@@ -40427,7 +40119,6 @@ gentzenization
 genuflective
 genuinely
 genuineness
-geo-blocking
 geobiochemically
 geobiologically
 geobotanically
@@ -40565,8 +40256,6 @@ gerhardtian
 gerhardtite
 geriatrician
 geriatricide
-germ-ridden
-german-like
 germanate
 germanatian
 germandom
@@ -40674,7 +40363,6 @@ gesturelike
 gesturement
 gesturer
 gesturingly
-get rich quicker
 getcha
 gethsemanic
 gettable
@@ -40788,7 +40476,6 @@ giber
 gibingly
 gibraltarian
 gibranian
-gibship
 gibson
 gibsonburg
 gibsonesque
@@ -41014,7 +40701,6 @@ glaciologic
 glaciological
 glaciologically
 glaciologist
-glad-hander
 gladden
 gladdenest
 gladdeneth
@@ -41115,7 +40801,6 @@ glassware
 glassy
 glaswegianness
 glatiramoid
-glaucic acid
 glaucine
 glaucomic
 glauconitic
@@ -41225,7 +40910,6 @@ gloatiness
 gloatingly
 gloaty
 global
-global-wide
 globalism
 globalist
 globalitarianism
@@ -41314,7 +40998,6 @@ gloriously
 gloriousness
 glorisome
 glorithverse
-glory-worthy
 gloryful
 gloryingly
 glossarially
@@ -41394,7 +41077,6 @@ gluconate
 glucopyranosyl
 glucosamine
 glucosaminic
-glucosaminic acid
 glucosaminidase
 glucosaminide
 glucosaminyl
@@ -41669,7 +41351,6 @@ goblinkind
 goblinlike
 goblinoid
 goblinry
-gobo
 gobony
 goboon
 gobsmackingly
@@ -41678,7 +41359,6 @@ godardesque
 godardian
 godawfully
 goddess
-goddess-ship
 goddesship
 goddesshood
 goddesslessness
@@ -41850,21 +41530,13 @@ gonorrheal
 gonorrheic
 gonorrhoeal
 gonorrhoeic
+gonorrhœic
 gonosomal
 gonothecal
 gonyerite
 gonzoism
 gooberish
 goobery
-good-byer
-good-heartedly
-good-humoredness
-good-humouredly
-good-humouredness
-good-lookingness
-good-naturedness
-good-neighbourliness
-good-temperedness
 gooden
 goodeniaceous
 gooder
@@ -41891,7 +41563,6 @@ goodsome
 goodwiller
 goodwilly
 goody
-goody-goodiness
 goodyship
 gooey
 gooeyness
@@ -41908,7 +41579,6 @@ googanism
 googillion
 googlability
 googlable
-google-fu
 googleability
 googleable
 googler
@@ -42032,7 +41702,6 @@ gossiply
 gossipred
 gossipy
 gotcha
-goth-like
 gothamist
 gothamite
 gothdom
@@ -42064,7 +41733,6 @@ gottschalkian
 gottscheer
 gougee
 gouger
-gouldian finch
 goundy
 gourder
 gourdful
@@ -42087,7 +41755,6 @@ governably
 governate
 governee
 governeress
-governess-ship
 governessdom
 governesshood
 governesslike
@@ -42130,6 +41797,7 @@ goyaesque
 goyaesquely
 goyan
 gozzian
+goïng
 graafian
 grabbable
 grabber
@@ -42252,11 +41920,9 @@ granary
 grandchildhood
 grandchildlessness
 granddaddiest
-granddaughter-in-law
 granddaughterly
 grandeeism
 grandeeship
-grandfather-in-law
 grandfatherhood
 grandfatherish
 grandfatherlessness
@@ -42271,7 +41937,6 @@ grandiosity
 grandisonian
 grandly
 grandmalike
-grandmother-in-law
 grandmotherhood
 grandmothering
 grandmotherish
@@ -42283,7 +41948,6 @@ grandparental
 grandparenthood
 grandparenting
 grandsome
-grandson-in-law
 grandsonly
 grandsonship
 grandstander
@@ -42311,7 +41975,6 @@ granny
 grannygate
 grannyish
 granodioritic
-granola-head
 granolithic
 granophyric
 grantable
@@ -42527,8 +42190,6 @@ greaseth
 greasily
 greasiness
 greasy
-great-grandfather-in-law
-great-grandparenthood
 greatcoated
 greaten
 greatheartedly
@@ -42571,10 +42232,8 @@ greenblattian
 greendaler
 greenean
 greenery
-greenery-yallery
 greeneville
 greengagey
-greengrocer's
 greengroceress
 greengrocery
 greenhornish
@@ -42694,7 +42353,6 @@ grilled
 griller
 grillery
 grillware
-grim-gram
 grimacer
 grimacingly
 grimbarian
@@ -42945,7 +42603,6 @@ growlingly
 growlsome
 growly
 grown
-grown-ass
 grownish
 grownupness
 growsome
@@ -43025,6 +42682,7 @@ gruntling
 gruntometer
 gruntspeak
 grunty
+guadalcazarite
 guadeloupean
 guadeloupian
 guaiacol
@@ -43156,7 +42814,6 @@ guillotiner
 guillotining
 guillotinism
 guillotinist
-guilt-ridden
 guilten
 guilter
 guiltfree
@@ -43219,8 +42876,6 @@ gummosis
 gummy
 gumperzian
 gumptious
-gun-centric
-gun-happy
 gunboater
 gunfitter
 gunful
@@ -43246,8 +42901,6 @@ gunproof
 gunsman
 gunster
 guntard
-gunter's line
-gunter's scale
 gunterite
 guntersville
 gunwaled
@@ -43290,7 +42943,6 @@ gustfulness
 gustily
 gustiness
 gusty
-gut-wrenchingly
 gutenbergian
 gutful
 gutlessly
@@ -43307,7 +42959,6 @@ gutterlike
 guttersnipish
 guttersome
 guttery
-guttie
 gutties
 guttiferous
 guttiness
@@ -43376,6 +43027,7 @@ gynogenetically
 gynomorphically
 gynophobic
 gyntian
+gynæcophoric
 gyppy
 gyprocker
 gypsic
@@ -43416,7 +43068,9 @@ gyrotrigonometrically
 gyrotropic
 gyrotropically
 gyrotropization
-h-cupper
+gödelian
+gülenist
+güntherian
 haarlemer
 haary
 habenal
@@ -43439,7 +43093,6 @@ habitually
 habitualness
 habituative
 habituator
-hack-and-slasher
 hackability
 hackable
 hackathon
@@ -43563,8 +43216,6 @@ hailproof
 haily
 hain
 hainanese
-hair-bowed
-hair-raiser
 haircutted
 hairdoed
 haired
@@ -43616,10 +43267,6 @@ halberdsman
 haleness
 haler
 halesome
-half-assedly
-half-heartedness
-half-hourlong
-half-timer
 halfassed
 halfer
 halfful
@@ -43693,8 +43340,6 @@ haltingly
 haltingness
 halvable
 halveth
-ham-handedly
-ham-handedness
 hamadryadic
 hamamelidaceous
 hamartiological
@@ -43757,7 +43402,6 @@ hanafism
 hanafization
 hanafize
 hancockite
-hand-tameness
 handbagger
 handbaggy
 handbags
@@ -43943,8 +43587,6 @@ harbourside
 harboursome
 harbourward
 harcourtian
-hard-heartedly
-hard-heartedness
 hardbacker
 hardballer
 hardel
@@ -43957,8 +43599,6 @@ hardeneth
 hardenite
 harder
 harderian
-harderian gland
-hardfistedness
 hardhandedly
 hardhandedness
 hardheadedly
@@ -44089,7 +43729,6 @@ harrisonville
 harrisville
 harrodian
 harrodsburg
-harrogatonian
 harrower
 harrowest
 harroweth
@@ -44140,7 +43779,6 @@ haskalic
 haskeller
 hassidic
 hassle
-hassle-free
 hasslefree
 hassler
 hasslesome
@@ -44179,8 +43817,6 @@ hatchety
 hatchlike
 hatchling
 hatchman
-hate-watchable
-hate-watcher
 hated
 hatedly
 hatedness
@@ -44271,6 +43907,7 @@ hawaiian
 hawaiianize
 hawaiianness
 hawaiite
+hawaiʻian
 hawesville
 hawker
 hawkery
@@ -44298,7 +43935,6 @@ hawthornean
 hawthorneite
 hawthornian
 hawthorny
-hax0r
 hayasan
 haydenville
 hayekian
@@ -44332,7 +43968,6 @@ haziness
 hazlittian
 hazy
 hazza
-head-spinningly
 headaching
 headachy
 headage
@@ -44359,7 +43994,6 @@ headlessly
 headlessness
 headlighted
 headlike
-headline-ese
 headliner
 headlinese
 headling
@@ -44413,7 +44047,6 @@ healthsomeness
 healthward
 healthwise
 healthy
-healy-feely
 healyite
 heaneyan
 heanling
@@ -44442,11 +44075,6 @@ hearkeneth
 hearselike
 hearsome
 hearsomeness
-heart-breakingly
-heart-breakingness
-heart-poundingly
-heart-rendingly
-heart-stoppingly
 heartachingly
 heartachy
 heartbeatlike
@@ -44499,7 +44127,6 @@ heartwarmingly
 heartworthy
 heartwrenchingly
 hearty
-heat-proof
 heatability
 heatable
 heatedly
@@ -44564,10 +44191,6 @@ heaviness
 heavingly
 heavisome
 heavy
-heavy-handedly
-heavy-handedness
-heavy-heartedly
-heavy-heartedness
 heavyheartedly
 heavyheartedness
 heavyish
@@ -44616,7 +44239,6 @@ hectorship
 hedenbergite
 hedenbergitic
 hederic
-hederic acid
 hedgehoggy
 hedgehoglike
 hedgelessness
@@ -44714,7 +44336,6 @@ heldest
 helenin
 helenite
 helensville
-heli-skier
 heliacally
 heliastic
 helically
@@ -44898,7 +44519,6 @@ hemophagocytic
 hemophoric
 hemopoietically
 hemorrhagic
-hemorrhagic stroke
 hemorrhagically
 hemorrhagin
 hemorrhagiparous
@@ -44914,7 +44534,6 @@ hempish
 hemplike
 hempy
 hemusite
-hen-heartedness
 henchmanship
 henderson
 hendersonian
@@ -45181,7 +44800,6 @@ herself
 hertfordshire
 hertzian
 hervotype
-herzeg-bosnian
 herzegovinan
 herzegovinian
 herzlian
@@ -45395,7 +45013,6 @@ hiddlestoner
 hideable
 hideboundness
 hided
-hidel-like
 hideling
 hidelings
 hideman
@@ -45434,13 +45051,6 @@ higgler
 higgs
 higgsino
 higgson
-high-endness
-high-handedly
-high-handedness
-high-mindedly
-high-mindedness
-high-spiritedness
-high-techness
 highballer
 highbie
 highbrowism
@@ -45486,7 +45096,6 @@ hilariousness
 hilbertian
 hildebrandic
 hildebrandism
-hill-like
 hillarygate
 hillbillyish
 hillbillyism
@@ -45569,8 +45178,6 @@ hinter
 hinterlander
 hintikkian
 hintingly
-hip-hoppy
-hip-hopster
 hipdom
 hiper
 hipification
@@ -45726,7 +45333,6 @@ histrionic
 histrionically
 histrionicism
 histrionicity
-hitch-hiker
 hitchcockesque
 hitchcockian
 hitcher
@@ -45741,7 +45347,6 @@ hitchy
 hithermost
 hitherward
 hitherwards
-hitler-y
 hitleresque
 hitlerian
 hitlerish
@@ -45772,6 +45377,7 @@ hixon
 hixploitation
 hizzie
 hizzle
+hiärneite
 hmongic
 hmongness
 hoarder
@@ -45829,7 +45435,6 @@ hoboish
 hoboism
 hobolike
 hobsbawmian
-hobson-jobsonism
 hobsonville
 hocclevean
 hocker
@@ -45837,7 +45442,6 @@ hocketed
 hocketing
 hockeyist
 hockeylike
-hocus-pocuser
 hodder
 hoddie
 hodful
@@ -45886,8 +45490,6 @@ hoistable
 hoister
 hoisteth
 hoistman
-hoity-toitily
-hoity-toitiness
 hokanist
 hokeyness
 hokily
@@ -45895,7 +45497,6 @@ hokiness
 holbeinesque
 holbeinian
 holbergian
-hold-upper
 holdable
 holdase
 holdenite
@@ -45935,8 +45536,6 @@ hollerer
 hollidaysburg
 hollied
 hollingworthite
-hollow-heartedly
-hollow-heartedness
 hollower
 holloweth
 hollowheartedly
@@ -46168,6 +45767,12 @@ homozygously
 homozygousness
 homsi
 homy
+homœoidal
+homœomeric
+homœopathical
+homœopathically
+homœopathist
+homœopathize
 honduranness
 honeggerian
 honer
@@ -46195,7 +45800,6 @@ honker
 honkiness
 honkingly
 honklet
-honky tonk-like
 honkydom
 honoluluan
 honorability
@@ -46351,7 +45955,6 @@ horizontalness
 horizontically
 horizonward
 horizonwards
-horlicks
 hormetically
 hormonal
 hormonally
@@ -46388,8 +45991,6 @@ hornpipist
 hornsman
 hornswoggler
 horny
-horny-handedly
-horny-handedness
 horographic
 horologer
 horologic
@@ -46504,7 +46105,6 @@ hosteller
 hostelling
 hostelry
 hoster
-hostess-ship
 hostessing
 hostessy
 hostie
@@ -46514,7 +46114,6 @@ hostilize
 hostlership
 hostress
 hostship
-hot-swappable
 hotbloodedness
 hotdogger
 hoteldom
@@ -46570,7 +46169,6 @@ hoursworth
 hourwise
 housage
 housane
-house-sitter
 houseboater
 houseboundness
 housecleaning
@@ -46613,7 +46211,6 @@ housewifish
 housewifization
 housewoman
 housey
-housey-housey
 housie
 housing
 housley
@@ -46634,7 +46231,6 @@ hoverer
 hoverest
 hovereth
 hoveringly
-how've
 howardian
 howardite
 howarditic
@@ -46794,7 +46390,6 @@ humate
 humbersider
 humberstonite
 humble
-humble-heartedness
 humblebragger
 humbleheartedness
 humblehood
@@ -46896,7 +46491,6 @@ humulone
 humuslike
 humusy
 humynkind
-hun-like
 hunanese
 hunbot
 hunch
@@ -46953,7 +46547,6 @@ hunky
 hunnic
 hunnish
 hunnishness
-hunt-and-pecker
 huntable
 huntedly
 huntee
@@ -46981,7 +46574,6 @@ huntswoman
 hurdler
 hurdlesome
 hurdlework
-hurdy-gurdyist
 hurler
 hurlest
 hurleth
@@ -47159,7 +46751,6 @@ hydroelectrically
 hydroenvironmental
 hydrofluosilicate
 hydrogelation
-hydrogen-like
 hydrogenase
 hydrogenate
 hydrogenation
@@ -47321,7 +46912,6 @@ hypalgic
 hypapophysial
 hypatian
 hypeness
-hyper-correctness
 hyperactively
 hyperactiveness
 hyperacusic
@@ -47443,6 +47033,7 @@ hyperuricemic
 hypervaluation
 hyperventilator
 hypervolcanically
+hyperæsthetical
 hypester
 hypey
 hyphal
@@ -47590,9 +47181,8 @@ hysterographically
 hysteron
 hysterophytal
 hysterosalpingographic
-i-hood
-i-ness
-i-ship
+hæmorrhoidal
+hæretical
 iamatological
 iambically
 iambist
@@ -47620,8 +47210,6 @@ ibsenite
 ibufenac
 ibuterol
 icarianism
-ice-creamy
-ice-free
 iceane
 iceberglike
 icebergy
@@ -47936,13 +47524,6 @@ ileal
 ileally
 iliadic
 ilkhanate
-ill-advisedly
-ill-fatedly
-ill-favouredness
-ill-formedness
-ill-judgedly
-ill-naturedly
-ill-naturedness
 illabiality
 illatively
 illaudably
@@ -48636,7 +48217,6 @@ imputativeness
 imputer
 imputest
 imputeth
-in-depthness
 inaccessibleness
 inaccessibly
 inaccurately
@@ -49132,7 +48712,6 @@ indictee
 indicter
 indictor
 indide
-indie-like
 indiedom
 indieness
 indifferentism
@@ -49214,9 +48793,6 @@ individuative
 individuator
 indivisibleness
 indivisibly
-indo-aryanist
-indo-europeanist
-indochinite
 indocibleness
 indocility
 indoctrinability
@@ -50112,7 +49688,6 @@ inspirometer
 inspissator
 inspo
 instableness
-instagram-able
 instagrammability
 instagrammable
 instagrammer
@@ -50481,7 +50056,6 @@ interdisciplinarily
 interdisciplinarity
 interdiscursively
 interdivisionally
-interest-free
 interestable
 interestedly
 interestedness
@@ -50582,7 +50156,6 @@ intermediately
 intermediateness
 intermediation
 intermediatory
-intermezzo-like
 interminableness
 interminably
 intermingledness
@@ -50790,7 +50363,6 @@ interventionistic
 interventionistically
 interventive
 intervertebrally
-interview-worthy
 interviewable
 interviewee
 interviewer
@@ -51118,7 +50690,6 @@ inventorially
 inventorize
 inventorship
 inventress
-inverness-shire
 inversely
 inversional
 inversively
@@ -51212,7 +50783,6 @@ invulnerableness
 invulnerably
 inwanderer
 inward
-inward-lookingness
 inwardest
 inwardlookingness
 inwardly
@@ -51366,7 +50936,6 @@ irksomely
 irksomeness
 irkutskian
 irky
-iron-handedness
 ironable
 ironer
 ironhandedly
@@ -52095,7 +51664,6 @@ javascripter
 javascripting
 javelineer
 javelinist
-jaw-droppingly
 jawboneist
 jawboner
 jawbonist
@@ -52109,7 +51677,6 @@ jaylike
 jaynesian
 jayton
 jaywalking
-jazz-like
 jazzcore
 jazzdom
 jazzer
@@ -52279,7 +51846,6 @@ jettisonable
 jetty
 jevonian
 jevonsian
-jew-free
 jewdar
 jewdom
 jeweler
@@ -52675,8 +52241,6 @@ judgmental
 judgmentalism
 judgmentally
 judgy
-judgy mcjudgerson
-judgy-pants
 judicialization
 judicialize
 judicially
@@ -52821,7 +52385,6 @@ juryman
 jussieuan
 jussively
 juster
-justice-like
 justiceable
 justicement
 justicer
@@ -52872,7 +52435,7 @@ juxtaposable
 juxtaposer
 juxtapositional
 juxtapositionally
-k-popper
+jüngerian
 kabardian
 kabbalic
 kabbalistically
@@ -53104,7 +52667,9 @@ keglike
 kehoeite
 keirseyan
 kekistani
+kekulean
 kekulene
+kekuléan
 kelantanese
 kellerian
 kellyana
@@ -53178,7 +52743,6 @@ kerchiefed
 kerchieflike
 keresan
 kerfuffly
-kermesic acid
 kermodism
 kernbergian
 kerned
@@ -53361,7 +52925,6 @@ kikey
 kikuyuland
 kilbrickenite
 kilchoanite
-kill0r
 killability
 killable
 killbot
@@ -53406,8 +52969,6 @@ kinanthropometric
 kinbotean
 kincaidian
 kincardineshire
-kind-heartedly
-kind-heartedness
 kinder
 kindergartenize
 kindergartner
@@ -53511,7 +53072,6 @@ kinomic
 kinomics
 kinoplasmic
 kinoshitalite
-kinross-shire
 kinseyan
 kinshasan
 kinship
@@ -53646,7 +53206,6 @@ kleptomaniacal
 kleptomaniacally
 kleptoparasitically
 kleshic
-klezmer-like
 klezmerish
 klezmerlike
 klimtian
@@ -53690,10 +53249,6 @@ kneadest
 kneadeth
 kneading
 kneadingly
-knee-capping
-knee-jerkish
-knee-jerkishly
-knee-jerky
 kneeboarder
 kneecapper
 kneedness
@@ -53718,7 +53273,6 @@ kneweth
 knickerbockered
 knickered
 knickerlessness
-knickknackery
 knifecraft
 knifeful
 knifelessness
@@ -53803,10 +53357,6 @@ knotty
 knotwork
 knouter
 knouting
-know-it-all
-know-it-allery
-know-it-allism
-know-nothingism
 knowability
 knowable
 knowableness
@@ -53875,7 +53425,6 @@ kolovratite
 komatiite
 komatiitic
 kombatite
-komi-zyrian
 komuzist
 kongsbergite
 kongzian
@@ -53964,6 +53513,7 @@ kryptonation
 kryptonide
 kryptonite
 krytron
+kröhnkite
 kser
 kshatriyahood
 kth
@@ -54019,6 +53569,10 @@ kyrgyzstan
 kyrgyzstani
 kyriarchal
 kyriological
+kádárian
+kâshghari
+kählerian
+köttigite
 labadism
 labadist
 labbie
@@ -54180,14 +53734,12 @@ lactiferous
 lactiferousness
 lactivist
 lactobacillemia
-lactobacillic acid
 lactococcosis
 lactonase
 lactonic
 lactonisation
 lactonization
 lactoridaceous
-lactose-free
 lactosidase
 lactoside
 lactosuria
@@ -54252,7 +53804,6 @@ laffer
 lafferian
 lagenar
 lageniform
-lagered up
 lagerlike
 lagerphone
 lagery
@@ -54292,7 +53843,6 @@ laired
 lairiness
 lairize
 lairlike
-laissez-faireism
 laitand
 lakeful
 lakelander
@@ -54572,7 +54122,6 @@ larcenous
 larcenously
 larchen
 larchlike
-lard-ass
 lardaceous
 larderer
 larderful
@@ -54584,10 +54133,6 @@ lardnerian
 lardo
 lardy
 laredoan
-large-handedly
-large-handedness
-large-heartedly
-large-heartedness
 largeheartedly
 largeheartedness
 largeish
@@ -54871,7 +54416,6 @@ lavoisierite
 lavoisium
 lavvy
 lavy
-law-way
 lawcraft
 lawful
 lawfully
@@ -55186,9 +54730,6 @@ lefebvrist
 lefebvrite
 lefkosian
 lefortian
-left-handedly
-left-handedness
-left-wingy
 leftard
 leftern
 leftest
@@ -55208,7 +54749,6 @@ leftwards
 leftwise
 lefty
 lefull
-legacy-free
 legalese
 legalisation
 legalise
@@ -55595,10 +55135,6 @@ levanter
 levantine
 leveed
 leveful
-level-handedly
-level-handedness
-level-headedly
-level-headedness
 levelable
 levelage
 leveler
@@ -55721,8 +55257,6 @@ libellously
 libelluloid
 libelous
 libelously
-liberal-mindedly
-liberal-mindedness
 liberalese
 liberalisation
 liberalish
@@ -55856,6 +55390,7 @@ lidful
 lidlessness
 lidlike
 lidocaine
+lieberkuhnian
 liebigite
 liechtensteinian
 liedlike
@@ -55874,12 +55409,9 @@ lienor
 liensman
 lier
 liest
-lieutenant-colonelcy
 lieutenantess
 lieutenantry
 lieutenantship
-life-changingly
-life-long
 lifeaholic
 lifeboatism
 lifeboatman
@@ -55940,16 +55472,6 @@ ligatured
 ligeance
 ligeian
 ligger
-light-fingeredness
-light-footedly
-light-footedness
-light-handedly
-light-handedness
-light-headedly
-light-heartedly
-light-heartedness
-light-mindedly
-light-mindedness
 lightable
 lighten
 lightener
@@ -55963,7 +55485,6 @@ lighteth
 lightfastness
 lightful
 lightfulness
-lightheadedness
 lightheartedly
 lightheartedness
 lighthouselike
@@ -56012,7 +55533,6 @@ lihyanite
 likable
 likableness
 likably
-like-mindedness
 likeability
 likeable
 likeableness
@@ -56107,7 +55627,6 @@ limnoplanktonic
 limolike
 limonitic
 limousinelike
-limp-dickedness
 limpard
 limpen
 limper
@@ -56129,7 +55648,6 @@ limy
 linaceous
 linalyl
 linamarase
-lincoln-like
 lincolnesque
 lincolnian
 lincolniana
@@ -56254,8 +55772,6 @@ linty
 linuxer
 linuxism
 linzer
-lion-heartedly
-lion-heartedness
 lionburger
 lionesque
 lioness
@@ -56277,7 +55793,6 @@ lionling
 lionly
 lionproof
 lionship
-lip-syncer
 liparan
 liparian
 liparite
@@ -56608,7 +56123,6 @@ loaneth
 loaning
 loanworthy
 loathable
-loathe-worthy
 loathedness
 loather
 loathest
@@ -56670,7 +56184,6 @@ lobulette
 lobuloalveolar
 lobulocentric
 lobulogenesis
-loc'd
 localic
 localisable
 localise
@@ -56735,7 +56248,6 @@ locksman
 locksmithery
 locksmithing
 locky
-locky d
 locoed
 locofocoism
 locoism
@@ -56808,6 +56320,7 @@ lognormally
 logocentricity
 logoclonic
 logodaedalist
+logodædalist
 logoed
 logogrammic
 logographic
@@ -56824,6 +56337,7 @@ logophilic
 logophoric
 logorrheic
 logorrheically
+logorrhœic
 logotypic
 logroller
 loinclothed
@@ -56864,7 +56378,6 @@ lomentaceous
 lomentariaceous
 lonchocarpane
 lonchocarpol
-london-centric
 londoner
 londonese
 londonesque
@@ -56886,25 +56399,12 @@ lonelihood
 lonelily
 loneliness
 lonely
-lonely-heartedness
 loneness
 loner
 lonerganian
 lonesome
 lonesomely
 lonesomeness
-long distancer
-long-form
-long-grasser
-long-leggedness
-long-livedness
-long-mindedness
-long-player
-long-termism
-long-termly
-long-termness
-long-windedly
-long-windedness
 longage
 longanimously
 longboarder
@@ -56936,8 +56436,6 @@ longsome
 longsomely
 longsomeness
 longstandingness
-longtermism
-longtermist
 longtermly
 longtimer
 longville
@@ -56983,8 +56481,6 @@ looplet
 looplike
 loopwise
 loopy
-loose-handedly
-loose-handedness
 loosely
 loosen
 loosenable
@@ -57000,6 +56496,7 @@ lootable
 looter
 lopeman
 loper
+lopezite
 lophiostomataceous
 lophirone
 lophocereine
@@ -57124,7 +56621,6 @@ loureirin
 loureth
 louring
 louringly
-louse-ridden
 louselike
 louseling
 lousicide
@@ -57141,7 +56637,6 @@ lovability
 lovable
 lovableness
 lovably
-love-shyness
 loveably
 loveaholic
 lovebot
@@ -57184,8 +56679,6 @@ lovest
 loveth
 loveworthy
 lovey
-lovey-dovey
-lovey-doveyness
 lovez
 lovie
 loving
@@ -57194,13 +56687,6 @@ lovingness
 lovingston
 loviride
 lovish
-low-carber
-low-heartedly
-low-heartedness
-low-keyness
-low-mindedly
-low-mindedness
-low-spiritedness
 lowballer
 lowbie
 lowbrowism
@@ -57668,7 +57154,6 @@ lytically
 lyticase
 lyttonian
 lyxopyranoside
-ma-in-law
 maackiain
 maastrichtian
 mabinlin
@@ -57829,7 +57314,6 @@ maddish
 maddle
 maddock
 maddy
-made-upness
 madeiran
 maderization
 madest
@@ -58043,7 +57527,6 @@ mahommetanism
 mahumetan
 mahumetanism
 maiden
-maiden-auntishness
 maidenhead
 maidenhood
 maidenish
@@ -58184,6 +57667,7 @@ maladaptiveness
 maladious
 maladroitly
 maladroitness
+malagan
 malaised
 malaitan
 malakoplakic
@@ -58218,7 +57702,6 @@ malayisation
 malayization
 malayize
 malayness
-malayo-polynesianist
 malaysia
 malaysian
 malaysianization
@@ -58231,7 +57714,6 @@ malcontentism
 malcontently
 malding
 maldivian
-male-bot
 malean
 maleate
 malebolgian
@@ -58275,6 +57757,7 @@ malingerer
 malingeror
 malinowskian
 malitiously
+mallarméan
 mallcore
 malleableization
 malleableize
@@ -58498,7 +57981,6 @@ manhattanization
 manhattanize
 manhattanville
 manhood
-mania-like
 maniac
 maniacal
 maniacality
@@ -58688,13 +58170,11 @@ manwise
 manxman
 manxness
 manxwoman
-many-handedly
-many-handedness
-many-sidedness
 manyhood
 manyness
 manywise
 manzanite
+manœuvreable
 maoist
 maoization
 maoize
@@ -58843,7 +58323,6 @@ maritimal
 maritimely
 maritimization
 mariupolitan
-mark twainish
 markable
 markan
 marked
@@ -59080,6 +58559,7 @@ maryton
 maryville
 marzbanate
 marzpanate
+maréchalian
 masarykian
 mascagnite
 mascaraed
@@ -59246,9 +58726,9 @@ matchlessness
 matchlike
 matchmakee
 matchy
-matchy-matchiness
 mateable
 matehood
+mateine
 matelessness
 mater
 materialisation
@@ -59356,8 +58836,6 @@ matronly
 matronship
 mattedly
 mattedness
-matter-of-factish
-matter-of-factness
 matterative
 mattereth
 matterful
@@ -59385,7 +58863,6 @@ maturish
 maturity
 matutinally
 matzol
-mau-mauer
 maudie
 maudlinism
 maudlinize
@@ -59790,7 +59267,7 @@ mediumly
 mediumship
 medize
 medizer
-medronic acid
+mediævally
 medspeak
 medullary
 medullated
@@ -59925,7 +59402,6 @@ melikdom
 melilitic
 melilititic
 melillan
-melilotic acid
 melinitic
 meliolaceous
 meliorater
@@ -60439,7 +59915,6 @@ messaging
 messalianism
 messalinian
 messapian
-messed-upness
 messenger
 messengerhood
 messengerial
@@ -60749,7 +60224,6 @@ metrisability
 metrizability
 metrizable
 metrizoate
-metroid-like
 metroidlike
 metroisation
 metrolingualism
@@ -60850,7 +60324,6 @@ mickleness
 micritic
 micritization
 micritize
-micro-cheater
 microanalytically
 microanatomic
 microanatomical
@@ -60947,6 +60420,8 @@ micronise
 micronization
 micropaedic
 micropalaeontologic
+micropalæontologic
+micropalæontologist
 micropathologically
 micropatriological
 micropatriologist
@@ -61005,15 +60480,11 @@ microwavery
 micrurgist
 micturitional
 midanteriorly
-midas-like
 midasian
 midbie
 midcourter
 middelfarter
 middish
-middle-agedness
-middle-classness
-middle-of-the-roadness
 middlebrowism
 middleburg
 middlebury
@@ -61037,7 +60508,6 @@ midfielder
 midgardian
 midgeling
 midgeproof
-midget-esque
 midgetism
 midgetlike
 midgetly
@@ -61063,7 +60533,6 @@ midribbed
 midriffed
 midsagittally
 midsectional
-midshipman's hitch
 midshipmanship
 midstager
 midsummerish
@@ -61295,10 +60764,6 @@ minceth
 mincingly
 mincingness
 mincy
-mind-blowingly
-mind-blowingness
-mind-fuckery
-mind-numbingness
 mindblowingly
 mindbogglingly
 minded
@@ -61507,7 +60972,6 @@ mirken
 mirkily
 mirksome
 mirnaome
-mirror-like
 mirrorable
 mirroredness
 mirrorful
@@ -61920,8 +61384,6 @@ moany
 moastly
 moated
 moatlike
-mob-handedly
-mob-handedness
 mobber
 mobbish
 mobbishness
@@ -62155,6 +61617,7 @@ molestest
 molesteth
 molestful
 molesworthian
+molieresque
 moliminal
 molinism
 molinist
@@ -62190,7 +61653,6 @@ molybdian
 molybdic
 molybdosis
 molybdous
-mom-in-law
 momentally
 momentaneously
 momentaneousness
@@ -62783,7 +62245,6 @@ moribundity
 moribundly
 moribundness
 morindin
-moringic acid
 morisianine
 morisonian
 morisonianism
@@ -62987,7 +62448,6 @@ motettist
 motey
 mothballer
 mothbally
-mother's milk
 mothercraft
 motherdom
 mothered
@@ -63089,6 +62549,7 @@ mottolike
 mottoware
 mouchardism
 mouffean
+mouillation
 mouldability
 mouldable
 moulden
@@ -63171,10 +62632,8 @@ moussy
 moustached
 moustachelike
 moustachial
-moustachio'd
 moustachy
 mousy
-mouth-wateringly
 mouthable
 mouthedness
 mouther
@@ -63395,7 +62854,6 @@ mullioned
 mullock
 mullocker
 mullocky
-multi-partnering
 multiaxiality
 multiaxially
 multibillionairess
@@ -63531,7 +62989,6 @@ multivocalism
 multivocalness
 multurer
 mulveyan
-mum-in-law
 mumblage
 mumblecore
 mumblement
@@ -63729,7 +63186,6 @@ mushie
 mushily
 mushiness
 mushlike
-mushroom-like
 mushroomburger
 mushroomer
 mushroomic
@@ -64171,8 +63627,7 @@ myxochondromatous
 myxomatoid
 myxomatous
 myxotrichaceous
-n-gram
-n-plex
+müllerian
 nabber
 nabman
 nabobery
@@ -64221,7 +63676,6 @@ nahuatlist
 naiadaceous
 naifly
 naifness
-nail-bitingly
 nailable
 nailer
 naileress
@@ -64244,7 +63698,6 @@ naivist
 naivistic
 najadaceous
 najafi
-naked-handedly
 nakedhood
 nakedise
 nakedish
@@ -64281,7 +63734,6 @@ namierization
 nammer
 nanaji
 nancified
-nancy pants
 nanjinger
 nanjingese
 nannydom
@@ -64318,7 +63770,6 @@ naphthalic
 naphthenate
 naphthene
 naphthenic
-naphthenic acid
 naphthoate
 naphthoic
 naphtholate
@@ -64392,9 +63843,6 @@ narratress
 narratrix
 narreme
 narremic
-narrow-mindedly
-narrow-mindedness
-narrow-sightedness
 narrowable
 narrowboater
 narrowboating
@@ -64557,7 +64005,6 @@ navarch
 navarran
 naved
 navel
-navel-gazey
 navelike
 navelled
 navellike
@@ -64579,7 +64026,6 @@ nazaritic
 nazaritish
 nazaritism
 nazcan
-nazi-like
 nazianzen
 nazicrat
 nazidom
@@ -64593,6 +64039,9 @@ naziphilia
 nazism
 nazisploitation
 nazist
+naïvely
+naïveness
+naïvest
 nbaer
 ndper
 nealogic
@@ -64607,10 +64056,6 @@ nearlyness
 nearness
 nearsightedly
 nearsightedness
-neartermism
-neartermist
-neat-handedly
-neat-handedness
 neaten
 neatherdess
 neatify
@@ -64627,7 +64072,6 @@ nebbishy
 nebby
 nebraskan
 nebraskanic
-nebraskanic acid
 nebulalike
 nebular
 nebularine
@@ -64855,7 +64299,6 @@ nemean
 nemerovian
 nemertean
 nemesic
-neo-nazism
 neoclassicalism
 neoclassically
 neocolonialism
@@ -64896,7 +64339,6 @@ neonlike
 neonomianism
 neontological
 neontologist
-neopaganize
 neopastoralism
 neopentyl
 neophytic
@@ -64996,7 +64438,6 @@ nernstian
 nerolidol
 nerolidyl
 nerval
-nerve-rackingly
 nerved
 nervelessly
 nervelessness
@@ -65039,7 +64480,6 @@ nestorianist
 nestorianize
 nestorianizer
 nestward
-net-like
 netaholic
 netballer
 netballing
@@ -65051,7 +64491,6 @@ netflixian
 netflixy
 netful
 nethead
-nether wyresdale
 netherhood
 netherlander
 netherlandic
@@ -65108,7 +64547,6 @@ neurilemmoma
 neurility
 neuritogenesis
 neuritogenic
-neuro-ophthalmologist
 neuroanatomically
 neurobehaviorally
 neurobehaviourally
@@ -65255,7 +64693,6 @@ neverness
 nevisian
 nevomelanocytic
 nevvy
-new modelize
 newbieness
 newblet
 newboltian
@@ -65333,8 +64770,6 @@ nexting
 nextly
 nextness
 nfler
-ngo-isation
-ngo-ization
 nhler
 niacinate
 niagaran
@@ -65430,7 +64865,6 @@ nietzscheism
 nietzscheite
 nietzschesque
 nieveful
-niff-naffy
 niffy
 niftily
 niftiness
@@ -65497,7 +64931,6 @@ nigheth
 nighly
 nighness
 nighsome
-night-lifer
 nightcapped
 nightclubber
 nightclubby
@@ -65525,7 +64958,6 @@ nightmarish
 nightmarishly
 nightmarishness
 nightmary
-nights
 nightscape
 nightscope
 nightshirted
@@ -65551,7 +64983,6 @@ nikonite
 nilable
 niladic
 nilean
-nilo-saharanist
 nilometer
 niloscope
 nilotic
@@ -65560,7 +64991,6 @@ nilpotently
 nimbed
 nimbility
 nimble
-nimble-wittedness
 nimbleness
 nimblesome
 nimbly
@@ -65576,7 +65006,6 @@ nimzowitschian
 nincompoopery
 nincompoopish
 nincompoopism
-nine-to-fiver
 ninefold
 ninefoldness
 nineish
@@ -65714,7 +65143,6 @@ nizamate
 nkandlagate
 nkrumaism
 nkrumaist
-no-nonsensely
 noachian
 noahian
 noahic
@@ -65731,14 +65159,12 @@ nobby
 nobelist
 nobelitis
 nobelium
-noble-mindedness
 noblemanly
 nobleness
 noblesville
 noblewoman
 nobly
 nobodiness
-nobody's
 nocardiosis
 nocently
 noctophobia
@@ -65867,10 +65293,6 @@ nomologist
 nomophylactic
 noms
 nomukan
-non-binariness
-non-binarity
-non-englishness
-non-minimally
 nonabine
 nonabusively
 nonacademically
@@ -66233,11 +65655,6 @@ norselander
 norseman
 norseness
 norsewoman
-north tawton
-north-northeastern
-north-northeastwards
-north-northwestern
-north-northwestwards
 northbound
 northeasterner
 northeasternmost
@@ -66284,7 +65701,6 @@ norwegianness
 norweyan
 norwicher
 nos
-nose-ish
 nosebagged
 nosedness
 noseful
@@ -66327,7 +65743,6 @@ nostrilful
 nostrility
 nostrilled
 nosy
-not've
 notability
 notable
 notableness
@@ -66415,6 +65830,7 @@ noumenality
 noumenalize
 noumenally
 noumenology
+nouméan
 nounal
 nounally
 nounhood
@@ -66424,7 +65840,6 @@ nounize
 nounlessness
 nounlike
 nounness
-nounself pronoun
 nounship
 nouny
 nourishable
@@ -66484,7 +65899,6 @@ nozickian
 nozzle
 nozzled
 nozzleman
-np-completeness
 nsfwish
 nsutite
 nuanced
@@ -66501,7 +65915,6 @@ nublike
 nucamentaceous
 nuciferine
 nuclear
-nuclear-free
 nuclearisation
 nuclearise
 nuclearism
@@ -66807,8 +66220,6 @@ oatmealish
 oatmealy
 oaty
 oaxacan
-obama-esque
-obama-rama
 obamabot
 obamacrat
 obamagate
@@ -67033,7 +66444,6 @@ obsoleter
 obsoletion
 obsoletism
 obsoletor
-obstacle-ridden
 obstacular
 obstetrically
 obstetricate
@@ -67380,12 +66790,6 @@ oestrin
 oestrogenically
 oestrogenism
 ofer
-off-gridder
-off-pister
-off-puttingly
-off-roader
-off-roading
-off-worlder
 offally
 offbeatness
 offenbachian
@@ -67530,9 +66934,6 @@ okishian
 oklahoman
 okunian
 olacaceous
-old-fashionedly
-old-fashionedness
-old-timey
 oldass
 oldbie
 olden
@@ -67692,7 +67093,6 @@ omnisexuality
 omnisexually
 omnispatiality
 omnispatially
-omnium-gatherum
 omniversal
 omnivorously
 omnivorousness
@@ -67701,7 +67101,6 @@ omophagist
 omoplatoscopy
 omoticist
 omphacitic
-on-roader
 onagraceous
 onanism
 onanist
@@ -67722,11 +67121,6 @@ oncolysate
 oncometric
 oncostman
 onding
-one's
-one-dimensionally
-one-handedly
-one-itis
-one-sidedness
 onefold
 onefoldness
 onehead
@@ -67753,14 +67147,11 @@ onesies
 onesome
 oneth
 oneties
-onety-one
-onety-oneth
 ongian
 ongoer
 ongoingly
 ongoingness
 onioned
-onionin a
 onionland
 onionlike
 oniony
@@ -67783,6 +67174,7 @@ onomatopoeian
 onomatopoeic
 onomatopoeically
 onomatopoetically
+onomatopœical
 onomotopoetically
 onondagan
 onsetter
@@ -67820,7 +67212,6 @@ oologically
 oologist
 oologize
 oomfie
-oompah-like
 oomphy
 oomycide
 oophorectomize
@@ -67864,13 +67255,6 @@ opaquely
 opaquen
 opaqueness
 opelet
-open-earedness
-open-endedly
-open-handedly
-open-handedness
-open-mindedly
-open-mindedness
-open-sourceness
 openability
 openable
 opener
@@ -68142,6 +67526,7 @@ orbity
 orblet
 orblike
 orby
+orbánism
 orcadian
 orcharder
 orchardful
@@ -68202,6 +67587,7 @@ ordinaryship
 ordinately
 ordnanceman
 ordoliberally
+ordonezite
 ordrely
 ordurous
 orebite
@@ -68747,6 +68133,7 @@ outreness
 outriggered
 outrightly
 outrightness
+outréness
 outsending
 outshiner
 outsideness
@@ -68776,7 +68163,6 @@ outstripper
 outswinger
 outtie
 outward
-outward-lookingness
 outwardlookingness
 outwardly
 outwardmost
@@ -68825,8 +68211,6 @@ ovenful
 ovenlike
 ovenproof
 ovenware
-over-insolently
-over-the-topness
 overabundantly
 overactiveness
 overage
@@ -69372,7 +68756,14 @@ ozonous
 ozploitation
 ozymandian
 ozzie
-p-adic
+oögonial
+oöidal
+oölogic
+oölogical
+oölogically
+oölogist
+oöphytic
+oötidogenesis
 paamese
 pabloism
 pabloist
@@ -69504,7 +68895,6 @@ paginator
 paglian
 pagnolesque
 pagnolian
-pagoda-like
 pagodaed
 pagodalike
 pagodane
@@ -69513,7 +68903,6 @@ paid
 paidest
 pailful
 pailletted
-pain-free
 painable
 painedly
 painest
@@ -69790,7 +69179,8 @@ palynological
 palynologically
 palynologist
 palynostratigraphic
-pama-nyunganist
+palæontologic
+palæontologist
 paman
 pammie
 pammy
@@ -69817,9 +69207,6 @@ pamphletry
 pamphletwise
 pamphylian
 pamplonan
-pan-americanism
-pan-loafy
-pan-serbism
 panacean
 panaceist
 panamanian
@@ -69951,7 +69338,6 @@ panspermic
 pansporoblastic
 pansyish
 pansylike
-pant-wettingly
 pantagruelianly
 pantalooned
 pantaloonery
@@ -70071,7 +69457,6 @@ papyrographic
 papyrological
 papyrologically
 papyrologist
-para-surfer
 parablastic
 parablelike
 parabolically
@@ -70354,7 +69739,6 @@ parenchymal
 parenchymally
 parenchymatitis
 parenetically
-parent-in-law
 parentalism
 parentality
 parentally
@@ -70493,7 +69877,6 @@ parrier
 parriest
 parrieth
 parro
-parrot-like
 parroter
 parrotese
 parrothead
@@ -70660,7 +70043,6 @@ passageable
 passcoded
 passee
 passen
-passenger-side
 passer
 passest
 passibleness
@@ -70685,8 +70067,6 @@ passiontide
 passival
 passivate
 passivation
-passive-aggressively
-passive-aggressivist
 passively
 passiveness
 passivisability
@@ -71125,7 +70505,6 @@ peanutlike
 peanutty
 pearic
 pearisburg
-pearl-clutchy
 pearlaceous
 pearlcore
 pearldom
@@ -71174,6 +70553,7 @@ peaty
 pebblelike
 pebbleware
 pebbly
+pebrinous
 peccantly
 pecker
 peckest
@@ -71200,7 +70580,6 @@ pectization
 pectocellulose
 pectocellulosic
 pectorally
-pectosic acid
 peculiarise
 peculiarism
 peculiarity
@@ -71292,7 +70671,6 @@ pedotherapist
 pedotrophist
 peduncled
 peduncular
-pee-er
 peeblesshire
 peekable
 peekaboo
@@ -71502,7 +70880,6 @@ penninic
 pennogenyl
 pennoned
 pennsylvanian
-penny-a-liner
 penobsquisite
 penologic
 penological
@@ -72404,7 +71781,6 @@ pezizaceous
 pezzottaite
 pfaffian
 pfizered
-ph-metry
 phacidiaceous
 phaeochromocytoma
 phaeosphaeriaceous
@@ -72489,6 +71865,7 @@ pharmacopeist
 pharmacophoric
 pharmacopoeial
 pharmacopoeic
+pharmacopœical
 pharsalian
 pharyngal
 pharyngealization
@@ -72593,7 +71970,6 @@ philatelical
 philatelically
 philatelist
 philathean
-philedom
 philharmonically
 philhellenic
 philippan
@@ -73001,7 +72377,6 @@ physicochemicalism
 physicochemically
 physicomathematically
 physicomechanically
-physics-ly
 physiochemically
 physiocratically
 physiocratism
@@ -73048,6 +72423,8 @@ phytotherapeutically
 phytotomist
 phytotronic
 phytyl
+phænologic
+phænotypical
 piacentine
 piacularly
 piagetian
@@ -73547,7 +72924,6 @@ pistonlike
 pistonphone
 pitcairner
 pitcairnese
-pitch darkness
 pitchable
 pitcher
 pitcherful
@@ -73618,7 +72994,6 @@ pivotalness
 pivoter
 pivotlessness
 pivotlike
-pix0r
 pixelate
 pixelation
 pixeled
@@ -73746,7 +73121,6 @@ planarly
 planation
 planckian
 planckon
-plane-mate
 planectomy
 planeful
 planelike
@@ -73834,7 +73208,6 @@ plantationer
 plantationlike
 planted
 planter
-planter's wart
 planterful
 plantership
 plantest
@@ -74488,11 +73861,10 @@ poignantly
 poikilitically
 poikiloblastic
 poikiloblastically
+poincaréan
 poinder
 poindexterish
 poinsettia
-point-free
-point-to-pointer
 pointable
 pointcast
 pointedly
@@ -74666,7 +74038,6 @@ politology
 politonym
 politzerization
 politzerize
-polka-like
 polkalike
 polkamania
 pollable
@@ -75032,7 +74403,6 @@ pooper
 poopie
 poopiness
 poopsicle
-poor-spiritedness
 poorish
 poorliness
 poorling
@@ -75159,7 +74529,6 @@ pornographer
 pornographess
 pornographic
 pornographically
-pornographico-devotional
 pornographist
 pornographization
 pornological
@@ -75328,7 +74697,6 @@ possibleness
 possibly
 possie
 possumlike
-post-free
 postable
 postage
 postally
@@ -75652,8 +75020,8 @@ practisest
 practiseth
 practitionership
 practively
+praenominal
 praetorship
-pragger-wagger
 pragmalinguistically
 pragmatically
 pragmaticalness
@@ -75754,9 +75122,6 @@ prayful
 prayingly
 prazepam
 prazosin
-pre-adamitism
-pre-emptively
-pre-teenhood
 preachable
 preachee
 preacher
@@ -76152,7 +75517,6 @@ prequalifier
 prequelise
 prequelization
 prequelize
-preraphaelitish
 prereader
 prerogatived
 prerogatively
@@ -76265,7 +75629,6 @@ pressiometric
 pressive
 pressly
 pressmanship
-pressor beam
 presstitution
 pressural
 pressurelessness
@@ -76406,6 +75769,10 @@ prexie
 preyer
 preyful
 prezygotically
+preëmptible
+preëmptive
+preëmptor
+preëmptory
 priany
 priapic
 priapically
@@ -76454,7 +75821,6 @@ prideworthy
 pridingly
 pridnestrovian
 prier
-priest-ridden
 priestcraft
 priestdom
 priestery
@@ -76581,7 +75947,6 @@ printability
 printable
 printableness
 printer
-printer's hat
 printerdom
 printeress
 printerlike
@@ -76670,12 +76035,6 @@ prizer
 prizest
 prizeth
 prizeworthy
-pro-abortionism
-pro-abortionist
-pro-choicer
-pro-deather
-pro-lifer
-pro-vaxxer
 proactively
 proactiveness
 proactivism
@@ -76927,7 +76286,6 @@ profusely
 profuseness
 profusively
 profusiveness
-prog-like
 progenate
 progenation
 progenitally
@@ -77298,6 +76656,7 @@ proprietress
 proprietrix
 propriety
 proprioceptively
+proprætorship
 propugner
 propulsively
 propulsiveness
@@ -77557,8 +76916,6 @@ protrusiveness
 protuberancy
 protuberantly
 proturan
-proud-heartedly
-proud-heartedness
 proudful
 proudfully
 proudfulness
@@ -77714,6 +77071,9 @@ pryingly
 pryingness
 prymnesiophytic
 pryproof
+præcisely
+præsenteth
+præsently
 psalmic
 psalmist
 psalmodic
@@ -77914,7 +77274,6 @@ pterygiate
 ptochologist
 ptolemaian
 ptolemaic
-ptolemaic system
 ptolemian
 ptsder
 pubarchal
@@ -78132,7 +77491,6 @@ pumpkinlike
 pumpkiny
 pumplike
 pumpman
-pun-off
 punacious
 punaluan
 punchability
@@ -78198,7 +77556,6 @@ punitively
 punitiveness
 punjabi
 punjabiness
-punk-ass
 punkadelic
 punkdom
 punker
@@ -78353,7 +77710,6 @@ purply
 purported
 purportedly
 purportion
-purpose-like
 purposed
 purposedly
 purposeful
@@ -78547,6 +77903,7 @@ pyorrheal
 pyorrheic
 pyorrhoeal
 pyorrhoeic
+pyorrhœic
 pyosalpingitis
 pyot
 pyral
@@ -78674,6 +78031,10 @@ pythonist
 pythonista
 pythonlike
 pyxing
+pääkkönenite
+pædagogical
+pæderastic
+pædophilic
 qabalist
 qabalistically
 qadarite
@@ -78688,7 +78049,6 @@ qatariness
 qatarization
 qatarize
 qatifi
-qawwali-like
 qiangic
 qliphothic
 quacker
@@ -79074,9 +78434,6 @@ quibblesome
 quibblingly
 quibbly
 quichelike
-quick-handedness
-quick-wittedly
-quick-wittedness
 quicken
 quickener
 quickenest
@@ -79289,8 +78646,7 @@ quranologist
 qurayshite
 qutbism
 qutbist
-r-slurred
-r0x0r
+quæstionable
 raadeite
 rabatment
 rabbeter
@@ -79300,8 +78656,6 @@ rabbinical
 rabbinically
 rabbinize
 rabbiship
-rabbit-o
-rabbit-proof
 rabbitdom
 rabbiter
 rabbithood
@@ -79329,7 +78683,6 @@ rabific
 raccoonish
 raccoonlike
 raccoonproof
-race-blindness
 raceable
 racecraft
 racelessness
@@ -79641,7 +78994,6 @@ rallier
 rallycross
 rallyingly
 rallyist
-ram-like
 ramage
 ramal
 ramble
@@ -79660,7 +79012,6 @@ ramhood
 ramicorn
 ramifiability
 ramifiable
-ramikite-(y)
 ramlike
 rammable
 rammee
@@ -79701,6 +79052,7 @@ rancidify
 rancidity
 rancidly
 rancidness
+rancierian
 rancorous
 rancorously
 rancorousness
@@ -79783,7 +79135,6 @@ rantish
 rantsona
 ranty
 ranular
-rao-blackwellization
 rapability
 rapable
 rapaciously
@@ -79906,7 +79257,6 @@ rasterise
 rasterization
 rasterize
 rasterizer
-rat-ridden
 ratability
 ratable
 ratbaggery
@@ -79982,7 +79332,6 @@ rattery
 rattily
 rattiness
 rattish
-rattle-free
 rattleproof
 rattler
 rattlesome
@@ -80075,12 +79424,9 @@ razeth
 razorable
 razorlike
 razory
+raëlian
+raëlism
 rdmer
-re-embarkation
-re-equipment
-re-erection
-re-establishes
-re-user
 reachability
 reachable
 reacher
@@ -80139,7 +79485,6 @@ readmittee
 readograph
 readville
 readworthy
-ready-handedness
 reaffirmer
 reaganaut
 reaganesque
@@ -81061,7 +80406,6 @@ regioisomeric
 regiolectal
 regiolectally
 regiolectic
-region-wide
 regionalise
 regionalism
 regionalist
@@ -81994,7 +81338,6 @@ repulsingly
 repulsively
 repulsiveness
 repulsor
-repulsor beam
 repumping
 repurchaser
 repurposability
@@ -82172,7 +81515,6 @@ resinitic
 resinization
 resinize
 resinlike
-resino-electric
 resinography
 resinoid
 resinosis
@@ -82586,7 +81928,6 @@ retriever
 retrieverish
 retrievest
 retrieveth
-retro-orbitally
 retroactively
 retroactiveness
 retrocaecally
@@ -82660,6 +82001,7 @@ reubenite
 reubs
 reunificationism
 reunificationist
+reunionese
 reunionism
 reunionist
 reunitable
@@ -82776,7 +82118,6 @@ revertive
 revertively
 revhead
 revictimizer
-review-proof
 reviewability
 reviewable
 reviewage
@@ -82901,6 +82242,8 @@ rewritable
 rewriteman
 rewriter
 rexburg
+reykjaviker
+reykjavikian
 reynoldsian
 reznorian
 rezonable
@@ -82992,7 +82335,6 @@ rhizospheric
 rhizotomist
 rhodaminated
 rhodanate
-rhodeoretinic acid
 rhodeoretinol
 rhodesia
 rhodesian
@@ -83220,12 +82562,6 @@ rigger
 riggies
 rigging
 riggish
-right-handedly
-right-handedness
-right-hearted
-right-mindedly
-right-mindedness
-right-onness
 rightable
 rightard
 righten
@@ -83350,7 +82686,6 @@ riotously
 riotousness
 riotproof
 riotry
-rip-roaringly
 riparianism
 riparianness
 ripeish
@@ -83383,7 +82718,6 @@ riser
 risest
 risibleness
 risibly
-risk-free
 riskable
 risker
 riskest
@@ -83402,6 +82736,7 @@ risky
 risley
 risottolike
 risqueness
+risquéness
 ritelessness
 ritely
 ritschlian
@@ -83578,7 +82913,6 @@ robustity
 robustize
 robustly
 robustness
-rock-like
 rockability
 rockable
 rockably
@@ -83667,6 +83001,7 @@ roentgenological
 roentgenologically
 roentgenologist
 roentgenology
+roentgenoscope
 roentgenotherapist
 roethkean
 roethkian
@@ -83688,9 +83023,7 @@ roguishly
 roguishness
 roguy
 rohmerian
-roid-head
 roided
-roided out
 roider
 roilsome
 roily
@@ -83778,6 +83111,7 @@ romanticly
 romaphobia
 rombergism
 romcommy
+romeite
 romeoesque
 romes
 romeward
@@ -83871,7 +83205,6 @@ rootsy
 rootward
 rooty
 rooves
-rope-worthy
 ropeable
 ropelike
 ropeman
@@ -83915,6 +83248,7 @@ rosettelike
 rosetting
 rosicrucianism
 rosicrucianist
+rosieresite
 rosily
 rosiness
 rosinous
@@ -83923,7 +83257,6 @@ rosish
 rosmarinate
 rosminian
 rosminianism
-ross-shire
 rosselly
 rossettian
 rossinian
@@ -84013,7 +83346,6 @@ roughness
 roughometer
 roughsome
 roulettelike
-round-like
 roundaboutly
 roundaboutness
 roundballer
@@ -84153,7 +83485,6 @@ rubenesque
 rubenid
 rubeolar
 rubescently
-rubianic acid
 rubicundity
 rubidian
 rubidide
@@ -84272,7 +83603,6 @@ rulest
 rulez
 rulingly
 ruly
-rum-ville
 rumbalike
 rumble
 rumbler
@@ -84322,7 +83652,6 @@ rumpologist
 rumpology
 rumpy
 rumsfeldian
-run-awayer
 runaholic
 runathon
 rundled
@@ -84488,7 +83817,8 @@ rwandese
 rylean
 ryukyuan
 rywingate
-s-plasty
+réunionese
+röntgenize
 saarlander
 sabaean
 sabahan
@@ -84725,7 +84055,6 @@ sailwear
 sailworthiness
 sailworthy
 saily
-saint-simonianism
 saintdom
 saintess
 saintful
@@ -84770,11 +84099,11 @@ salamandriform
 salamandroid
 salaried
 salazarism
-sale-proof
 saleability
 saleable
 saleableness
 saleably
+saleeite
 salemite
 salentine
 salesbot
@@ -84813,7 +84142,6 @@ salinification
 saliniform
 salinization
 salinize
-salino-terrene
 salinometer
 salishan
 salishanist
@@ -84828,6 +84156,8 @@ salivatory
 salivous
 saljuqian
 saljuqid
+saljūqian
+saljūqid
 sallier
 sallowish
 sallowly
@@ -84856,7 +84186,6 @@ salpingitic
 salpingopharyngeal
 salsalike
 salsolaceous
-salt-free
 saltational
 saltationally
 saltationism
@@ -84931,8 +84260,6 @@ samarqandi
 sambadrome
 sambist
 samboism
-same-bloodedness
-same-sexer
 sameish
 sameishness
 sameliness
@@ -85081,8 +84408,6 @@ sanjakate
 sankarism
 sankarist
 sanny
-sans-culottic
-sans-culottish
 sanscritist
 sanskaric
 sanskritic
@@ -85533,7 +84858,6 @@ scammable
 scammee
 scammer
 scammish
-scammonic acid
 scammonin
 scammy
 scamper
@@ -85547,9 +84871,7 @@ scampishness
 scampy
 scamster
 scamware
-scan-a-thon
 scanathon
-scandal-ridden
 scandalette
 scandalise
 scandaliser
@@ -85623,9 +84945,6 @@ scared
 scaredly
 scaredness
 scaredy
-scaredy pant
-scaredy pants
-scaredy-cat
 scarefest
 scareful
 scaremongerer
@@ -85811,7 +85130,6 @@ schizoidally
 schizoidism
 schizophasic
 schizophrenese
-schizophrenia-like
 schizophrenialike
 schizophrenic
 schizophrenically
@@ -85845,7 +85163,6 @@ schmalzily
 schmidtian
 schmoopiness
 schmoopy
-schmooze-athon
 schmoozefest
 schmoozer
 schmoozingly
@@ -85961,7 +85278,6 @@ schwendenerian
 schwenkfelder
 schwenkfeldian
 schwertmannite
-sci-fier
 sciadopityaceous
 sciagrapher
 sciagraphical
@@ -86129,7 +85445,6 @@ scotify
 scotish
 scotism
 scotist
-scotland-like
 scotlander
 scotlandwards
 scotochromogenic
@@ -86230,7 +85545,6 @@ scrappily
 scrappiness
 scrappy
 scrapy
-scratch-proof
 scratchability
 scratchable
 scratcher
@@ -86271,8 +85585,6 @@ screechy
 screed
 screeder
 screelike
-screen-free
-screen-scraper
 screenable
 screenage
 screencast
@@ -86377,7 +85689,6 @@ scroller
 scrollery
 scrollwise
 scrolly
-scrooge-like
 scroogelike
 scroogesque
 scroogey
@@ -86461,7 +85772,6 @@ sculpturesque
 sculpturesquely
 sculpturesqueness
 sculpturist
-scum-ridden
 scumbaggery
 scumbagginess
 scumbaggy
@@ -86556,7 +85866,6 @@ seamstressing
 seamstressy
 seamy
 seapunk
-search-fu
 searchability
 searchable
 searchableness
@@ -86660,8 +85969,6 @@ seclusionist
 seclusively
 seclusiveness
 secohmmeter
-second-hander
-second-rater
 secondable
 secondarily
 secondariness
@@ -86812,7 +86119,6 @@ seductress
 sedulity
 sedulously
 sedulousness
-see-throughness
 seeability
 seeable
 seeableness
@@ -86994,33 +86300,6 @@ selenophilic
 selenylation
 seleucian
 seleucidan
-self-adjointness
-self-assertiveness
-self-assuredly
-self-assuredness
-self-centeredness
-self-confidently
-self-consciously
-self-destructively
-self-destructiveness
-self-effacingly
-self-effacingness
-self-evidently
-self-harmer
-self-helpy
-self-importantly
-self-interestedness
-self-killer
-self-possessedly
-self-qualification
-self-qualified
-self-qualifying
-self-righteously
-self-righteousness
-self-sacrificingly
-self-sufficiently
-self-willedly
-self-willedness
 selfadjointness
 selfcest
 selfconsistently
@@ -87063,7 +86342,6 @@ seller
 sellest
 selleth
 selley
-selligueain a
 sellingly
 selly
 selone
@@ -87107,7 +86385,6 @@ semeny
 semestered
 semestering
 semesterly
-semi-automatically
 semiaccidentally
 semiactively
 semiampleness
@@ -87514,7 +86791,6 @@ seriously
 seriousness
 serjeantship
 serlingesque
-sermon-proof
 sermoneer
 sermonesque
 sermonet
@@ -87822,7 +87098,6 @@ sexualogy
 sexville
 sexwear
 sexworthy
-sexx0r
 sexy
 seychellean
 sfermionic
@@ -87928,7 +87203,6 @@ shaky
 shalelike
 shaler
 shaley
-shallow-heartedness
 shallowheartedness
 shallowish
 shallowly
@@ -88049,7 +87323,6 @@ sharky
 sharny
 sharongate
 sharonian
-sharp-sightedness
 sharpen
 sharpenable
 sharpener
@@ -88139,7 +87412,6 @@ sheenful
 sheenlessness
 sheenly
 sheeny
-sheep-like
 sheepdom
 sheepily
 sheepiness
@@ -88158,7 +87430,6 @@ sheepskinned
 sheepy
 sheerly
 sheerness
-sheet-like
 sheetable
 sheeter
 sheetful
@@ -88263,7 +87534,6 @@ shetlandish
 shewer
 shewest
 sheweth
-shi'itic
 shiadom
 shiaphilia
 shiaphobe
@@ -88301,7 +87571,6 @@ shiitization
 shiitize
 shikimate
 shilling
-shilly-shallier
 shily
 shimerian
 shimmable
@@ -88411,7 +87680,6 @@ shittiness
 shitting
 shittish
 shitty
-shitty-ass
 shitwad
 shitware
 shity
@@ -88539,10 +87807,6 @@ shorer
 shoreside
 shoreward
 shorewards
-short-leggedness
-short-sightedly
-short-termism
-short-termness
 shortage
 shortboarder
 shortboarding
@@ -88581,7 +87845,6 @@ shotlike
 shotproof
 shotted
 shottie
-should've
 shoulden
 shoulderable
 shoulderer
@@ -88608,7 +87871,6 @@ shovelware
 shover
 shovey
 shoving
-show-er
 showability
 showable
 showalterian
@@ -88806,7 +88068,6 @@ sialolithiasis
 sialylation
 siamese
 siamization
-sib-in-law
 sibcest
 siberian
 siberianist
@@ -88865,8 +88126,6 @@ sicky
 sicyonian
 sicyonic
 sidal
-side-handedly
-side-splittingly
 sidearmer
 sideburned
 sidecarist
@@ -89087,6 +88346,7 @@ silkwear
 silky
 sillan
 silled
+sillenite
 sillification
 sillily
 sillimanite
@@ -89132,7 +88392,6 @@ silverton
 silverware
 silverwork
 silvery
-silvery-white
 silvics
 silvicultural
 silviculturally
@@ -89180,9 +88439,6 @@ simpable
 simperer
 simperingly
 simpish
-simple-heartedly
-simple-heartedness
-simple-mindedly
 simpleheartedly
 simpleheartedness
 simplemindedly
@@ -89247,8 +88503,6 @@ sinewy
 sinful
 sinfully
 sinfulness
-sing-in
-sing-songy
 singability
 singable
 singableness
@@ -89271,10 +88525,6 @@ singerly
 singing
 singingly
 singingness
-single-handedly
-single-heartedly
-single-mindedly
-single-mindedness
 singledom
 singlefold
 singlehandedly
@@ -89349,7 +88599,6 @@ sinneth
 sinningly
 sinningness
 sinny
-sino-tibetanist
 sinofied
 sinographic
 sinological
@@ -89442,8 +88691,6 @@ sisterliness
 sisterly
 sistern
 sistership
-sit-downer
-sit-inner
 sitarist
 sitarlike
 sitchinesque
@@ -89507,8 +88754,6 @@ sixtiesish
 sixtieth
 sixtiethly
 sixty
-sixty-eighter
-sixty-fourmo
 sixtyfold
 sixtyish
 sixtysomething
@@ -89587,7 +88832,6 @@ skepticism
 skepticist
 skepticize
 skeptopathy
-sketch-ass
 sketchability
 sketchable
 sketcher
@@ -89677,7 +88921,6 @@ skinnyish
 skinship
 skinsuited
 skintness
-skip-gram
 skipable
 skipathon
 skipful
@@ -89712,6 +88955,7 @@ skittishness
 skittler
 skiver
 skiwear
+skiïng
 skolemisation
 skoliosexuality
 skopjan
@@ -89720,7 +88964,6 @@ skulduggerous
 skulker
 skulketh
 skulkingly
-skull-like
 skullcapped
 skullful
 skullish
@@ -89768,7 +89011,6 @@ slabbiness
 slabby
 slablike
 slabwise
-slack-handedness
 slacken
 slackener
 slackenest
@@ -89810,7 +89052,6 @@ slanderous
 slanderously
 slanderousness
 slandersome
-slang-whanger
 slangdom
 slangery
 slangese
@@ -89944,7 +89185,6 @@ slayer
 slayest
 slayeth
 slayingly
-sleaze-ridden
 sleazewad
 sleazily
 sleaziness
@@ -90274,7 +89514,6 @@ slushie
 slushily
 slushiness
 slushy
-slut-shamey
 slutchy
 slutdom
 sluthood
@@ -90303,11 +89542,6 @@ smackeroonies
 smackhead
 smackingly
 smacky
-small-mindedly
-small-mindedness
-small-towner
-small-townish
-small-townism
 smallen
 smallie
 smallify
@@ -90340,7 +89574,6 @@ smartly
 smartness
 smartphoned
 smarty
-smarty pants
 smashable
 smashed
 smasher
@@ -90427,7 +89660,6 @@ smoggy
 smoglessness
 smokability
 smokable
-smoke-free
 smokeability
 smokeable
 smoked
@@ -90548,7 +89780,6 @@ snailish
 snailishly
 snaillike
 snaily
-snake-fright
 snakedom
 snakehood
 snakelessness
@@ -90567,7 +89798,6 @@ snakingly
 snakish
 snakishness
 snaky
-snap-happy
 snapchattable
 snapchatter
 snappable
@@ -90751,7 +89981,6 @@ snooziness
 snoozy
 snopesism
 snorasaurus
-snore-fest
 snorelike
 snorer
 snorest
@@ -90778,12 +90007,10 @@ snoutful
 snoutish
 snoutlike
 snouty
-snow-free
 snowballer
 snowbiking
 snowbirding
 snowblader
-snowboard cross
 snowboardable
 snowboarder
 snowcraft
@@ -90864,7 +90091,6 @@ snugly
 snugness
 snurfer
 snurfing
-so-soish
 soakable
 soakage
 soaker
@@ -91029,10 +90255,6 @@ sofalike
 soffited
 sofian
 soficity
-soft-heartedly
-soft-heartedness
-soft-mindedly
-soft-mindedness
 softballer
 softbot
 soften
@@ -91080,8 +90302,6 @@ sojournest
 sojourneth
 sojournment
 sokalian
-sol-faism
-sol-faist
 solaceful
 solacement
 solacer
@@ -91103,7 +90323,6 @@ solderability
 solderable
 solderer
 solderess
-soldier-proof
 soldieress
 soldierlike
 soldierliness
@@ -91264,7 +90483,6 @@ sombrish
 sombrously
 sombrousness
 somebodiness
-somebody's
 somersaulter
 somersetian
 somervillian
@@ -91294,7 +90512,6 @@ somnolently
 somnolescently
 somnological
 somnologist
-son-in-law
 sonancy
 sonarlike
 sonarman
@@ -91371,7 +90588,6 @@ sooler
 soonish
 soonly
 soonness
-soot-proof
 sooted
 sooten
 sooterkin
@@ -91561,10 +90777,6 @@ sourly
 sourness
 sousaphonist
 souterly
-south-southeastern
-south-southeastwards
-south-southwestern
-south-southwestwards
 southamptonian
 southbury
 southcottian
@@ -91696,7 +90908,6 @@ spadesman
 spadewise
 spadeworker
 spadish
-spae-craft
 spaedom
 spaghettery
 spaghettification
@@ -92192,6 +91403,9 @@ sphingomyelinase
 sphinxlike
 sphygmographic
 sphygmomanometry
+sphæric
+sphærical
+sphæroidal
 spiceful
 spiceland
 spicelessness
@@ -92459,7 +91673,6 @@ splachnaceous
 splanchnically
 splanchnicectomy
 splanchnopleuric
-splash-proof
 splashable
 splasher
 splashily
@@ -92809,7 +92022,6 @@ spreadability
 spreadable
 spreadably
 spreadation
-spreadeagleism
 spreadee
 spreader
 spreadest
@@ -92974,7 +92186,6 @@ squandermania
 squandersome
 squarable
 squarate
-square-free
 squaredly
 squaredness
 squarefree
@@ -93106,7 +92317,6 @@ squirmingly
 squirmish
 squirmworthy
 squirmy
-squirrel-proof
 squirrelable
 squirrelcide
 squirreldom
@@ -93135,7 +92345,6 @@ squopper
 squshy
 squushy
 sraffan
-st. martinville
 stabbable
 stabbee
 stabber
@@ -93420,7 +92629,6 @@ starey
 starfishlike
 starful
 stargazin
-stargazy pie
 starhood
 staringly
 starken
@@ -93587,7 +92795,6 @@ staurozoan
 staveley
 staver
 stavesman
-stay-at-homer
 stayable
 staybolted
 staycationer
@@ -93602,7 +92809,6 @@ steadfastness
 steadily
 steadiness
 steady
-steady-handedness
 steadyingly
 steadyish
 steakburger
@@ -93758,11 +92964,9 @@ stentorin
 stentoriously
 stentoriousness
 stentorophonic
-step-free
 stepanovite
 stepbrotherly
 stepchildhood
-stepfather-in-law
 stepfatherhood
 stepfatherly
 stepfordian
@@ -94142,8 +93346,6 @@ stoloniferan
 stoloniferous
 stoloniferously
 stolonlike
-stomach-churningly
-stomach-turningly
 stomachable
 stomacher
 stomachful
@@ -94167,8 +93369,6 @@ stompily
 stompingly
 stompy
 stonable
-stone-heartedly
-stone-heartedness
 stoned
 stonedly
 stonedness
@@ -94196,8 +93396,6 @@ stonish
 stonker
 stonkingly
 stony
-stony-heartedly
-stony-heartedness
 stonyheartedness
 stoodest
 stooker
@@ -94297,8 +93495,6 @@ stottite
 stoundmeal
 stoupful
 stourton
-stout-heartedly
-stout-heartedness
 stouten
 stoutheartedly
 stoutheartedness
@@ -94360,7 +93556,6 @@ strainmeter
 strainometer
 strainproof
 strainsome
-strait-handedness
 straitlacedly
 straitlacedness
 straitly
@@ -94370,7 +93565,6 @@ stramineously
 strandedness
 strandee
 strander
-strange-ass
 strangelet
 strangeling
 strangelovean
@@ -94432,7 +93626,6 @@ stratospherically
 stratotypic
 straussian
 stravaiger
-straw-clutchingly
 strawberried
 strawberryade
 strawberryish
@@ -94528,7 +93721,6 @@ streptococcemia
 streptococcosis
 streptoneurous
 streptostylic
-stress-free
 stressability
 stressable
 stressedness
@@ -94594,7 +93786,6 @@ stridingly
 stridulantly
 stridulator
 stridulously
-strife-ridden
 strifeful
 strifelessness
 strigulation
@@ -94688,12 +93879,6 @@ stromal
 stromally
 stromatolitic
 strombolian
-strong-handedly
-strong-handedness
-strong-heartedly
-strong-heartedness
-strong-mindedly
-strong-mindedness
 stronger
 strongful
 strongfully
@@ -94952,6 +94137,8 @@ styrofoamed
 styrofoamy
 styrol
 styryl
+stützite
+stœchiometric
 suability
 suasively
 suasiveness
@@ -95244,7 +94431,6 @@ subsonically
 subspherically
 subspirally
 subspontaneously
-substance-wise
 substancehood
 substancelessness
 substanceness
@@ -95562,7 +94748,6 @@ sufite
 sufitic
 sufize
 sufosfamide
-sugar-free
 sugarer
 sugarfree
 sugarful
@@ -95697,7 +94882,6 @@ sulphionide
 sulphocyanate
 sulphostannate
 sulphotungstate
-sulphur-free
 sulphurate
 sulphurator
 sulphureity
@@ -95730,7 +94914,6 @@ sumacing
 sumas
 sumatran
 sumbanese
-sumbulic acid
 sumerian
 sumerianism
 sumerogram
@@ -95752,7 +94935,6 @@ summate
 summational
 summatively
 summer
-summer-like
 summerer
 summerfag
 summerful
@@ -95777,7 +94959,6 @@ summery
 summest
 summeth
 summist
-summit-hopper
 summital
 summiteer
 summiter
@@ -95888,8 +95069,6 @@ sunwear
 sunwise
 sunzian
 suomic
-super-superlatively
-super-superlativeness
 superability
 superableness
 superabundantly
@@ -96127,7 +95306,6 @@ supplier
 suppliest
 supplieth
 supply
-supply-sider
 supplyment
 supportability
 supportable
@@ -96178,8 +95356,6 @@ suppressogenic
 suppressor
 suppurateth
 suppuratively
-supra-pubically
-supra-pubicly
 suprabasally
 supraclavicular
 supraclavicularly
@@ -96223,9 +95399,6 @@ surcingled
 surcoated
 surdity
 surdization
-sure-footedness
-sure-handedly
-sure-handedness
 surefootedly
 surefootedness
 surely
@@ -96435,7 +95608,6 @@ suturally
 suturation
 suturectomy
 suturelike
-sux0r
 suzerainship
 suzerainty
 suzhounese
@@ -96536,7 +95708,6 @@ swartish
 swartness
 swarty
 swartzite
-swash-work
 swashbucklingly
 swasher
 swastikaed
@@ -96611,8 +95782,6 @@ sweepingness
 sweeplike
 sweepstaker
 sweepy
-sweet annie
-sweet-talker
 sweeten
 sweetened
 sweetener
@@ -96660,7 +95829,6 @@ swervily
 swervingly
 swervy
 swevening
-swift-handedness
 swiften
 swiftian
 swiftie
@@ -96670,7 +95838,6 @@ swiftly
 swiftness
 swigger
 swiller
-swim-inner
 swimathon
 swimlaned
 swimmability
@@ -97133,7 +96300,6 @@ syruplike
 syrupy
 sysadmining
 sysophood
-system-wide
 systematic
 systematically
 systematicist
@@ -97172,7 +96338,7 @@ szaszian
 szechwanese
 szondian
 sztrokayite
-t-shirted
+séancer
 taaffeite
 tabarded
 tabarder
@@ -97317,7 +96483,6 @@ tagosphere
 tagwise
 tahitian
 taic
-tail-ender
 tailable
 tailcoated
 tailed
@@ -97425,7 +96590,6 @@ talklessness
 talksome
 talkworthy
 talky
-talky-talky
 talladegan
 tallageable
 tallahasseean
@@ -97645,7 +96809,6 @@ tardigradologist
 tardigradous
 tardily
 tardiness
-tardis-like
 tardish
 tardity
 tardively
@@ -97653,7 +96816,6 @@ tardlet
 tardling
 tardyon
 tardyonic
-target-like
 targetability
 targetable
 targeteer
@@ -97848,7 +97010,6 @@ tawery
 tawnily
 tawniness
 tawyer
-tax-free
 taxability
 taxable
 taxableness
@@ -97863,7 +97024,6 @@ taxemic
 taxer
 taxest
 taxeth
-taxi-cabman
 taxidermal
 taxidermic
 taxidermically
@@ -97900,10 +97060,10 @@ taylorize
 taylorsville
 taysider
 tazobactam
+taïwanese
 tbilisian
 tchaikovskian
 tcler
-tea-gowned
 teabagger
 teabaggy
 teabagistan
@@ -97988,7 +97148,6 @@ teated
 teatlike
 teaware
 tebowing
-tech-head
 techdom
 techie
 techily
@@ -98014,7 +97173,6 @@ technologically
 technologist
 technologization
 technologize
-technology-wise
 technomancer
 technomaniacal
 technomantic
@@ -98193,7 +97351,6 @@ telfordization
 telfordize
 telically
 telicity
-tell-worthy
 tellable
 tellee
 teller
@@ -98325,11 +97482,6 @@ tendentious
 tendentiously
 tendentiousness
 tender
-tender-handedly
-tender-heartedly
-tender-heartedness
-tender-mindedly
-tender-mindedness
 tenderable
 tenderee
 tenderer
@@ -98482,7 +97634,6 @@ terazosin
 terbate
 terbian
 terbic
-terbinafine
 tercelet
 terebate
 terebic
@@ -98549,7 +97700,6 @@ ternstroemiaceous
 terpenic
 terpenoid
 terpenome
-terpenylic acid
 terper
 terpolymeric
 terracelike
@@ -98731,11 +97881,9 @@ tetrazolide
 tetrazolium
 tetrazolyl
 tetreaultville
-tetris-like
 tetrofosmin
 tetrolate
 tetronate
-tets
 tetterish
 tetterous
 tettery
@@ -98867,7 +98015,6 @@ thanksome
 thankworthiness
 thankworthy
 thanx
-that've
 thatcher
 thatcheresque
 thatcherian
@@ -98969,7 +98116,6 @@ themselves
 thenable
 thenad
 thenness
-theobromic acid
 theocentrically
 theocentricity
 theocratic
@@ -99094,7 +98240,6 @@ thermoviscoelasticity
 therophytic
 theropodous
 thesauric
-these've
 thespically
 thesprotian
 thessalian
@@ -99196,7 +98341,6 @@ thingness
 thingo
 thingummy
 thingy
-think-pair-sharing
 thinkability
 thinkable
 thinkableness
@@ -99259,8 +98403,6 @@ thirtiethly
 thirty
 thirtyfold
 thirtyish
-this've
-this-worldliness
 thismiaceous
 thisness
 thistled
@@ -99331,7 +98473,6 @@ thoroughness
 thorpey
 thortveitite
 those
-those've
 thottery
 thouest
 thoughted
@@ -99406,7 +98547,6 @@ threatlessness
 threatproof
 threatscape
 threatsome
-three-dimensionally
 threefold
 threefoldly
 threefoldness
@@ -99534,7 +98674,6 @@ throwendish
 thrower
 throwest
 throweth
-throwie
 thrown
 thrownness
 throwster
@@ -99674,7 +98813,6 @@ tibetan
 tibetanist
 tibetanness
 tibetic
-tibeto-burmanist
 tibetological
 tibetologist
 tibetology
@@ -99754,7 +98892,6 @@ tigerproof
 tigerville
 tigery
 tiggerish
-tight-lippedness
 tighten
 tightenable
 tightener
@@ -99769,7 +98906,6 @@ tightly
 tightness
 tightsome
 tightwaddish
-tighty whities
 tigrayan
 tigress
 tigresslike
@@ -99822,7 +98958,6 @@ timbric
 timbrical
 timbrically
 timbromania
-time-consumingly
 timeable
 timeful
 timefulness
@@ -99842,7 +98977,6 @@ timescaled
 timescaling
 timescape
 timese
-timeservingness
 timesheeting
 timesome
 timetabler
@@ -99973,7 +99107,6 @@ tissual
 tissued
 tissuelike
 tissuey
-titan-like
 titanate
 titanese
 titaness
@@ -100023,7 +99156,6 @@ titteringly
 tittersome
 tittie
 tittied
-tittle-tattler
 tittuppy
 titty
 titularity
@@ -100214,7 +99346,6 @@ toluenyl
 toluyl
 tolycaine
 tolypeutine
-tom-tommer
 tomahawker
 tomatinase
 tomatine
@@ -100269,8 +99400,6 @@ tonalitic
 tonalization
 tonally
 tonbridgian
-tone-deafly
-tone-deafness
 tonelessly
 tonelessness
 tonelike
@@ -100373,8 +99502,6 @@ toothwork
 toothy
 tootle
 tootler
-top-notcher
-top-poster
 topangan
 toparchic
 toparchical
@@ -100450,9 +99577,6 @@ toppo
 toppy
 topsman
 topsoiling
-topsy-turvification
-topsy-turvily
-topsy-turviness
 topsyturvydom
 topwear
 torahic
@@ -100541,7 +99665,6 @@ tortility
 tortiously
 tortiousness
 tortness
-tortoise-like
 tortoiselike
 tortolan
 torts
@@ -100618,7 +99741,6 @@ tottery
 tottlish
 toucanet
 toucanlike
-touch-free
 touchability
 touchable
 touchableness
@@ -100639,10 +99761,6 @@ touchous
 touchproof
 toucht
 touchy
-touchy-feeler
-touchy-feeliness
-tough-mindedly
-tough-mindedness
 toughen
 toughenable
 toughener
@@ -100932,7 +100050,6 @@ traducianist
 traducible
 traducingly
 traduction
-traffic-free
 trafficability
 trafficable
 trafficator
@@ -100974,7 +100091,6 @@ trailside
 trailsman
 trailwear
 traily
-train-mate
 trainability
 trainable
 trainee
@@ -101798,7 +100914,6 @@ trichotomous
 trichotomously
 trichromatically
 triciribine
-trick-or-treater
 trickable
 trickdom
 tricker
@@ -101866,7 +100981,6 @@ trifunctionality
 trifunctionally
 trigamist
 trigeminally
-trigger-happiness
 triggerable
 triggerer
 triggerish
@@ -102108,7 +101222,6 @@ troglofaunal
 troglomorphic
 troid
 trojanize
-troll-like
 trollable
 trollage
 trolldom
@@ -102206,7 +101319,6 @@ trotteth
 trotty
 troubadourish
 troubadourism
-trouble-free
 troubledly
 troubledness
 troublefree
@@ -102298,7 +101410,6 @@ truly
 trumanesque
 trumanian
 trumbullian
-trump-tastic
 trumpdom
 trumpean
 trumperiness
@@ -102354,7 +101465,6 @@ truncheoner
 trundler
 trundling
 trundly
-trunk-like
 trunkal
 trunked
 trunker
@@ -102839,7 +101949,6 @@ tussock
 tussocked
 tussocker
 tussocky
-tut-tutter
 tutee
 tutelaric
 tutelarity
@@ -102862,12 +101971,10 @@ tutsiness
 tutter
 tutued
 tutuilan
-tutworkman
 tuvaluan
 tuvan
 tuxed
 tuxedoed
-tv-phobic
 tvaholic
 twaddledom
 twaddlement
@@ -102947,17 +102054,12 @@ twelvetide
 twelvish
 twentieth
 twentiethly
-twenty-firstly
-twenty-fourmo
-twenty-niner
 twentyfold
 twentyish
 twentyness
 twerker
 twerpish
 twerpy
-twi-mindedness
-twice-exceptionality
 twicer
 twicet
 twickers
@@ -103039,7 +102141,6 @@ twistorial
 twistorian
 twisty
 twitard
-twitch-speak
 twitchable
 twitcher
 twitchet
@@ -103067,13 +102168,6 @@ twittishness
 twixter
 twizzler
 twizzly
-two-dimensionally
-two-facedly
-two-facedness
-two-handedly
-two-handedness
-two-spirited
-two-timer
 twoccer
 twoccing
 twoer
@@ -103205,9 +102299,6 @@ tyuyamunite
 tzardom
 tzarist
 tzeltalan
-u-boater
-u-shapedly
-u-shapedness
 ubaidian
 ubangian
 uberly
@@ -103393,11 +102484,7 @@ umpteenth
 umptekitic
 umptieth
 umptillion
-umpty-umpth
 umpy
-un-americanness
-un-englishly
-un-ionized
 unabandoning
 unabashedly
 unabashedness
@@ -106500,8 +105587,6 @@ unzealousness
 unzippable
 unzipped
 unzipper
-up-to-dateness
-up-to-datism
 upanishadic
 upbearer
 upbearing
@@ -106808,7 +105893,6 @@ urticariform
 urticarious
 uruguayan
 uruguayanness
-us'er
 usability
 usableness
 usably
@@ -106832,8 +105916,6 @@ usenetian
 usenetite
 usenetter
 user
-user-centric
-user-friendliness
 usercentric
 useress
 userhood
@@ -106913,7 +105995,6 @@ utilizational
 utilizer
 utmostly
 utmostness
-uto-aztecanist
 utonian
 utopian
 utopianism
@@ -107173,7 +106254,6 @@ valuational
 valuationally
 valuatively
 valuator
-value-free
 valueable
 valuelessly
 valuelessness
@@ -107243,7 +106323,6 @@ vanadylian
 vancean
 vanceburg
 vancian
-vancian magic
 vancomycin
 vancouverish
 vancouverism
@@ -107268,7 +106347,6 @@ vanette
 vanful
 vanguardism
 vanguardist
-vanilla-y
 vanillaed
 vanillafied
 vanillafy
@@ -107476,7 +106554,6 @@ vaudevillelike
 vaudevillesque
 vaudevillian
 vaudevillist
-vault-worthy
 vaultable
 vaultage
 vaultedly
@@ -107534,7 +106611,6 @@ vedism
 vedist
 veerer
 veeringly
-veg-head
 vegan
 veganhood
 veganically
@@ -108039,7 +107115,6 @@ vicissity
 vicodined
 viconian
 vicontiel
-victim-blamey
 victimage
 victimation
 victimhood
@@ -108250,7 +107325,6 @@ viniculturist
 viniferin
 vinify
 vinnewed
-vino collapso
 vinologist
 vinosity
 vinously
@@ -108275,7 +107349,6 @@ violationism
 violative
 violatively
 violator
-violence-ridden
 violently
 violentness
 violer
@@ -108380,6 +107453,7 @@ virtuosity
 virtuosoship
 virtuously
 virtuousness
+virtùous
 virulented
 virulently
 virulentness
@@ -108641,6 +107715,8 @@ voidness
 voivodeship
 volaemia
 volaemic
+volapükism
+volapükist
 volarly
 volatilely
 volatileness
@@ -108791,7 +107867,6 @@ vortoscope
 votable
 votaress
 votation
-vote-a-rama
 votelessness
 voter
 voterland
@@ -108880,7 +107955,6 @@ vulgarness
 vulnerability
 vulnerableness
 vulnerably
-vulpinary
 vulpinely
 vulpinism
 vulpinist
@@ -108904,6 +107978,7 @@ vyacheslavite
 vygotskian
 vyingly
 vyuntspakhkite
+vṛddhied
 waacker
 wabbly
 wachowskian
@@ -108946,7 +108021,6 @@ wafter
 waftingly
 wafture
 wafty
-wage-worthy
 wageable
 wagedom
 wagelessness
@@ -109210,7 +108284,6 @@ wantsome
 wanty
 wany
 wapentakal
-war-ridden
 warblelike
 warbler
 warblerlike
@@ -109280,9 +108353,6 @@ warling
 warlockry
 warlordism
 warly
-warm-bloodedness
-warm-heartedly
-warm-heartedness
 warmable
 warman
 warmate
@@ -109414,7 +108484,6 @@ wassed
 wassy
 wast
 wastage
-waste-ridden
 wasteable
 wasteful
 wastefully
@@ -109452,7 +108521,6 @@ watchmanly
 watchmanship
 watcht
 watchwork
-water-free
 waterable
 waterage
 waterboarder
@@ -109488,7 +108556,6 @@ waterloggedness
 waterlooville
 waterly
 waterman
-waterman's knot
 watermanship
 watermarkable
 waterness
@@ -109512,7 +108579,6 @@ watkinson
 watkinsonite
 watkinsville
 watson
-watson's hairstreak
 watsonian
 watsonish
 wattage
@@ -109591,11 +108657,6 @@ waywodeship
 wazza
 wazzed
 wazzock
-weak-handedness
-weak-heartedly
-weak-heartedness
-weak-mindedly
-weak-mindedness
 weaken
 weakener
 weakenest
@@ -109756,7 +108817,6 @@ weddingwear
 weddingy
 weddingzilla
 weddleville
-wedge-like
 wedgeable
 wedgelet
 wedgelike
@@ -109874,7 +108934,6 @@ weinergate
 weiningerian
 weinreichian
 weinschenkite
-weird-ass
 weirdar
 weirdcore
 weirden
@@ -109914,14 +108973,6 @@ weldonian
 weldor
 welfarism
 welfarist
-well-behavedly
-well-behavedness
-well-definedness
-well-formedness
-well-foundedness
-well-meaningly
-well-offness
-well-posedness
 wellerian
 wellerism
 wellesian
@@ -109993,10 +109044,6 @@ wesleyanize
 wessexian
 wessexman
 wesson
-west-northwestern
-west-northwestwards
-west-southwestern
-west-southwestwards
 westaboo
 westbrooks
 westcentric
@@ -110092,7 +109139,6 @@ wharfinger
 wharflike
 wharfman
 whartonian
-what-iffery
 whatcha
 whatchoo
 whateverism
@@ -110131,7 +109177,6 @@ wheelbarrowful
 wheelbarrowing
 wheelbarrowlike
 wheelbased
-wheelchair-bound
 wheelchaired
 wheelcraft
 wheeler
@@ -110179,8 +109224,6 @@ wheyish
 wheyishness
 wheylike
 wheyness
-which's
-which've
 whichth
 whiffer
 whiffet
@@ -110315,8 +109358,6 @@ whistonian
 whitbian
 whitby
 whitbyan
-white-handedly
-white-handedness
 whitean
 whiteass
 whiteboarding
@@ -110380,14 +109421,7 @@ whizzingly
 whizzle
 whizzo
 whizzy
-who'da
-who's
-who've
-who-athon
 whodunnitry
-whoever's
-whole-heartedly
-whole-heartedness
 wholeheartedly
 wholeheartedness
 wholely
@@ -110415,7 +109449,6 @@ whooshy
 whopper
 whoppingest
 whoppingly
-whore's paint
 whoredom
 whoreish
 whorelet
@@ -110470,7 +109503,6 @@ wicksite
 widdler
 widdly
 widdowson
-wide-handedness
 wideish
 widely
 widen
@@ -110525,7 +109557,6 @@ wifeship
 wifeward
 wifey
 wifie
-wifier
 wifilike
 wifish
 wiganer
@@ -110617,7 +109648,6 @@ wilkinsonian
 wilkinsonianism
 wilkinsonite
 wilks
-will-lessly
 willable
 willed
 willedness
@@ -110887,8 +109917,6 @@ wishingly
 wishlessness
 wishoskan
 wishverse
-wishy-washily
-wishy-washiness
 wisly
 wispen
 wispily
@@ -110899,7 +109927,6 @@ wispy
 wistest
 wistfully
 wistfulness
-witch-like
 witchblr
 witchcraft
 witchdom
@@ -111036,7 +110063,6 @@ woggish
 woggy
 wogspeak
 wohlfahrtiosis
-woke-free
 wokedom
 wokefest
 wokefishing
@@ -111249,7 +110275,6 @@ woollike
 woollily
 woolliness
 woolly
-woolly-headedness
 woollyish
 woolman
 woolseyism
@@ -111325,7 +110350,6 @@ workful
 workfulness
 workie
 working
-working-classize
 workingly
 workingman
 workish
@@ -111350,7 +110374,6 @@ workwear
 workwoman
 workwomanlike
 worky
-world-endingly
 worldbound
 worlder
 worldful
@@ -111374,7 +110397,6 @@ worldwards
 worldwide
 worldwidely
 worldy
-worm-ridden
 wormable
 wormer
 wormery
@@ -111404,7 +110426,6 @@ worrisome
 worrisomely
 worrisomeness
 worriter
-worry-free
 worryful
 worrying
 worryingly
@@ -111564,7 +110585,6 @@ wringable
 wringer
 wringest
 wringeth
-wrinkle-free
 wrinkleable
 wrinkledly
 wrinkledness
@@ -111611,8 +110631,6 @@ writo
 writress
 written
 writtenness
-wrong-mindedly
-wrong-mindedness
 wrongamundo
 wrongdom
 wrongeously
@@ -111670,7 +110688,8 @@ wyomingite
 wyrmling
 wytheville
 wythoffian
-x-verse
+württembergian
+wüstite
 xamoterol
 xanaxed
 xanderista
@@ -112026,7 +111045,6 @@ yetling
 yeuky
 yewen
 yexing
-yiddish-like
 yiddisher
 yiddishise
 yiddishism
@@ -112141,7 +111159,6 @@ yours
 yourself
 yourselves
 yous
-youse's
 youth
 youthen
 youthenize
@@ -112225,8 +111242,6 @@ yurtlike
 yushkinite
 yvonite
 ywamer
-z-lister
-z-plasty
 zacopride
 zadokite
 zagger
@@ -112277,7 +111292,6 @@ zappily
 zappiness
 zappy
 zapruderian
-zaragozic acid
 zarathustrian
 zarathustrianism
 zarathustric
@@ -112480,6 +111494,7 @@ zitherist
 zitherlike
 zitso
 zitty
+zizekian
 ziziphin
 zizzy
 zlatogorite
@@ -112503,12 +111518,10 @@ zolaism
 zolaist
 zolaistic
 zolaize
-zoledronic acid
 zolian
 zombic
 zombically
 zombied
-zombied-out
 zombiedom
 zombiefy
 zombiehood
@@ -112639,8 +111652,10 @@ zosteroid
 zosterophyllaceous
 zotarolimus
 zoubekite
-zouk-like
 zoukify
+zoögrapher
+zoögraphist
+zoönite
 zuboffian
 zucchinilike
 zuckerbergian
@@ -112686,3 +111701,19 @@ zymurgical
 zymurgist
 zythologist
 zyuganovism
+ænigmatic
+æstheticization
+ætheric
+ætiologic
+épéeist
+čapekian
+łukasiewiczian
+œconomize
+œcumenism
+œcumenist
+œdematic
+œdematous
+œsophagean
+œsophagic
+œsophagical
+œstrogenic
