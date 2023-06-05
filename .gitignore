@@ -31,9 +31,11 @@
 *.out
 *.app
 
-
 # Ignore irrelevant local files
 /OLD
+/Logs
+/KatelynGraphs
+/atireOutput
 
 #Ignore the wiktextract file
 *.json
