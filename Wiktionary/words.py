@@ -1,5 +1,6 @@
 import json
 import sys
+from tqdm import tqdm
 
 PRINT_WORDS = True
 PRINT_STEMS = False
@@ -11,7 +12,7 @@ def process_words(words):
     word_replacements = list()
     word_clusters = dict()
 
-    for word in words:
+    for word in tqdm(words):
         if "word" in word.keys() and len(word["word"]) <= 2:
             continue
 
@@ -100,6 +101,7 @@ def process_words(words):
     word_replacements = dict(word_replacements)
 
     if SIMPLIFY_STEM_GROUPS:
+        print("Simplifying clusters...", file=sys.stderr)
         word_replacements, word_clusters = merge_groups(word_replacements, word_clusters)
 
     # word_replacements = dict(word_replacements)
@@ -114,7 +116,7 @@ def print_replacements(word_replacements, filename):
 
 def merge_groups(word_replacements, word_clusters):
     initial_groups = set(word_clusters.keys())
-    for word in initial_groups:
+    for word in tqdm(initial_groups):
         if word in word_replacements.keys():
             stem = word_replacements[word]
             for variant in word_clusters[word]:
@@ -126,7 +128,7 @@ def merge_groups(word_replacements, word_clusters):
 def print_clusters(word_clusters, filename):
     with open(filename, "w", encoding="utf-8") as f:
         for word in word_clusters:
-            f.write(word + ":")
+            f.write(word)
             for variant in word_clusters[word]:
                 f.write(" " + variant)
             f.write("\n")
@@ -145,25 +147,31 @@ def main():
     wiktionary_data = "Wiktionary/raw-wiktextract-data.json"
     words = list()  #list of all the English words in the Wiktionary
     data: dict = None
+    print("Reading Wiktionary data...", file=sys.stderr)
     with open(wiktionary_data, "r", encoding="utf-8") as f:
-        for line in f:
+        for line in tqdm(f):
             data = json.loads(line)
             if "lang" in data.keys() and data["lang"] == "English":
                 words.append(data)
     
     #word_replacements contains all the word -> stem mappings
     #word_clusters contains all the stem -> word groups
+    print("Processing Wiktionary words...", file=sys.stderr)
     word_replacements, word_clusters = process_words(words)
 
     if PRINT_STEM_PAIRS:
+        print("Writing word -> stem to file...", file=sys.stderr)
         print_replacements(word_replacements, "Wiktionary/replacements.txt")
     if PRINT_STEM_GROUPS:
+        print("Writing clusters to file...", file=sys.stderr)
         print_clusters(word_clusters, "Wiktionary/clusters.txt")
     if PRINT_STEMS:
+        print("Writing stems to file...", file=sys.stderr)
         output_stems(word_clusters, "Wiktionary/stems.txt")
     if PRINT_WORDS:
+        print("Writing words to file...", file=sys.stderr)
         output_words(word_replacements, "Wiktionary/words.txt")
-
+    print("Complete!", file=sys.stderr)
 
 
 
