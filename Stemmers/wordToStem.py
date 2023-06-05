@@ -1,3 +1,5 @@
+import sys
+import os.path
 
 def getWords(wordListFile):
     words = list()
@@ -30,9 +32,19 @@ def printResults(words, stems, outputFile):
     return
 
 def main():
-    wordListFile = "/home/katelyn/Documents/COSC490/temp/doclist.aspt"
-    stemListFile = "/home/katelyn/Documents/COSC490/temp/dictionary"
-    outputFile = "Stemmers/output"
+
+    if len(sys.argv) != 3:
+        print("Usage: python wordToStem.py <directory of doclist.aspt and atire_dictionary> <outputfile>")
+        return
+
+    inputDir = sys.argv[1]
+    outputFile = sys.argv[2]
+
+    wordListFile = os.path.join(inputDir, "doclist.aspt")
+    stemListFile = os.path.join(inputDir, "atire_dictionary")
+
+    if not os.path.exists(wordListFile) and not os.path.exists(stemListFile):
+        print("Please ensure the files are there!")
 
     print("Processing doclist...")
     words = getWords(wordListFile)
