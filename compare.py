@@ -2,6 +2,7 @@ import sys
 from nltk.metrics import edit_distance, jaccard_distance, f_measure, precision, recall
 import numpy as np
 from tqdm import tqdm
+import os.path
 
 def create_clusters(filename):
     # cluster_list = list()
@@ -66,7 +67,7 @@ def write_word_distances(wikt_pairs, stem_pairs, filename):
     for i in tqdm(range (0, len(stem_pairs))):
         distance = edit_distance(wikt_pairs[i][1], stem_pairs[i][1], substitution_cost=1)
         distances.append(distance)
-    print("Average distance between stems from wiktionary and the algorithm:", file=sys.stderr)
+    print("Average distance between stems from wiktionary and the stemming algorithm:", file=sys.stderr)
     print(f"Mean: {np.mean(distances)}\nMedian: {np.median(distances)}", file = sys.stderr)
     distances = np.array(distances, dtype="int")
     np.savetxt(filename, distances)
@@ -124,14 +125,21 @@ def write_cluster_distances(wikt_clusters, stem_clusters, filename):
     np.savetxt(filename, cluster_distances) 
 
 def main():
-    #todo: check if the necessary files are actually there
     wikt_file = "Wiktionary/replacements.txt"
-    #Todo: change the stemmer file to be given via command line?
-    stemmer_file = "Stemmers/Snowball/snowballOutput.txt"
-
-    # Get the clusters from a preclustered file
-    # wikt_file = "Wiktionary/clusters.txt"
-    # wikt_clusters = get_clusters(wikt_cluster_file)
+    if not os.path.exists(wikt_file):
+        print(f"{wikt_file} is missing!", file=sys.stderr)
+        return
+    if len(sys.argv) != 3:
+        print("Usage: python compare.py <directory> <stemmer>")
+        return
+    stemmer_dir = sys.argv[1]
+    stemmer = sys.argv[2]
+    stemmer_file = stemmer + "Stems"
+    stemmer_file = os.path.join(stemmer_dir, stemmer_file)
+    if not os.path.exists(stemmer_file):
+        print(f"{stemmer_file} is missing!")
+        return
+    data_dir = os.path.join("Data", "wikt")
 
     # Get the clusters from word->stem files
     wikt_clusters, wikt_pairs = create_clusters(wikt_file)
@@ -140,29 +148,31 @@ def main():
     print(f"Total clusters for the wiktionary: {len(wikt_clusters)}", file=sys.stderr)
 
     # Get the distribution of cluster sizes 
-    write_size_distribution(stem_clusters, "Data/stem_distribution.csv")
-    write_size_distribution(wikt_clusters, "Data/wikt_distribution.csv")
+    write_size_distribution(stem_clusters, os.path.join(data_dir, stemmer + "_distribution.csv"))
+    write_size_distribution(wikt_clusters, os.path.join(data_dir, "wikt" + "_distribution.csv"))
 
-    #Testing comparing both clusterings as sets themselves
-    print("Before removing singles:", file=sys.stderr)
-    measure_cluster_accuracy(wikt_clusters, stem_clusters)
-    write_cluster_fmeasures(wikt_clusters, stem_clusters, "Data/cluster_fmeasures.csv")
-
+    # Get the maximum fmeasure for each stemmer cluster
+    write_cluster_fmeasures(wikt_clusters, stem_clusters, os.path.join(data_dir, stemmer + "_before_cluster_fmeasures.csv"))
     #Removing single clusters
     wikt_clusters, stem_clusters = trim_clusters(wikt_clusters, stem_clusters)
     print(f"Clusters for the stemmer with length > 1: {len(stem_clusters)}", file=sys.stderr)
     print(f"Clusters for the wiktionary with length > 1: {len(wikt_clusters)}", file=sys.stderr)
+    write_cluster_fmeasures(wikt_clusters, stem_clusters, os.path.join(data_dir, stemmer + "_after_cluster_fmeasures.csv"))
 
-    print("After removing singles:", file=sys.stderr)
-    measure_cluster_accuracy(wikt_clusters, stem_clusters)
+    # Get the edit distances between the wiktionary stems and those from the stemming algorithm
+    write_word_distances(wikt_pairs, stem_pairs, os.path.join(data_dir, stemmer + "_word_distances.csv"))
 
-    #Included for testing
-    # write_clusters(wikt_clusters, "wikt_clusters.txt", False)
-    # write_clusters(stem_clusters, "stem_clusters.txt", False)
+    #Testing comparing both clusterings as sets themselves - and using jaccard distance
+    # print("Before removing singles:", file=sys.stderr)
+    # measure_cluster_accuracy(wikt_clusters, stem_clusters)
+    #Removing single clusters
+    # wikt_clusters, stem_clusters = trim_clusters(wikt_clusters, stem_clusters)
+    # print(f"Clusters for the stemmer with length > 1: {len(stem_clusters)}", file=sys.stderr)
+    # print(f"Clusters for the wiktionary with length > 1: {len(wikt_clusters)}", file=sys.stderr)
+    # print("After removing singles:", file=sys.stderr)
+    # measure_cluster_accuracy(wikt_clusters, stem_clusters)
+    # write_cluster_distances(wikt_clusters, stem_clusters, "Data/cluster_distances.csv")
 
-    #Find some measure of accuracy between the two clusterings
-    write_word_distances(wikt_pairs, stem_pairs, "Data/word_distances.csv")
-    write_cluster_distances(wikt_clusters, stem_clusters, "Data/cluster_distances.csv")
 
 if __name__ == "__main__":
     main()
