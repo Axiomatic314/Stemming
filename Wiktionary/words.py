@@ -61,7 +61,7 @@ def process_words(words):
             if "lang2" in template["args"] and template["args"]["lang2"] not in valid_lang_codes: continue
 
             #Skip entries that include brackets, numbers, anything that isn't in the alphabet
-            if not word["word"].isalpha():
+            if not word["word"].isalpha() or not word["word"].isascii():
                 continue
 
             #Need to leave hyphens at the start/end in the affix entries for processing
@@ -71,11 +71,11 @@ def process_words(words):
             temp = part1
             if temp.startswith("-"): temp = temp[1:]
             if temp.endswith("-"): temp = temp[:-1]
-            if not temp.isalpha(): continue
+            if not temp.isalpha() or not temp.isascii(): continue
             temp = part2
             if temp.startswith("-"): temp = temp[1:]
             if temp.endswith("-"): temp = temp[:-1]
-            if not temp.isalpha(): continue
+            if not temp.isalpha() or not temp.isascii(): continue
             
             #Process the template
             word_lower = word["word"].lower()     
