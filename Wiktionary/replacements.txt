@@ -1728,7 +1728,6 @@ advoutress -> advoutrer
 adware -> ad
 adzelike -> adze
 adzer -> adze
-adæquately -> adæquate
 aeaean -> aeaea
 aedeagal -> aedeagus
 aedileship -> aedile
@@ -2379,7 +2378,6 @@ alacrify -> alacrity
 alacriously -> alacrious
 alacriousness -> alacrious
 aladdinize -> aladdin
-alamosite -> álamos
 alana -> alan
 alander -> aland
 alane -> aluminium
@@ -2913,14 +2911,12 @@ allylboration -> allyl
 allylic -> allyl
 allylically -> allyl
 allyship -> ally
-allœopathic -> allœopathy
 almeidaite -> almeida
 almightiful -> almighty
 almightily -> almighty
 almightiness -> almighty
 almightyship -> almighty
 almodovarian -> almodovar
-almodóvarian -> almodóvar
 almondine -> almond
 almondlike -> almond
 almondy -> almond
@@ -3486,8 +3482,6 @@ amylophagic -> amylophagia
 amyloplastic -> amyl
 amyluria -> amyl
 amyraldianism -> amyraldian
-amœbiases -> amœba
-amœbicidal -> amœbicide
 anabaptistry -> anabaptist
 anabatically -> anabatic
 anabohitsite -> anabohitsy
@@ -4525,11 +4519,6 @@ anythingarianism -> anything
 anythingism -> anything
 anywhereness -> anywhere
 anywise -> one
-anæmial -> anæmia
-anæmic -> anæmia
-anæmical -> anæmia
-anæmically -> anæmia
-anæsthetician -> anæsthetic
 aoler -> aol
 aonian -> aonia
 aoristic -> aorist
@@ -6288,15 +6277,12 @@ asystolism -> asystole
 atabegate -> atabeg
 atacaman -> atacama
 atacamanian -> atacama
-atacameñan -> atacameño
 atacamite -> atacama
 atactically -> atactic
 atactostelic -> atactostele
 atafuan -> atafu
 atarian -> atari
 atariesque -> atari
-ataturkian -> atatürk
-ataturkist -> atatürk
 atavistic -> atavism
 atavistical -> atavism
 atavistically -> atavism
@@ -6376,7 +6362,6 @@ atmospherically -> atmosphere
 atmospherics -> atmosphere
 atmospherization -> atmosphere
 atmospherology -> atmosphere
-atmosphæric -> atmosphære
 atomic -> atom
 atomically -> atom
 atomician -> atom
@@ -6446,7 +6431,6 @@ attachest -> attach
 attacheth -> attach
 attachingness -> attaching
 attachment -> attach
-attachéship -> attaché
 attackable -> attack
 attackee -> attack
 attacker -> attack
@@ -7254,7 +7238,6 @@ azurous -> azure
 azury -> azure
 azylene -> azyl
 azymite -> azyme
-aëtheogamous -> aëtheogam
 baaing -> baa
 baalian -> baal
 baalic -> baal
@@ -7539,8 +7522,6 @@ bahamianness -> bahamas
 bahiaite -> bahia
 bahian -> bahia
 bahraini -> bahrain
-baháʼísm -> baháʼí
-baháʼíst -> baháʼí
 baianism -> baian
 baianist -> baian
 baicalein -> baicalensis
@@ -8143,7 +8124,6 @@ bartholomewtide -> bartholomew
 bartlesville -> bartles
 bartonite -> barton
 bartramian -> bartram
-bartókian -> bartók
 barware -> bar
 barwise -> bar
 barycentrically -> barycentric
@@ -8285,7 +8265,6 @@ bastardship -> bastard
 bastardy -> bastard
 baster -> baste
 bastian -> bastia
-bastnaesite -> bastnäs
 basutoland -> basuto
 basutolander -> basuto
 basylous -> basyle
@@ -8425,8 +8404,6 @@ bays -> bay
 bazaarlike -> bazaar
 bazillionaire -> bazillion
 bazookaist -> bazooka
-baʻthism -> baʻth
-baʻthist -> baʻth
 bbcesque -> bbc
 bbqer -> bbq
 bbser -> bbs
@@ -9218,17 +9195,17 @@ bernard -> bear
 bernardian -> bear
 bernardine -> bear
 bernardsville -> bernards
-berner -> bernice
+berner -> bear
 bernese -> bern
 bernhardian -> bernhard
 bernhardtian -> bernhardt
 bernheimian -> bernheim
 bernie -> bear
-berniecrat -> bernice
+berniecrat -> bear
 berninesque -> bernini
 berninian -> bernini
 berniniesque -> bernini
-bernista -> bernice
+bernista -> bear
 bernsteinian -> bernstein
 berryish -> berry
 berrylike -> berry
@@ -9435,7 +9412,6 @@ beyondward -> beyond
 beyship -> bey
 bezanted -> bezant
 bezosian -> bezos
-beïng -> be
 bhabhan -> bhabha
 bhangmeter -> bhang
 bhutanese -> bhutan
@@ -10331,7 +10307,6 @@ blastproof -> blast
 blastular -> blastula
 blastworthy -> blast
 blasty -> blast
-blasély -> blasé
 blatant -> blate
 blatantly -> blate
 blatantness -> blate
@@ -10818,7 +10793,6 @@ blytheville -> blythe
 blytonesque -> blyton
 blytonian -> blyton
 blytonish -> blyton
-blödite -> blöde
 bmxer -> bmx
 bmxing -> bmx
 bnfdom -> bnf
@@ -11378,7 +11352,6 @@ bostonian -> boston
 bostonite -> boston
 bostonization -> boston
 bostonize -> boston
-boströmian -> boström
 boswellian -> boswell
 boswellism -> boswell
 boswellize -> boswell
@@ -11702,7 +11675,6 @@ brahmaness -> brahman
 brahmanical -> brahman
 brahmanism -> brahmin
 brahmanist -> brahman
-brahmic -> brāhmī
 brahminess -> brahmin
 brahminic -> brahmin
 brahminical -> brahmin
@@ -11780,7 +11752,6 @@ branchlike -> branch
 branchling -> branch
 branchwise -> branch
 branchy -> branch
-brancusian -> brâncuși
 brandable -> brand
 brandenburger -> brandenburg
 brander -> brand
@@ -12273,7 +12244,6 @@ bronchoscopically -> bronchoscopy
 bronchoscopist -> bronchoscopy
 bronchospasmolytic -> bronchospasm
 broness -> bro
-brontean -> brontë
 brontoscopic -> brontoscopy
 bronydom -> brony
 bronyism -> brony
@@ -12583,7 +12553,6 @@ budlet -> bud
 budlike -> bud
 budling -> bud
 budweiser -> budweis
-buetschliite -> bütschli
 buffable -> buff
 buffaholic -> buff
 buffaloburger -> buffalo
@@ -12844,7 +12813,6 @@ bunny -> bun
 bunnykind -> bun
 bunodosine -> bunodosoma
 bunter -> bunt
-bunuelian -> buñuel
 bunyanesque -> bunyan
 bunyanian -> bunyan
 buoyage -> buoy
@@ -12931,8 +12899,8 @@ burlesquely -> burlesque
 burlesqueness -> burlesque
 burlesquer -> burlesque
 burlike -> bur
-burlily -> burl
-burliness -> burl
+burlily -> bow
+burliness -> bow
 burlingamer -> burlingame
 burlington -> burling
 burly -> bow
@@ -13238,7 +13206,6 @@ byzantinize -> byzantine
 byzantinological -> byzantine
 byzantinologist -> byzantine
 byzantinology -> byzantine
-bœotian -> bœotia
 cabalism -> cabal
 cabalist -> cabal
 cabalistic -> cabal
@@ -13303,7 +13270,6 @@ cacodaemoniacal -> cacodemoniac
 cacodemonomania -> cacodemon
 cacodylate -> cacodyl
 cacodylic -> cacodyl
-cacodæmonic -> cacodæmon
 cacoepist -> cacoepy
 cacoethical -> cacoethes
 cacoethically -> cacoethes
@@ -13404,7 +13370,6 @@ cajoler -> cajole
 cajolest -> cajole
 cajoleth -> cajole
 cajolingly -> cajoling
-cajonist -> cajón
 cajunness -> cajun
 cajuputene -> cajuput
 cakeage -> cake
@@ -14208,7 +14173,6 @@ carbonyl -> carbon
 carbonylate -> carbon
 carbonylation -> carbon
 carbonylative -> carbon
-carbonæmia -> carbon
 carboranyl -> carborane
 carborexic -> carborexia
 carbovir -> carbo
@@ -15970,7 +15934,6 @@ chelate -> chela
 chelater -> chela
 chelation -> chela
 chelator -> chela
-cheletropic -> χηλή
 cheliceral -> chelicera
 chelski -> chelsea
 chemical -> chemic
@@ -17505,10 +17468,6 @@ cleverishness -> clever
 cleverly -> clover
 cleverness -> clever
 cleversome -> clever
-clichéd -> cliché
-clichédly -> cliché
-clichédness -> cliché
-clichély -> cliché
 clickability -> click
 clickable -> click
 clickably -> click
@@ -18313,8 +18272,7 @@ cognizant -> cognizance
 cognizantly -> cognizance
 cognization -> cognize
 cognizer -> cognize
-cognominal -> cognōmen
-cognominally -> cognōmen
+cognominally -> cognominal
 cognoscible -> cognosce
 cognoscitively -> cognoscitive
 cogwheeled -> cogwheel
@@ -19911,7 +19869,6 @@ confuter -> confute
 confutest -> confute
 confuteth -> confute
 confuzzlement -> confuzzle
-confœderated -> confœderate
 congealability -> congeal
 congealable -> congeal
 congealableness -> congeal
@@ -21110,7 +21067,6 @@ cordite -> cord
 cordlessly -> cordless
 cordlessness -> cordless
 cordlike -> cord
-cordoban -> córdoba
 cordocentesis -> cord
 cordopexy -> cord
 cordotomy -> cord
@@ -21760,7 +21716,6 @@ cousiny -> cousin
 couthie -> couth
 couturial -> couture
 couzens -> couzen
-couéism -> coué
 covalently -> covalent
 covariantisation -> covariant
 covariantization -> covariant
@@ -21889,8 +21844,6 @@ cozenage -> cozy
 cozener -> cozy
 cozily -> cozy
 coziness -> cozy
-coöperatively -> coöperative
-coördinately -> coördinate
 crabbed -> crab
 crabbedly -> crab
 crabbedness -> crab
@@ -22681,7 +22634,6 @@ crudeness -> crude
 crudening -> crude
 crudesome -> crude
 crudites -> crudite
-crudités -> crudité
 crudware -> crud
 crudy -> crude
 cruelheartedness -> cruelhearted
@@ -22854,7 +22806,6 @@ crystalloidally -> crystal
 crystalluria -> crystal
 crystally -> crystal
 crystalware -> crystal
-crêpy -> crêpe
 csser -> css
 ctenoidean -> ctenoidei
 ctenophoric -> ctenophore
@@ -23144,7 +23095,6 @@ curatorially -> curator
 curatorship -> curator
 curatress -> curator
 curatrix -> curator
-curaçaoan -> curaçao
 curbable -> curb
 curber -> curb
 curbside -> curb
@@ -23635,14 +23585,6 @@ czechness -> czech
 czechoslovakism -> czechoslovak
 czechoslovakization -> czechoslovak
 czechoslovakize -> czechoslovak
-cámaraite -> cámara
-cæsarean -> caesar
-cæsarian -> caesar
-césairean -> césaire
-cézannean -> cézanne
-cézannesque -> cézanne
-cézannian -> cézanne
-cœlomic -> cœlom
 dabber -> dab
 dabble -> dab
 dabblement -> dab
@@ -23760,8 +23702,6 @@ daleman -> dale
 daleside -> dale
 dalesman -> dale
 daleville -> dale
-dalian -> dalí
-daliesque -> dalí
 dalinian -> dali
 dallasite -> dallas
 dalliance -> dally
@@ -24068,7 +24008,6 @@ dauber -> daub
 daubery -> daub
 daubest -> daub
 daubeth -> daub
-daubreelite -> daubrée
 daubster -> daub
 dauby -> daub
 daughtered -> daughter
@@ -26376,7 +26315,6 @@ diarrheal -> diarrhea
 diarrheic -> diarrhea
 diarrheogenic -> diarrhea
 diarrhoeal -> diarrhoea
-diarrhœal -> diarrhœa
 diarylike -> diary
 diascopic -> diascopy
 diasporal -> diaspora
@@ -28036,7 +27974,6 @@ dithizonate -> dithizone
 dithyrambic -> dithyramb
 dithyrambically -> dithyramb
 ditrigonally -> ditrigonal
-ditroite -> ditró
 dittied -> ditty
 dittohead -> ditto
 dittology -> ditto
@@ -28845,7 +28782,6 @@ dozer -> doze
 dozily -> doze
 doziness -> doze
 dozy -> doze
-doïng -> do
 drabber -> drab
 drabbish -> drab
 drabbler -> drabble
@@ -29477,7 +29413,6 @@ dufferdom -> duffer
 dufferish -> duffer
 dufferism -> duffer
 duffo -> duff
-dufrenite -> dufrénoy
 dugganite -> duggan
 duginism -> dugin
 dugongine -> dugong
@@ -29721,7 +29656,6 @@ dutifully -> duty
 dutifulness -> duty
 dutilessness -> dutiless
 dutyman -> duty
-dvorakian -> dvořák
 dwarfage -> dwarf
 dwarfdom -> dwarf
 dwarfen -> dwarf
@@ -29881,10 +29815,6 @@ dystrophin -> dystrophy
 dysuric -> dysuria
 dzungaria -> dzungar
 dzungarian -> dzungar
-dæmonic -> dæmon
-dæmonical -> dæmon
-dæmonism -> dæmon
-dæmonize -> dæmon
 eagarville -> eagar
 eagerly -> eager
 eagerness -> eager
@@ -31510,11 +31440,6 @@ encyclopedical -> encyclopedia
 encyclopedically -> encyclopedia
 encyclopedicity -> encyclopaedic
 encyclopedist -> encyclopedia
-encyclopædiacal -> encyclopædiac
-encyclopædial -> encyclopædia
-encyclopædical -> encyclopædic
-encyclopædically -> encyclopædic
-encyclopædist -> encyclopædia
 encysted -> encyst
 endable -> end
 endangerable -> endanger
@@ -32596,7 +32521,6 @@ erastianism -> erastus
 erastianize -> erastus
 erbate -> erbium
 erbian -> erbium
-erdoğanism -> erdoğan
 erectable -> erect
 erecter -> erect
 erectest -> erect
@@ -35104,7 +35028,6 @@ fartlike -> fart
 fartometer -> fart
 fartsome -> fart
 farty -> fart
-faröelite -> faröe
 fascial -> fascia
 fascialike -> fascia
 fasciately -> fasciate
@@ -37899,7 +37822,6 @@ fotmal -> foot
 foucauldian -> foucault
 foucauldianism -> foucault
 foucaultian -> foucault
-fougerite -> fougères
 foughten -> fought
 foulable -> foul
 fouler -> foul
@@ -39118,10 +39040,6 @@ fuzzlessness -> fuzzless
 fuzztoned -> fuzztone
 fuzzy -> fuzz
 fuzzyheadedness -> fuzzyheaded
-fæcally -> fæcal
-fætal -> fætus
-führership -> führer
-fœderalism -> fœderal
 gabaergic -> gaba
 gabapentinoid -> gabapentin
 gabber -> gab
@@ -39718,7 +39636,7 @@ gauchely -> gauche
 gaucheness -> gauche
 gauchesque -> gaucho
 gaudful -> gaud
-gaudian -> gaudí
+gaudian -> gaud
 gaudily -> gaud
 gaudiness -> gaud
 gaudish -> gaud
@@ -41530,7 +41448,6 @@ gonorrheal -> gonorrhea
 gonorrheic -> gonorrhea
 gonorrhoeal -> gonorrhoea
 gonorrhoeic -> gonorrhoea
-gonorrhœic -> gonorrhœa
 gonosomal -> gonosome
 gonothecal -> gonotheca
 gonyerite -> gonyer
@@ -41797,7 +41714,6 @@ goyaesque -> goya
 goyaesquely -> goya
 goyan -> goya
 gozzian -> gozzi
-goïng -> go
 graafian -> graaf
 grabbable -> grab
 grabber -> grab
@@ -42682,7 +42598,6 @@ gruntling -> grunt
 gruntometer -> grunt
 gruntspeak -> grunt
 grunty -> grunt
-guadalcazarite -> guadalcázar
 guadeloupean -> guadeloupe
 guadeloupian -> guadeloupe
 guaiacol -> guaiacum
@@ -43027,7 +42942,6 @@ gynogenetically -> gynogenetic
 gynomorphically -> gynomorphic
 gynophobic -> gynophobia
 gyntian -> gynt
-gynæcophoric -> gynæcophore
 gyppy -> gypsy
 gyprocker -> gyprock
 gypsic -> gypsum
@@ -43068,9 +42982,6 @@ gyrotrigonometrically -> gyrotrigonometric
 gyrotropic -> gyrotropy
 gyrotropically -> gyrotropy
 gyrotropization -> gyrotropy
-gödelian -> gödel
-gülenist -> gülen
-güntherian -> günther
 haarlemer -> haarlem
 haary -> haar
 habenal -> habena
@@ -43907,7 +43818,6 @@ hawaiian -> hawaii
 hawaiianize -> hawaii
 hawaiianness -> hawaii
 hawaiite -> hawaii
-hawaiʻian -> hawaiʻi
 hawesville -> hawes
 hawker -> hawk
 hawkery -> hawk
@@ -45377,7 +45287,6 @@ hixon -> hick
 hixploitation -> hick
 hizzie -> hizouse
 hizzle -> hell
-hiärneite -> hiärne
 hmongic -> hmong
 hmongness -> hmong
 hoarder -> hoard
@@ -45767,12 +45676,6 @@ homozygously -> homozygous
 homozygousness -> homozygous
 homsi -> homs
 homy -> home
-homœoidal -> homœoid
-homœomeric -> homœomery
-homœopathical -> homœopathic
-homœopathically -> homœopathic
-homœopathist -> homœopathy
-homœopathize -> homœopathy
 honduranness -> honduran
 honeggerian -> honegger
 honer -> hone
@@ -47033,7 +46936,6 @@ hyperuricemic -> hyperuricemia
 hypervaluation -> hypervalue
 hyperventilator -> hyperventilate
 hypervolcanically -> hypervolcanic
-hyperæsthetical -> hyperæsthetic
 hypester -> hype
 hypey -> hype
 hyphal -> hypha
@@ -47181,8 +47083,6 @@ hysterographically -> hysterography
 hysteron -> hysteresis
 hysterophytal -> hysterophyte
 hysterosalpingographic -> hysterosalpingography
-hæmorrhoidal -> hæmorrhoid
-hæretical -> hæretic
 iamatological -> iamatology
 iambically -> iambical
 iambist -> iamb
@@ -52435,7 +52335,6 @@ juxtaposable -> juxtapose
 juxtaposer -> juxtapose
 juxtapositional -> juxtaposition
 juxtapositionally -> juxtaposition
-jüngerian -> jünger
 kabardian -> kabard
 kabbalic -> kabbala
 kabbalistically -> kabbalistic
@@ -52667,9 +52566,7 @@ keglike -> keg
 kehoeite -> kehoe
 keirseyan -> keirsey
 kekistani -> kekistan
-kekulean -> kekulé
 kekulene -> kekule
-kekuléan -> kekulé
 kelantanese -> kelantan
 kellerian -> keller
 kellyana -> kelly
@@ -53416,7 +53313,6 @@ kohutian -> kohut
 koilocytic -> koilocyte
 koilocytosis -> koilocyte
 koineisation -> koine
-koinëisation -> koine
 kojate -> kojic
 koktaite -> kokta
 kolkatan -> kolkata
@@ -53513,7 +53409,6 @@ kryptonation -> krypton
 kryptonide -> krypton
 kryptonite -> krypton
 krytron -> cryo
-kröhnkite -> kröhnke
 kser -> ks
 kshatriyahood -> kshatriya
 kth -> k
@@ -53569,10 +53464,6 @@ kyrgyzstan -> kyrgyz
 kyrgyzstani -> kyrgyz
 kyriarchal -> kyriarchy
 kyriological -> kyriology
-kádárian -> kádár
-kâshghari -> kâshghar
-kählerian -> kähler
-köttigite -> köttig
 labadism -> labadie
 labadist -> labadie
 labbie -> lab
@@ -55390,7 +55281,6 @@ lidful -> lid
 lidlessness -> lidless
 lidlike -> lid
 lidocaine -> acetanilide
-lieberkuhnian -> lieberkühn
 liebigite -> liebig
 liechtensteinian -> liechtenstein
 liedlike -> lied
@@ -56320,7 +56210,6 @@ lognormally -> lognormal
 logocentricity -> logocentric
 logoclonic -> logoclonia
 logodaedalist -> logodaedaly
-logodædalist -> logodædaly
 logoed -> logo
 logogrammic -> logogram
 logographic -> logograph
@@ -56337,7 +56226,6 @@ logophilic -> logophilia
 logophoric -> logophor
 logorrheic -> logorrhea
 logorrheically -> logorrhea
-logorrhœic -> logorrhœa
 logotypic -> logotype
 logroller -> logroll
 loinclothed -> loincloth
@@ -56496,7 +56384,6 @@ lootable -> loot
 looter -> loot
 lopeman -> lope
 loper -> lope
-lopezite -> lópez
 lophiostomataceous -> lophiostomataceae
 lophirone -> lophira
 lophocereine -> lophocereus
@@ -57667,7 +57554,6 @@ maladaptiveness -> maladaptive
 maladious -> malady
 maladroitly -> maladroit
 maladroitness -> maladroit
-malagan -> málaga
 malaised -> malaise
 malaitan -> malaita
 malakoplakic -> malakoplakia
@@ -57757,7 +57643,6 @@ malingerer -> malinger
 malingeror -> malinger
 malinowskian -> malinowski
 malitiously -> malitious
-mallarméan -> mallarmé
 mallcore -> mall
 malleableization -> malleable
 malleableize -> malleable
@@ -58174,7 +58059,6 @@ manyhood -> many
 manyness -> many
 manywise -> many
 manzanite -> manzanar
-manœuvreable -> manœuvre
 maoist -> mao
 maoization -> mao
 maoize -> mao
@@ -58559,7 +58443,6 @@ maryton -> mary
 maryville -> mary
 marzbanate -> marzban
 marzpanate -> marzpan
-maréchalian -> maréchal
 masarykian -> masaryk
 mascagnite -> mascagni
 mascaraed -> mascara
@@ -58728,7 +58611,6 @@ matchmakee -> matchmake
 matchy -> match
 mateable -> mate
 matehood -> mate
-mateine -> maté
 matelessness -> mateless
 mater -> mate
 materialisation -> material
@@ -59267,7 +59149,6 @@ mediumly -> medium
 mediumship -> medium
 medize -> mede
 medizer -> mede
-mediævally -> mediæval
 medspeak -> med
 medullary -> medulla
 medullated -> medulla
@@ -60420,8 +60301,6 @@ micronise -> micron
 micronization -> micron
 micropaedic -> micropaedia
 micropalaeontologic -> micropalaeontology
-micropalæontologic -> micropalæontology
-micropalæontologist -> micropalæontology
 micropathologically -> micropathological
 micropatriological -> micropatriology
 micropatriologist -> micropatriology
@@ -61617,7 +61496,6 @@ molestest -> molest
 molesteth -> molest
 molestful -> molest
 molesworthian -> molesworth
-molieresque -> molière
 moliminal -> molimina
 molinism -> molina
 molinist -> molina
@@ -62098,7 +61976,6 @@ monumentlike -> monument
 monumentous -> monument
 monzogranitic -> monzogranite
 monzonitic -> monzonite
-monégasque -> monaco
 moocher -> mooch
 moodily -> mood
 moodiness -> mood
@@ -62549,7 +62426,6 @@ mottolike -> motto
 mottoware -> motto
 mouchardism -> mouchard
 mouffean -> mouffe
-mouillation -> mouillé
 mouldability -> mould
 mouldable -> mould
 moulden -> mould
@@ -63627,7 +63503,6 @@ myxochondromatous -> myxochondroma
 myxomatoid -> myxoma
 myxomatous -> myxoma
 myxotrichaceous -> myxotrichaceae
-müllerian -> müller
 nabber -> nab
 nabman -> nab
 nabobery -> nabob
@@ -64039,9 +63914,6 @@ naziphilia -> nazi
 nazism -> nazi
 nazisploitation -> nazi
 nazist -> nazi
-naïvely -> naïve
-naïveness -> naïve
-naïvest -> naïve
 nbaer -> nba
 ndper -> ndp
 nealogic -> nealogy
@@ -65830,7 +65702,6 @@ noumenality -> noumenon
 noumenalize -> noumenon
 noumenally -> noumenon
 noumenology -> noumenon
-nouméan -> nouméa
 nounal -> noun
 nounally -> noun
 nounhood -> noun
@@ -67174,7 +67045,6 @@ onomatopoeian -> onomatopoeia
 onomatopoeic -> onomatopoeia
 onomatopoeically -> onomatopoeia
 onomatopoetically -> onomatopoetic
-onomatopœical -> onomatopœic
 onomotopoetically -> onomatopoetical
 onondagan -> onondaga
 onsetter -> onset
@@ -67526,7 +67396,6 @@ orbity -> orbate
 orblet -> orb
 orblike -> orb
 orby -> orb
-orbánism -> orbán
 orcadian -> orcades
 orcharder -> orchard
 orchardful -> orchard
@@ -67587,7 +67456,6 @@ ordinaryship -> ordinary
 ordinately -> ordinate
 ordnanceman -> ordnance
 ordoliberally -> ordoliberal
-ordonezite -> ordóñez
 ordrely -> ordre
 ordurous -> ordure
 orebite -> oreb
@@ -68133,7 +68001,6 @@ outreness -> outre
 outriggered -> outrigger
 outrightly -> outright
 outrightness -> outright
-outréness -> outré
 outsending -> outsend
 outshiner -> outshine
 outsideness -> outside
@@ -68756,14 +68623,6 @@ ozonous -> ozone
 ozploitation -> oz
 ozymandian -> ozymandias
 ozzie -> oz
-oögonial -> oögonium
-oöidal -> oöid
-oölogic -> oölogy
-oölogical -> oölogy
-oölogically -> oölogy
-oölogist -> oölogy
-oöphytic -> oöphyte
-oötidogenesis -> oötid
 paamese -> paama
 pabloism -> pablo
 pabloist -> pablo
@@ -69179,8 +69038,6 @@ palynological -> palynology
 palynologically -> palynologic
 palynologist -> palynology
 palynostratigraphic -> palynostratigraphy
-palæontologic -> palæontology
-palæontologist -> palæontology
 paman -> pama
 pammie -> pam
 pammy -> pam
@@ -70553,7 +70410,6 @@ peaty -> peat
 pebblelike -> pebble
 pebbleware -> pebble
 pebbly -> pebble
-pebrinous -> pébrine
 peccantly -> peccant
 pecker -> peck
 peckest -> peck
@@ -71865,7 +71721,6 @@ pharmacopeist -> pharmacopeia
 pharmacophoric -> pharmacophore
 pharmacopoeial -> pharmacopoeia
 pharmacopoeic -> pharmacopoeia
-pharmacopœical -> pharmacopœic
 pharsalian -> pharsalia
 pharyngal -> pharynx
 pharyngealization -> pharyngeal
@@ -71995,7 +71850,7 @@ phillipson -> phillip
 phillygenin -> phillyrea
 phillyrin -> phillyrea
 philmont -> phillip
-philmonter -> phillip
+philmonter -> philip
 philogenitiveness -> philogenitive
 philogynistic -> philogynist
 philologaster -> philology
@@ -72423,8 +72278,6 @@ phytotherapeutically -> phytotherapeutic
 phytotomist -> phytotomy
 phytotronic -> phytotrony
 phytyl -> phytol
-phænologic -> phænology
-phænotypical -> phænotypic
 piacentine -> piacenza
 piacularly -> piacular
 piagetian -> piaget
@@ -73861,7 +73714,6 @@ poignantly -> poignant
 poikilitically -> poikilitic
 poikiloblastic -> poikiloblast
 poikiloblastically -> poikiloblast
-poincaréan -> poincaré
 poinder -> poind
 poindexterish -> poindexter
 poinsettia -> poinsett
@@ -75020,7 +74872,6 @@ practisest -> practise
 practiseth -> practise
 practitionership -> practitioner
 practively -> practive
-praenominal -> praenōmen
 praetorship -> praetor
 pragmalinguistically -> pragmalinguistic
 pragmatically -> pragmatic
@@ -75769,10 +75620,6 @@ prexie -> president
 preyer -> prey
 preyful -> prey
 prezygotically -> prezygotic
-preëmptible -> preëmpt
-preëmptive -> preëmpt
-preëmptor -> preëmpt
-preëmptory -> preëmpt
 priany -> prian
 priapic -> priapus
 priapically -> priapus
@@ -76656,7 +76503,6 @@ proprietress -> proper
 proprietrix -> proper
 propriety -> proper
 proprioceptively -> proprioceptive
-proprætorship -> proprætor
 propugner -> propugn
 propulsively -> propulsive
 propulsiveness -> propulsive
@@ -77071,9 +76917,6 @@ pryingly -> prying
 pryingness -> prying
 prymnesiophytic -> prymnesiophyte
 pryproof -> pry
-præcisely -> præcise
-præsenteth -> præsent
-præsently -> præsent
 psalmic -> psalm
 psalmist -> psalm
 psalmodic -> psalmody
@@ -77903,7 +77746,6 @@ pyorrheal -> pyorrhea
 pyorrheic -> pyorrhea
 pyorrhoeal -> pyorrhoea
 pyorrhoeic -> pyorrhoea
-pyorrhœic -> pyorrhœa
 pyosalpingitis -> pyosalpinx
 pyot -> pie
 pyral -> pyre
@@ -78031,10 +77873,6 @@ pythonist -> python
 pythonista -> python
 pythonlike -> python
 pyxing -> pyx
-pääkkönenite -> pääkkönen
-pædagogical -> pædagogic
-pæderastic -> pæderast
-pædophilic -> pædophilia
 qabalist -> qabal
 qabalistically -> qabalistic
 qadarite -> qadariyya
@@ -78646,7 +78484,6 @@ quranologist -> quran
 qurayshite -> quraysh
 qutbism -> qutb
 qutbist -> qutb
-quæstionable -> quæstion
 raadeite -> raade
 rabatment -> rabat
 rabbeter -> rabbet
@@ -79052,7 +78889,6 @@ rancidify -> rancid
 rancidity -> rancid
 rancidly -> rancid
 rancidness -> rancid
-rancierian -> rancière
 rancorous -> rancor
 rancorously -> rancor
 rancorousness -> rancor
@@ -79424,8 +79260,6 @@ razeth -> raze
 razorable -> razor
 razorlike -> razor
 razory -> razor
-raëlian -> raël
-raëlism -> raël
 rdmer -> rdm
 reachability -> reach
 reachable -> reach
@@ -82001,7 +81835,6 @@ reubenite -> reuben
 reubs -> reuben
 reunificationism -> reunification
 reunificationist -> reunification
-reunionese -> réunion
 reunionism -> reunion
 reunionist -> reunion
 reunitable -> reunite
@@ -82242,8 +82075,6 @@ rewritable -> rewrite
 rewriteman -> rewrite
 rewriter -> rewrite
 rexburg -> ricks
-reykjaviker -> reykjavík
-reykjavikian -> reykjavík
 reynoldsian -> reynolds
 reznorian -> reznor
 rezonable -> rezone
@@ -82736,7 +82567,6 @@ risky -> risk
 risley -> rice
 risottolike -> risotto
 risqueness -> risque
-risquéness -> risqué
 ritelessness -> riteless
 ritely -> rite
 ritschlian -> ritschl
@@ -83001,7 +82831,6 @@ roentgenological -> roentgen
 roentgenologically -> roentgen
 roentgenologist -> roentgen
 roentgenology -> roentgen
-roentgenoscope -> röntgen
 roentgenotherapist -> roentgenotherapy
 roethkean -> roethke
 roethkian -> roethke
@@ -83111,7 +82940,6 @@ romanticly -> romant
 romaphobia -> roma
 rombergism -> romberg
 romcommy -> romcom
-romeite -> romé
 romeoesque -> romeo
 romes -> rome
 romeward -> rome
@@ -83248,7 +83076,6 @@ rosettelike -> rosette
 rosetting -> rosette
 rosicrucianism -> rosicrucian
 rosicrucianist -> rosicrucian
-rosieresite -> rosières
 rosily -> rose
 rosiness -> rose
 rosinous -> rosin
@@ -83817,8 +83644,6 @@ rwandese -> rwanda
 rylean -> ryle
 ryukyuan -> ryukyu
 rywingate -> rywin
-réunionese -> réunion
-röntgenize -> röntgen
 saarlander -> saarland
 sabaean -> saba
 sabahan -> sabah
@@ -83988,10 +83813,10 @@ saffronlike -> saffron
 saffrony -> saffron
 saffy -> saffron
 safranophile -> safranine
-sagacious -> sagacious
-sagaciously -> sagacious
-sagaciousness -> sagacious
-sagacity -> sagacious
+sagacious -> sagacity
+sagaciously -> sagacity
+sagaciousness -> sagacity
+sagacity -> sagacity
 sagaman -> saga
 sagamoreship -> sagamore
 saganian -> sagan
@@ -84103,7 +83928,6 @@ saleability -> sale
 saleable -> sale
 saleableness -> sale
 saleably -> sale
-saleeite -> salée
 salemite -> salem
 salentine -> salento
 salesbot -> sales
@@ -84156,8 +83980,6 @@ salivatory -> saliva
 salivous -> saliva
 saljuqian -> saljuq
 saljuqid -> saljuq
-saljūqian -> saljūq
-saljūqid -> saljūq
 sallier -> salvation
 sallowish -> sallow
 sallowly -> sallow
@@ -88346,7 +88168,6 @@ silkwear -> silk
 silky -> silk
 sillan -> silla
 silled -> sill
-sillenite -> sillén
 sillification -> seel
 sillily -> seel
 sillimanite -> silliman
@@ -88955,7 +88776,6 @@ skittishness -> skite
 skittler -> skittle
 skiver -> skive
 skiwear -> ski
-skiïng -> ski
 skolemisation -> skolem
 skoliosexuality -> skoliosexual
 skopjan -> skopje
@@ -91403,9 +91223,6 @@ sphingomyelinase -> sphingomyelin
 sphinxlike -> sphinx
 sphygmographic -> sphygmograph
 sphygmomanometry -> sphygmomanometer
-sphæric -> sphære
-sphærical -> sphære
-sphæroidal -> sphæroid
 spiceful -> spice
 spiceland -> spice
 spicelessness -> spiceless
@@ -94137,8 +93954,6 @@ styrofoamed -> styrofoam
 styrofoamy -> styrofoam
 styrol -> styrax
 styryl -> styrene
-stützite -> stütz
-stœchiometric -> stœchiometry
 suability -> sue
 suasively -> suasive
 suasiveness -> suasive
@@ -96338,7 +96153,6 @@ szaszian -> szasz
 szechwanese -> szechwan
 szondian -> szondi
 sztrokayite -> sztrokay
-séancer -> séance
 taaffeite -> taaffe
 tabarded -> tabard
 tabarder -> tabard
@@ -97060,7 +96874,6 @@ taylorize -> taylor
 taylorsville -> taylor
 taysider -> tayside
 tazobactam -> triazole
-taïwanese -> taïwan
 tbilisian -> tbilisi
 tchaikovskian -> tchaikovsky
 tcler -> tcl
@@ -107453,7 +107266,6 @@ virtuosity -> virtuoso
 virtuosoship -> virtuoso
 virtuously -> virtuous
 virtuousness -> virtuous
-virtùous -> virtù
 virulented -> virulent
 virulently -> virulent
 virulentness -> virulent
@@ -107715,8 +107527,6 @@ voidness -> void
 voivodeship -> voivode
 volaemia -> volume
 volaemic -> volume
-volapükism -> volapük
-volapükist -> volapük
 volarly -> volar
 volatilely -> volatile
 volatileness -> volatile
@@ -107978,7 +107788,6 @@ vyacheslavite -> vyacheslav
 vygotskian -> vygotsky
 vyingly -> vying
 vyuntspakhkite -> vyuntspakh
-vṛddhied -> vṛddhi
 waacker -> waacking
 wabbly -> wabble
 wachowskian -> wachowski
@@ -110688,8 +110497,6 @@ wyomingite -> wyoming
 wyrmling -> wyrm
 wytheville -> wythe
 wythoffian -> wythoff
-württembergian -> württemberg
-wüstite -> wüst
 xamoterol -> carboxamide
 xanaxed -> xanax
 xanderista -> xander
@@ -111494,7 +111301,6 @@ zitherist -> zither
 zitherlike -> zither
 zitso -> zits
 zitty -> zit
-zizekian -> žižek
 ziziphin -> ziziphus
 zizzy -> zizz
 zlatogorite -> zlatogor
@@ -111653,9 +111459,6 @@ zosterophyllaceous -> zosterophyllaceae
 zotarolimus -> tetrazole
 zoubekite -> zoubek
 zoukify -> zouk
-zoögrapher -> zoögraphy
-zoögraphist -> zoögraphy
-zoönite -> zoön
 zuboffian -> zuboff
 zucchinilike -> zucchini
 zuckerbergian -> zuckerberg
@@ -111701,19 +111504,3 @@ zymurgical -> zymurgy
 zymurgist -> zymurgy
 zythologist -> zythology
 zyuganovism -> zyuganov
-ænigmatic -> ænigma
-æstheticization -> æstheticize
-ætheric -> æther
-ætiologic -> ætiology
-épéeist -> épée
-čapekian -> čapek
-łukasiewiczian -> łukasiewicz
-œconomize -> œconomy
-œcumenism -> œcumene
-œcumenist -> œcumene
-œdematic -> œdema
-œdematous -> œdema
-œsophagean -> œsophagus
-œsophagic -> œsophagus
-œsophagical -> œsophagus
-œstrogenic -> œstrogen
