@@ -1,7 +1,8 @@
-import logging
+import os
+import sys
+from tqdm import tqdm
+from nltk.metrics import f_measure
 import numpy as np
-from nltk.metrics import jaccard_distance
-from sklearn.metrics.cluster import adjusted_mutual_info_score, adjusted_rand_score
 
 def create_clusters(filename):
     stem_clusters = dict()
@@ -15,66 +16,68 @@ def create_clusters(filename):
         if stem not in stem_clusters.keys():
             stem_clusters[stem] = set()
         stem_clusters[stem].add(word)
+    stem_clusters = dict(sorted(stem_clusters.items()))
     return stem_clusters, stem_pairs
 
-def label_clusters(wikt_pairs, wikt_clusters, stem_pairs, stem_clusters):
-    wikt_labels = list()
-    stem_labels = list()
-    labels = dict()
-    temp_clusters = stem_clusters.copy()
-    #find the appropriate labels for the clusters
-    curr_label = 0
-    for ref_cluster in wikt_clusters.keys():
-        logging.info(f"Processing cluster {curr_label}/{len(wikt_clusters)}......")
-        curr_label+=1
-        best_cluster = ""
-        best_distance = 1.00
-        for cluster in temp_clusters.keys():
-            distance = jaccard_distance(wikt_clusters[ref_cluster], stem_clusters[cluster])
-            if distance < best_distance:
-                best_distance = distance
-                best_cluster = cluster
-        if best_distance < 1.00:
-            temp_clusters.pop(best_cluster)
-            labels[best_cluster] = curr_label
-        labels[ref_cluster] = curr_label
-    logging.info("Finished processing clusters.... Now assigning labels...")
-    #make lists of the stems as labels
-    for word, stem in wikt_pairs:
-        wikt_labels.append(labels[stem])
-    logging.info("Finished Wiktionary labels...")
-    for word, stem in stem_pairs:
-        if stem in labels.keys():
-            stem_labels.append(labels[stem])
-        else:
-            stem_labels.append(0)
-    logging.info("Finished stemmer...")
-    logging.info("Writing labelled data to files...")
-    stem_labels = np.array(stem_labels, dtype=np.int32)
-    wikt_labels = np.array(wikt_labels, dtype=np.int32)
-    np.savetxt("Data/wikt_labels.csv", wikt_labels)
-    np.savetxt("Data/stem_labels.csv", stem_labels)
-    logging.info("Saved labels!")
+def print_best_clusters(wikt_clusters, stem_clusters, filename):
+    with open(filename, "w") as f:
+        count = 0
+        for ref_cluster in wikt_clusters.values():
+            count+=1
+            best_cluster = list()
+            best_fmeasure = 0.00
+            for cluster in stem_clusters.values():
+                fmeasure = f_measure(ref_cluster, cluster)
+                if fmeasure > best_fmeasure:
+                        best_fmeasure = fmeasure
+                        best_cluster = cluster
+            f.write(f"wiktionary: {ref_cluster} | stemmer: {best_cluster}\n")
+            if count == 32:
+                return
+    
 
-def measure_clusters(wikt_labels, stem_labels):
-    logging.info("Calculating AMI...")
-    print(f"AMI: {adjusted_mutual_info_score(wikt_labels, stem_labels)}")
-    logging.info("Calculating ARI...")
-    print(f"ARI: {adjusted_rand_score(wikt_labels, stem_labels)}")
-
+def print_clusters(filename, clusters):
+    with open(filename, "w") as f:
+        for stem in clusters.keys():
+            f.write(stem)
+            for word in clusters[stem]:
+                f.write(" " + word)
+            f.write("\n")
 
 def main():
-    logging.basicConfig(filename="cluster.log", level=logging.INFO)
-    #todo: check if the necessary files are actually there
     wikt_file = "Wiktionary/replacements.txt"
-    #Todo: change the stemmer file to be given via command line?
-    stemmer_file = "Stemmers/Snowball/snowballOutput.txt"
+    if not os.path.exists(wikt_file):
+        print(f"{wikt_file} is missing!", file=sys.stderr)
+        return
+    if len(sys.argv) not in (3,4):
+        print("Usage: python cluster.py <directory> <stemmer> [y]")
+        return
+    stemmer_dir = sys.argv[1]
+    stemmer = sys.argv[2]
+    stemmer_file = stemmer + "Stems"
+    stemmer_file = os.path.join(stemmer_dir, stemmer_file)
+    if not os.path.exists(stemmer_file):
+        print(f"{stemmer_file} is missing!")
+        return
+    output_file = stemmer + "Clusters"
+    output_file = os.path.join(stemmer_dir, output_file)
+    BEST = False
+    if len(sys.argv) == 4 and sys.argv[3] == "y":
+        BEST = True
 
     # Get the clusters from word->stem files
-    wikt_clusters, wikt_pairs = create_clusters(wikt_file)
     stem_clusters, stem_pairs = create_clusters(stemmer_file)
+    wikt_clusters, wikt_pairs = create_clusters(wikt_file)
+    # Print out all the clusters and their corresponding stem
+    print_clusters(output_file, stem_clusters)
+    print_clusters("Wiktionary/temp.txt", wikt_clusters)
+    if BEST:
+        # Print out the best clusters for each wikt cluster
+        output_file = stemmer + "BestClusters"
+        output_file = os.path.join(stemmer_dir, output_file)
+        print_best_clusters(wikt_clusters, stem_clusters, output_file)
 
-    label_clusters(wikt_pairs, wikt_clusters, stem_pairs, stem_clusters)
+    
 
 if __name__ == "__main__":
     main()
