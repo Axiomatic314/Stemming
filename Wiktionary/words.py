@@ -13,10 +13,12 @@ def process_words(words):
     word_clusters = dict()
 
     for word in tqdm(words):
-        if "word" in word.keys() and len(word["word"]) <= 2:
+        #Entry needs to have a word at all
+        if "word" not in word.keys():
             continue
 
-        if "etymology_templates" not in word.keys():
+        #Don't stem words under 3 characters long
+        if len(word["word"]) <= 2:
             continue
 
         #If the word is a person's name, we leave it as it is
@@ -28,6 +30,11 @@ def process_words(words):
                     ignore = True
                     break
         if ignore: continue
+
+        #todo: add a check for senses - form_of
+
+        if "etymology_templates" not in word.keys():
+            continue
 
         for template in word["etymology_templates"]:
             valid_lang_codes = ["en"]
