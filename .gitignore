@@ -37,6 +37,7 @@
 /KatelynGraphs
 /atireOutput
 /wikt_stemmer/stem_wikt.*
+/for_andrew
 
 #Ignore the wiktextract file
 *.json
