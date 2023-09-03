@@ -125,7 +125,7 @@ def write_cluster_distances(wikt_clusters, stem_clusters, filename):
     np.savetxt(filename, cluster_distances) 
 
 def main():
-    wikt_file = "Wiktionary/replacements.txt"
+    wikt_file = "Wiktionary/wordToStem.txt"
     if not os.path.exists(wikt_file):
         print(f"{wikt_file} is missing!", file=sys.stderr)
         return
@@ -152,12 +152,13 @@ def main():
     write_size_distribution(wikt_clusters, os.path.join(data_dir, "wikt" + "_distribution.csv"))
 
     # Get the maximum fmeasure for each stemmer cluster
-    write_cluster_fmeasures(wikt_clusters, stem_clusters, os.path.join(data_dir, stemmer + "_before_cluster_fmeasures.csv"))
-    #Removing single clusters
-    wikt_clusters, stem_clusters = trim_clusters(wikt_clusters, stem_clusters)
-    print(f"Clusters for the stemmer with length > 1: {len(stem_clusters)}", file=sys.stderr)
-    print(f"Clusters for the wiktionary with length > 1: {len(wikt_clusters)}", file=sys.stderr)
-    write_cluster_fmeasures(wikt_clusters, stem_clusters, os.path.join(data_dir, stemmer + "_after_cluster_fmeasures.csv"))
+    write_cluster_fmeasures(wikt_clusters, stem_clusters, os.path.join(data_dir, stemmer + "_cluster_fmeasures.csv"))
+
+    # #Removing single clusters
+    # wikt_clusters, stem_clusters = trim_clusters(wikt_clusters, stem_clusters)
+    # print(f"Clusters for the stemmer with length > 1: {len(stem_clusters)}", file=sys.stderr)
+    # print(f"Clusters for the wiktionary with length > 1: {len(wikt_clusters)}", file=sys.stderr)
+    # write_cluster_fmeasures(wikt_clusters, stem_clusters, os.path.join(data_dir, stemmer + "_after_cluster_fmeasures.csv"))
 
     # Get the edit distances between the wiktionary stems and those from the stemming algorithm
     write_word_distances(wikt_pairs, stem_pairs, os.path.join(data_dir, stemmer + "_word_distances.csv"))
