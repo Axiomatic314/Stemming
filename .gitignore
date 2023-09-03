@@ -39,5 +39,6 @@
 /wikt_stemmer/stem_wikt.*
 /for_andrew
 
-#Ignore the wiktextract file
+#Ignore the wiktextract files
 *.json
+*.pkl
