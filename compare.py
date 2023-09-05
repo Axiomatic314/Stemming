@@ -144,7 +144,7 @@ def main():
     # Get the clusters from word->stem files
     wikt_clusters, wikt_pairs = create_clusters(wikt_file)
     stem_clusters, stem_pairs = create_clusters(stemmer_file)
-    print(f"Total clusters for the stemmer: {len(stem_clusters)}", file=sys.stderr)
+    print(f"Total clusters for the {stemmer} stemmer: {len(stem_clusters)}", file=sys.stderr)
     print(f"Total clusters for the wiktionary: {len(wikt_clusters)}", file=sys.stderr)
 
     # Get the distribution of cluster sizes 
