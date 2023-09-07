@@ -54,18 +54,20 @@ def process_words(wikt_data_en: List[Dict]):
         if word == "crustacean" : continue
         if word == "cow" : continue
 
-        #If the word is a person's name, we leave it as it is
         #If it is a multiword term, do not break it up
         ignore = False
         if "categories" in data.keys():
             for category in data["categories"]:
-                if category.find("surnames") > -1 or category.find("given names") > -1 or category.find("multiword") > -1:
+                if category.find("multiword") > -1:
                     ignore = True
                     break
         if ignore: continue
 
+        #Ignore proper nouns
+        if "pos" in data.keys() and data["pos"] == "name": continue
+
         #If the word has an etymology section, try to extract the root from the suffix/affix template
-        if "etymology_templates" in data.keys():
+        if "etymology_templates" in data.keys() and len(data["etymology_templates"]) > 0:
             for template in data["etymology_templates"]:
                 #Check if the template is actually in English
                 if "1" in template["args"] and template["args"]["1"] not in valid_lang_codes:
