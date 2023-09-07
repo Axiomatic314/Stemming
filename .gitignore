@@ -39,6 +39,7 @@
 /wikt_stemmer/stem_wikt.*
 /for_andrew
 
-#Ignore the wiktextract files
+#Ignore files that are too big
 *.json
 *.pkl
+/ClueWeb/docLengths.csv
