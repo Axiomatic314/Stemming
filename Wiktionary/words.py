@@ -53,6 +53,7 @@ def process_words(wikt_data_en: List[Dict]):
         #Ignore problem words
         if word == "crustacean" : continue
         if word == "cow" : continue
+        if word == "sagacity" : continue
 
         #If it is a multiword term, do not break it up
         ignore = False
@@ -66,6 +67,9 @@ def process_words(wikt_data_en: List[Dict]):
         #Ignore proper nouns
         if "pos" in data.keys() and data["pos"] == "name": continue
 
+        #If the word has multiple etymologies, but the first didn't have useful information, ignore
+        # if "etymology_number" in data.keys() and data["etymology_number"] > 1: continue
+        
         #If the word has an etymology section, try to extract the root from the suffix/affix template
         if "etymology_templates" in data.keys() and len(data["etymology_templates"]) > 0:
             for template in data["etymology_templates"]:
