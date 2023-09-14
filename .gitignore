@@ -42,4 +42,4 @@
 #Ignore files that are too big
 *.json
 *.pkl
-/ClueWeb/docLengths.csv
+/ClueWeb/*.csv
