@@ -1,5 +1,5 @@
 lookupTable = list()
-with open("Wiktionary/replacements.txt", "r") as f:
+with open("Wiktionary/wordToStem.txt", "r") as f:
     for line in f:
         contents = line.split(sep="->")
         lookupTable.append((contents[0].strip(), contents[1].strip()))
