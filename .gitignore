@@ -43,3 +43,4 @@
 *.json
 *.pkl
 /ClueWeb/*.csv
+/ClueWeb/lengths
