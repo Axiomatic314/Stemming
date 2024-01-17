@@ -1,0 +1,8 @@
+stemmer, defaultMAP, tunedMAP
+paiceHusk, 0.299347, 0.300242
+krovetz, 0.295711, 0.297918
+sStripping, 0.288334, 0.292490
+porter2, 0.297990, 0.302762
+lovins, 0.296446, 0.303783
+wikt, 0.301400, 0.300106
+none, 0.280867, 0.285235
