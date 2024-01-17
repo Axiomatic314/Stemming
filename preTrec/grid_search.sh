@@ -1,15 +1,12 @@
 #!/bin/bash
 
-MAIN_DIR=/home/katelyn/Documents/preTREC
+MAIN_DIR=/home/katelyn/Desktop/PreTREC
 COLLECTION=CysticFibrosis
 QRY=cf-1-50.queries
 QRELS=cf.qrels
 INDEX=cf.aspt
 
-cd ~/Documents/COSC490/ATIRE
-
-# declare -a results=()
-# declare -a MAP_results=()
+cd ~/Documents/COSC490/SearchEngines/ATIRE
 
 for stemmer in h k s Xe Xl w -
 do
@@ -36,4 +33,5 @@ declare -a MAP_results=()
     done
 
     echo "stemmer:-t$stemmer, k1:${best_params[0]}, b:${best_params[1]}, MAP:$best_MAP"
+
 done
