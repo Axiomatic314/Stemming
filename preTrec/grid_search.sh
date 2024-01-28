@@ -8,13 +8,16 @@ INDEX=cf.aspt
 
 cd ~/Documents/COSC490/SearchEngines/ATIRE
 
+declare -a k1_values=()
+declare -a b_values=()
+
 for stemmer in h k s Xe Xl w -
 do
 
 declare -a results=()
 declare -a MAP_results=()
 
-    for k1 in $(seq 0 0.1 3)
+    for k1 in $(seq 2.8 0.1 3)
     do 
         for b in $(seq 0 0.1 1)
         do
@@ -33,5 +36,10 @@ declare -a MAP_results=()
     done
 
     echo "stemmer:-t$stemmer, k1:${best_params[0]}, b:${best_params[1]}, MAP:$best_MAP"
+    k1_values+=("${best_params[0]}")
+    b_values+=("${best_params[1]}")
 
 done
+
+echo "${k1_values[@]}"
+echo "${b_values[@]}"
