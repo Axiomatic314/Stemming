@@ -1,12 +1,18 @@
 #!/bin/bash
 
-MAIN_DIR=/home/katelyn/Desktop/PreTREC
-COLLECTION=CysticFibrosis
-QRY=cf-1-50.queries
-QRELS=cf.qrels
-INDEX=cf.aspt
+# STEM_PATH=/home/katelyn/Documents/COSC490/Stemming
+# MAIN_DIR=/home/katelyn/Desktop/PreTREC
+# ATIRE_PATH=/home/katelyn/Documents/COSC490/SearchEngines/ATIRE
 
-cd ~/Documents/COSC490/SearchEngines/ATIRE
+STEM_PATH=/home/katelyn/Documents/COSC490/Stemming
+MAIN_DIR=/home/katelyn/Documents/preTREC
+ATIRE_PATH=/home/katelyn/Documents/COSC490/ATIRE
+
+COLLECTION=$1
+COL=$2
+HIGH=$3
+
+cd $ATIRE_PATH
 
 declare -a k1_values=()
 declare -a b_values=()
@@ -21,7 +27,7 @@ declare -a MAP_results=()
     do 
         for b in $(seq 0 0.1 1)
         do
-            MAP=$(./bin/atire -t$stemmer -findex $MAIN_DIR/$COLLECTION/$INDEX -q$MAIN_DIR/$COLLECTION/$QRY -a/$MAIN_DIR/$COLLECTION/$QRELS -RBM25:$k1:$b | tail -n 5 | head -n 1 | cut -d " " -f 2)
+            MAP=$(./bin/atire -t$stemmer -findex $MAIN_DIR/$COLLECTION/$COL.aspt -q$MAIN_DIR/$COLLECTION/$COL\-1\-$HIGH.queries -a/$MAIN_DIR/$COLLECTION/$COL.qrels -RBM25:$k1:$b | tail -n 5 | head -n 1 | cut -d " " -f 2)
             results+=($k1 $b $MAP)
             MAP_results+=($MAP)
         done 

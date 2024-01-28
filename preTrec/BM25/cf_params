@@ -1,8 +1,8 @@
 stemmer:-th, k1:3.0, b:1.0, MAP:0.297226
 stemmer:-tk, k1:2.8, b:0.9, MAP:0.295409
-stemmer:-ts, k1:3.0, b:0.9, MAP:0.282472
+stemmer:-ts, k1:3.0, b:0.9, MAP:0.282471
 stemmer:-tXe, k1:2.8, b:0.9, MAP:0.292548
-stemmer:-tXl, k1:3.0, b:0.9, MAP:0.297671
+stemmer:-tXl, k1:3.0, b:0.9, MAP:0.297670
 stemmer:-tw, k1:2.8, b:1.0, MAP:0.299563
 stemmer:-t-, k1:3.0, b:0.8, MAP:0.271914
 3.0 2.8 3.0 2.8 3.0 2.8 3.0

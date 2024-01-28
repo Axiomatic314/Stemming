@@ -1,8 +1,12 @@
 #!/bin/bash 
 
+# STEM_PATH=/home/katelyn/Documents/COSC490/Stemming
+# MAIN_DIR=/home/katelyn/Desktop/PreTREC
+# ATIRE_PATH=/home/katelyn/Documents/COSC490/SearchEngines/ATIRE
+
 STEM_PATH=/home/katelyn/Documents/COSC490/Stemming
-MAIN_DIR=/home/katelyn/Desktop/PreTREC
-ATIRE_PATH=/home/katelyn/Documents/COSC490/SearchEngines/ATIRE
+MAIN_DIR=/home/katelyn/Documents/preTREC
+ATIRE_PATH=/home/katelyn/Documents/COSC490/ATIRE
 
 stem=(h k s Xe Xl w -)
 stemmer=("paiceHusk" "krovetz" "sStripping" "porter2" "lovins" "wikt" "none")
@@ -12,7 +16,7 @@ COL=$2
 LOW=$3
 HIGH=$4
 
-$STEM_PATH/preTrec/grid_search.sh >  $STEM_PATH/preTrec/BM25/$COL\_params
+$STEM_PATH/preTrec/grid_search.sh $COLLECTION $COL $LOW >  $STEM_PATH/preTrec/BM25/$COL\_params
 k1_values=$(cat $STEM_PATH/preTrec/BM25/$COL\_params | tail -n 2 | head -n 1)
 b_values=$(cat $STEM_PATH/preTrec/BM25/$COL\_params | tail -n 1)
 k1=($k1_values)
