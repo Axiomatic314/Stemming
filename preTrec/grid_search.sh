@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 
 # STEM_PATH=/home/katelyn/Documents/COSC490/Stemming
 # MAIN_DIR=/home/katelyn/Desktop/PreTREC
