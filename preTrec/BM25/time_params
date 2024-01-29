@@ -1,0 +1,9 @@
+stemmer:-th, k1:3.0, b:0.7, MAP:0.631649
+stemmer:-tk, k1:3.0, b:0.6, MAP:0.650063
+stemmer:-ts, k1:3.0, b:0.6, MAP:0.636539
+stemmer:-tXe, k1:3.0, b:0.7, MAP:0.635091
+stemmer:-tXl, k1:2.9, b:0.8, MAP:0.629862
+stemmer:-tw, k1:3.0, b:0.7, MAP:0.635371
+stemmer:-t-, k1:2.9, b:0.6, MAP:0.619980
+3.0 3.0 3.0 3.0 2.9 3.0 2.9
+0.7 0.6 0.6 0.7 0.8 0.7 0.6
