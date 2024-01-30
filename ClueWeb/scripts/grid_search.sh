@@ -3,6 +3,7 @@
 CLUEWEB_PATH=/home/harka424/ClueWeb
 ATIRE_PATH=/projects/harka424/ATIRE
 INDEX_PATH=/projects/harka424/ClueWeb
+EVAL_PATH=/projects/harka424/trec-web-2013/src/eval
 
 QRELS=qrels.ndeval.txt
 QUERIES=web2013.topics.txt
@@ -10,6 +11,8 @@ QUERIES=web2013.topics.txt
 COLLECTION=$1
 COL=$2
 SUBSET=$3
+
+: > $CLUEWEB_PATH/tuned/BM25/$COL\_$SUBSET
 
 declare -a k1_values=()
 declare -a b_values=()	
@@ -25,7 +28,10 @@ do
 	do
 		for b in $(seq 0 0.1 1)
 		do
-			ndcg=$(./bin/atire -t$stemmer -findex $INDEX_PATH/$COL/index\_$SUBSET.aspt -q$CLUEWEB_PATH/2013/$QUERIES -a$CLUEWEB_PATH/2013/$QRELS -RBM25:$k1:$b -mnDCGt:a -k10 -l10 | tail -n 5 | head -n 1 | cut -d " " -f 2)
+			./bin/atire -t$stemmer -findex $INDEX_PATH/$COL/index\_$SUBSET.aspt -q$CLUEWEB_PATH/2013/$QUERIES -a$CLUEWEB_PATH/2013/$QRELS -RBM25:$k1:$b -k10 -l10 -et -otemp.out
+			ndcg=$($EVAL_PATH/ndeval $CLUEWEB_PATH/2013/$QRELS temp.out | tail -n 1 | cut -d ',' -f 10)
+			#ndcg=$(./bin/atire -t$stemmer -findex $INDEX_PATH/$COL/index\_$SUBSET.aspt -q$CLUEWEB_PATH/2013/$QUERIES -a$CLUEWEB_PATH/2013/$QRELS -RBM25:$k1:$b -mnDCGt:a -k10 -l10 | tail -n 5 | head -n 1 | cut -d " " -f 2)
+			
 			results+=($k1 $b $ndcg)
 			ndcg_results+=($ndcg)
 		done
@@ -39,11 +45,11 @@ do
 		fi
 	done
 	
-	echo "stemmer:-t$stemmer, k1:${best_params[0]}, b:${best_params[1]}, nDCG:$best_ndcg"
+	echo "stemmer:-t$stemmer, k1:${best_params[0]}, b:${best_params[1]}, nDCG:$best_ndcg" >> $CLUEWEB_PATH/tuned/BM25/$COL\_$SUBSET
 	k1_values+=("${best_params[0]}")
 	b_values+=("${best_params[1]}")
 	
 done
 
-echo "${k1_values[@]}"
-echo "${b_values[@]}"
+echo "${k1_values[@]}" >> $CLUEWEB_PATH/tuned/BM25/$COL\_$SUBSET
+echo "${b_values[@]}" >> $CLUEWEB_PATH/tuned/BM25/$COL\_$SUBSET
