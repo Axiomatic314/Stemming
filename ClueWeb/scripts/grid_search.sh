@@ -30,7 +30,6 @@ do
 		do
 			./bin/atire -t$stemmer -findex $INDEX_PATH/$COL/index\_$SUBSET.aspt -q$CLUEWEB_PATH/2013/$QUERIES -a$CLUEWEB_PATH/2013/$QRELS -RBM25:$k1:$b -k10 -l10 -et -otemp.out
 			ndcg=$($EVAL_PATH/ndeval $CLUEWEB_PATH/2013/$QRELS temp.out | tail -n 1 | cut -d ',' -f 10)
-			#ndcg=$(./bin/atire -t$stemmer -findex $INDEX_PATH/$COL/index\_$SUBSET.aspt -q$CLUEWEB_PATH/2013/$QUERIES -a$CLUEWEB_PATH/2013/$QRELS -RBM25:$k1:$b -mnDCGt:a -k10 -l10 | tail -n 5 | head -n 1 | cut -d " " -f 2)
 			
 			results+=($k1 $b $ndcg)
 			ndcg_results+=($ndcg)
