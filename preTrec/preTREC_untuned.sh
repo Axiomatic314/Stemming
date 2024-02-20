@@ -15,17 +15,11 @@ stemmer=("paiceHusk" "krovetz" "sStripping" "porter2" "lovins" "wikt" "none")
 COLLECTION=$1
 COL=$2
 
-# $STEM_PATH/preTrec/grid_search.sh $COLLECTION $COL >  $STEM_PATH/preTrec/BM25/$COL\_params
-k1_values=$(cat $STEM_PATH/preTrec/BM25/$COL\_params | tail -n 2 | head -n 1)
-b_values=$(cat $STEM_PATH/preTrec/BM25/$COL\_params | tail -n 1)
-k1=($k1_values)
-b=($b_values)
-
 cd $ATIRE_PATH
 
 for i in "${!stemmer[@]}"
 do
-    ./bin/atire -t"${stem[$i]}" -RBM25:"${k1[$i]}":"${b[$i]}" -findex $PRETREC_PATH/$COLLECTION/$COL.aspt -q$PRETREC_PATH/$COLLECTION/$COL\-2.queries -et -o$PRETREC_PATH/$COLLECTION/$COL\-"${stemmer[$i]}".out
+    ./bin/atire -t"${stem[$i]}" -findex $PRETREC_PATH/$COLLECTION/$COL.aspt -q$PRETREC_PATH/$COLLECTION/$COL.queries -et -o$PRETREC_PATH/$COLLECTION/$COL\-"${stemmer[$i]}".out
 done
 
 cd $TREC_EVAL_PATH
