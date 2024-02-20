@@ -1,9 +1,9 @@
-stemmer:-th, k1:2.8, b:0.5, MAP:0.307335
-stemmer:-tk, k1:2.8, b:0.5, MAP:0.308934
-stemmer:-ts, k1:2.9, b:0.5, MAP:0.303156
-stemmer:-tXe, k1:2.8, b:0.4, MAP:0.316683
-stemmer:-tXl, k1:2.8, b:0.4, MAP:0.323921
-stemmer:-tw, k1:2.8, b:0.4, MAP:0.307273
-stemmer:-t-, k1:2.9, b:0.4, MAP:0.268734
-2.8 2.8 2.9 2.8 2.8 2.8 2.9
-0.5 0.5 0.5 0.4 0.4 0.4 0.4
+stemmer:-th, k1:0.9, b:0.5, MAP:0.324404
+stemmer:-tk, k1:0.9, b:0.5, MAP:0.324025
+stemmer:-ts, k1:0.7, b:0.5, MAP:0.314949
+stemmer:-tXe, k1:0.7, b:0.7, MAP:0.330860
+stemmer:-tXl, k1:0.7, b:0.7, MAP:0.348629
+stemmer:-tw, k1:0.8, b:0.6, MAP:0.327329
+stemmer:-t-, k1:0.9, b:0.4, MAP:0.273633
+0.9 0.9 0.7 0.7 0.7 0.8 0.9
+0.5 0.5 0.5 0.7 0.7 0.6 0.4
