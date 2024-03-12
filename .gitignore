@@ -44,3 +44,4 @@
 *.pkl
 /ClueWeb/*.csv
 /ClueWeb/lengths
+/GOV2/lengths
