@@ -38,6 +38,7 @@
 /atireOutput
 /wikt_stemmer/stem_wikt.*
 /for_andrew
+/Data/clueweb/stems/OLD
 
 #Ignore files that are too big
 *.json
@@ -46,3 +47,4 @@
 /ClueWeb/lengths
 /GOV2/lengths
 /Data/lengths
+/Data/clueweb/stems
