@@ -1,0 +1,641 @@
+ATIRE Version 0.5 alpha (64-bit DEBUGGING-build)
+Written (w) 2008-2014 Andrew Trotman, University of Otago
+<ATIREsearch>
+Q:raspberry->6.209124
+Q:pi->4.344974
+<query> raspberry pi</query><numhits>10</numhits><time>677</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:uss->0.499009
+Q:carl->4.561831
+Q:vinson->8.425531
+<query> uss carl vinson</query><numhits>10</numhits><time>3306</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:reviews->2.036838
+Q:of->0.250675
+Q:les->3.061909
+Q:miserables->8.121681
+<query> reviews of les miserables</query><numhits>10</numhits><time>4938</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:rules->6.126841
+Q:of->0.250675
+Q:golf->3.659305
+<query> rules of golf</query><numhits>10</numhits><time>3621</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:average->3.583285
+Q:charitable->5.446134
+Q:donation->1.481305
+<query> average charitable donation</query><numhits>10</numhits><time>2223</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:wind->3.627119
+Q:power->1.507213
+<query> wind power</query><numhits>10</numhits><time>1539</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:bph->8.407495
+Q:treatment->3.659023
+<query> bph treatment</query><numhits>10</numhits><time>609</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:doctor->3.862600
+Q:zhivago->9.888077
+<query> doctor zhivago</query><numhits>10</numhits><time>547</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:land->3.022744
+Q:surveyor->6.597636
+<query> land surveyor</query><numhits>10</numhits><time>870</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:golf->3.659305
+Q:gps->4.283428
+<query> golf gps</query><numhits>10</numhits><time>658</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:what->1.194394
+Q:is->0.527370
+Q:madagascar->5.095029
+Q:known->2.920562
+Q:for->0.320278
+<query> what is madagascar known for</query><numhits>10</numhits><time>7636</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:home->0.606695
+Q:theater->4.233471
+Q:systems->1.998993
+<query> home theater systems</query><numhits>10</numhits><time>3180</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:carpal->6.322840
+Q:tunnel->5.380269
+Q:syndrome->5.247039
+<query> carpal tunnel syndrome</query><numhits>10</numhits><time>836</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:capital->3.634348
+Q:gains->3.595822
+Q:tax->2.975505
+Q:rate->2.070183
+<query> capital gains tax rate</query><numhits>10</numhits><time>2524</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:maryland->3.891172
+Q:department->3.100557
+Q:of->0.250675
+Q:natural->2.400287
+Q:resources->1.735583
+<query> maryland department of natural resources</query><numhits>10</numhits><time>5898</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:nicolas->4.861270
+Q:cage->4.958074
+Q:movies->2.066035
+<query> nicolas cage movies</query><numhits>10</numhits><time>1642</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:kids->2.685124
+Q:earth->3.404511
+Q:day->1.232067
+Q:activities->1.497103
+<query> kids earth day activities</query><numhits>10</numhits><time>3669</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:solar->3.378069
+Q:water->2.631371
+Q:fountains->5.276012
+<query> solar water fountains</query><numhits>10</numhits><time>1485</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:what->1.194394
+Q:was->1.351580
+Q:the->0.165628
+Q:name->1.434211
+Q:of->0.250675
+Q:elvis->5.664880
+Q:presley->7.032194
+Q:s->0.448648
+Q:home->0.606695
+<query> what was the name of elvis presley s home</query><numhits>10</numhits><time>16073</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:nba->4.568464
+Q:records->2.686465
+<query> nba records</query><numhits>10</numhits><time>1160</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:electoral->6.191797
+Q:college->2.842147
+Q:results->2.186794
+Q:2008->1.988047
+<query> electoral college 2008 results</query><numhits>10</numhits><time>2308</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:male->3.063415
+Q:menopause->6.370131
+<query> male menopause</query><numhits>10</numhits><time>1295</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:usda->4.401303
+Q:food->2.344483
+Q:pyramid->5.779751
+<query> usda food pyramid</query><numhits>10</numhits><time>1149</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:making->1.294201
+Q:chicken->4.162826
+Q:soup->4.825247
+Q:from->0.695855
+Q:scratch->4.794715
+<query> making chicken soup from scratch</query><numhits>10</numhits><time>4546</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:black->2.504103
+Q:and->0.266484
+Q:gold->2.869810
+<query> black and gold</query><numhits>10</numhits><time>4703</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:traverse->6.043315
+Q:city->1.932286
+<query> traverse city</query><numhits>10</numhits><time>1405</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:i->0.867824
+Q:will->1.081181
+Q:survive->4.935219
+Q:lyrics->4.506557
+<query> i will survive lyrics</query><numhits>10</numhits><time>4096</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:hawaiian->3.815576
+Q:volcano->5.970031
+Q:observatories->8.448950
+<query> hawaiian volcano observatories</query><numhits>10</numhits><time>797</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:beef->5.139774
+Q:stroganoff->9.255054
+Q:recipe->3.667611
+<query> beef stroganoff recipe</query><numhits>10</numhits><time>1380</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:world->1.534650
+Q:s->0.448648
+Q:biggest->4.074875
+Q:dog->3.166960
+<query> world s biggest dog</query><numhits>10</numhits><time>4119</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:what->1.194394
+Q:are->0.691053
+Q:the->0.165628
+Q:seven->3.739464
+Q:deadly->3.323717
+Q:sins->4.564642
+<query> what are the seven deadly sins</query><numhits>10</numhits><time>9656</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:hurricane->5.156012
+Q:irene->4.230162
+Q:flooding->4.717937
+Q:in->0.263045
+Q:manville->9.139298
+Q:nj->4.513726
+<query> hurricane irene flooding in manville nj</query><numhits>10</numhits><time>4588</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:hair->3.361712
+Q:dye->5.248078
+<query> hair dye</query><numhits>10</numhits><time>995</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:dark->3.158473
+Q:chocolate->4.168488
+Q:health->2.063987
+Q:benefits->2.736453
+<query> dark chocolate health benefits</query><numhits>10</numhits><time>2664</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:ham->5.247201
+Q:radio->3.044964
+<query> ham radio</query><numhits>10</numhits><time>900</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:symptoms->4.700537
+Q:of->0.250675
+Q:mad->1.813782
+Q:cow->5.104205
+Q:disease->3.777722
+Q:in->0.263045
+Q:humans->2.670965
+<query> symptoms of mad cow disease in humans</query><numhits>10</numhits><time>8652</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:lump->6.065573
+Q:in->0.263045
+Q:throat->5.337336
+<query> lump in throat</query><numhits>10</numhits><time>3517</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:george->2.915310
+Q:bush->4.449145
+Q:sr->4.002000
+Q:bio->3.915468
+<query> george bush sr bio</query><numhits>10</numhits><time>1644</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:frank->4.132120
+Q:lloyd->5.552777
+Q:wright->5.102414
+Q:biography->4.409993
+<query> frank lloyd wright biography</query><numhits>10</numhits><time>1079</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:presidential->3.227787
+Q:middle->3.233055
+Q:names->1.434211
+<query> presidential middle names</query><numhits>10</numhits><time>2083</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:what->1.194394
+Q:is->0.527370
+Q:a->0.251930
+Q:wiki->4.207942
+<query> what is a wiki</query><numhits>10</numhits><time>6803</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:cannellini->10.009585
+Q:beans->4.709555
+<query> cannellini beans</query><numhits>10</numhits><time>710</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:afghanistan->4.599696
+Q:flag->4.052654
+<query> afghanistan flag</query><numhits>10</numhits><time>588</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:old->2.307190
+Q:town->3.166758
+Q:scottsdale->6.198949
+<query> old town scottsdale</query><numhits>10</numhits><time>1364</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:roosevelt->6.197206
+Q:island->2.948185
+<query> roosevelt island</query><numhits>10</numhits><time>777</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:civil->3.473811
+Q:war->2.860234
+Q:battles->3.764578
+Q:in->0.263045
+Q:south->2.495108
+Q:carolina->3.586141
+<query> civil war battles in south carolina</query><numhits>10</numhits><time>5492</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:rain->3.707897
+Q:man->1.464926
+<query> rain man</query><numhits>10</numhits><time>1902</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:eggs->3.875246
+Q:shelf->5.192514
+Q:life->1.809728
+<query> eggs shelf life</query><numhits>10</numhits><time>1654</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:occupational->3.940061
+Q:therapist->4.075068
+<query> occupational therapist</query><numhits>10</numhits><time>832</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:ford->4.476981
+Q:edge->3.621598
+Q:problems->2.481054
+<query> ford edge problems</query><numhits>10</numhits><time>1374</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:identifying->3.460194
+Q:spider->4.908399
+Q:bites->2.665300
+<query> identifying spider bites</query><numhits>10</numhits><time>1267</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:history->2.088246
+Q:of->0.250675
+Q:orcas->6.505291
+Q:island->2.948185
+<query> history of orcas island</query><numhits>10</numhits><time>4423</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:tooth->5.633043
+Q:abscess->8.101351
+<query> tooth abscess</query><numhits>10</numhits><time>471</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:barrett->6.132676
+Q:s->0.448648
+Q:esophagus->7.815764
+<query> barrett s esophagus</query><numhits>10</numhits><time>2747</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:teddy->4.578213
+Q:bears->3.577721
+<query> teddy bears</query><numhits>10</numhits><time>873</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:patron->5.198841
+Q:saint->3.841576
+Q:of->0.250675
+Q:mental->2.988363
+Q:illness->3.292613
+<query> patron saint of mental illness</query><numhits>10</numhits><time>4880</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:holes->3.290059
+Q:by->0.389941
+Q:louis->4.023685
+Q:sachar->10.064466
+<query> holes by louis sachar</query><numhits>10</numhits><time>3819</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:hip->3.978543
+Q:roof->4.537157
+<query> hip roof</query><numhits>10</numhits><time>672</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:carpenter->5.918721
+Q:bee->0.828504
+<query> carpenter bee</query><numhits>10</numhits><time>2289</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:the->0.165628
+Q:american->2.485478
+Q:revolutionary->5.235778
+<query> the american revolutionary</query><numhits>10</numhits><time>5699</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:folk->3.772440
+Q:remedies->4.891380
+Q:sore->3.033195
+Q:throat->5.337336
+<query> folk remedies sore throat</query><numhits>10</numhits><time>1611</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:balding->6.101990
+Q:cure->1.518578
+<query> balding cure</query><numhits>10</numhits><time>1463</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:evidence->3.376878
+Q:for->0.320278
+Q:evolution->3.800065
+<query> evidence for evolution</query><numhits>10</numhits><time>3374</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:tribe->4.960069
+Q:formerly->3.560815
+Q:living->1.733495
+Q:in->0.263045
+Q:alabama->3.984982
+<query> tribe formerly living in alabama</query><numhits>10</numhits><time>5025</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:f5->Q:tornado->6.251575
+<query> f5 tornado</query><numhits>10</numhits><time>266</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:symptoms->4.700537
+Q:of->0.250675
+Q:heart->2.239052
+Q:attack->3.543815
+<query> symptoms of heart attack</query><numhits>10</numhits><time>4280</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:feliz->7.393019
+Q:navidad->8.594740
+Q:lyrics->4.506557
+<query> feliz navidad lyrics</query><numhits>10</numhits><time>666</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:benefits->2.736453
+Q:of->0.250675
+Q:running->2.372470
+<query> benefits of running</query><numhits>10</numhits><time>4206</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:marshall->4.520610
+Q:county->2.587279
+Q:schools->2.116529
+<query> marshall county schools</query><numhits>10</numhits><time>2113</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:sun->2.673594
+Q:tzu->7.361616
+<query> sun tzu</query><numhits>10</numhits><time>772</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:halloween->4.506525
+Q:activities->1.497103
+Q:for->0.320278
+Q:middle->3.233055
+Q:school->2.116529
+<query> halloween activities for middle school</query><numhits>10</numhits><time>5323</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:dreams->3.037011
+Q:interpretation->4.499456
+<query> dreams interpretation</query><numhits>10</numhits><time>941</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:wilson->4.588804
+Q:s->0.448648
+Q:disease->3.777722
+<query> wilson s disease</query><numhits>10</numhits><time>2951</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:golf->3.659305
+Q:instruction->3.295191
+<query> golf instruction</query><numhits>10</numhits><time>904</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:uss->0.499009
+Q:cole->3.539234
+<query> uss cole</query><numhits>10</numhits><time>2816</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:how->1.374110
+Q:has->1.283864
+Q:african->3.958973
+Q:american->2.485478
+Q:music->2.055210
+Q:influence->3.913757
+Q:history->2.088246
+<query> how has african american music influence history</query><numhits>10</numhits><time>5363</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:bewitched->7.990213
+Q:cast->3.913144
+<query> bewitched cast</query><numhits>10</numhits><time>1002</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:mister->6.119084
+Q:rogers->4.509336
+<query> mister rogers</query><numhits>10</numhits><time>644</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:game->2.043124
+Q:theory->4.025796
+<query> game theory</query><numhits>10</numhits><time>1459</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:view->1.107808
+Q:my->1.131346
+Q:internet->2.333168
+Q:history->2.088246
+<query> view my internet history</query><numhits>10</numhits><time>4228</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:ketogenic->9.933725
+Q:diet->3.963744
+<query> ketogenic diet</query><numhits>10</numhits><time>667</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:nasa->5.192316
+Q:interplanetary->9.031181
+Q:missions->2.276841
+<query> nasa interplanetary missions</query><numhits>10</numhits><time>1913</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:hayrides->9.001043
+Q:in->0.263045
+Q:pa->3.710765
+<query> hayrides in pa</query><numhits>10</numhits><time>3642</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:where->1.808773
+Q:to->0.249354
+Q:find->1.119751
+Q:morel->7.367211
+Q:mushrooms->5.514745
+<query> where to find morel mushrooms</query><numhits>10</numhits><time>5950</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:magnesium->6.578464
+Q:rich->3.646018
+Q:foods->2.344483
+<query> magnesium rich foods</query><numhits>10</numhits><time>1442</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:common->2.788784
+Q:schizophrenia->6.775172
+Q:drugs->3.409808
+<query> common schizophrenia drugs</query><numhits>10</numhits><time>1334</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:carotid->8.817308
+Q:cavernous->7.072700
+Q:fistula->8.686165
+Q:treatment->3.659023
+<query> carotid cavernous fistula treatment</query><numhits>10</numhits><time>1315</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:fidel->7.471836
+Q:castro->6.279574
+<query> fidel castro</query><numhits>10</numhits><time>605</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:benefits->2.736453
+Q:of->0.250675
+Q:yoga->4.829850
+<query> benefits of yoga</query><numhits>10</numhits><time>3830</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:norway->4.397795
+Q:spruce->6.624801
+<query> norway spruce</query><numhits>10</numhits><time>555</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:sangre->7.759382
+Q:de->2.086870
+Q:cristo->6.648875
+Q:mountains->3.519710
+<query> sangre de cristo mountains</query><numhits>10</numhits><time>1896</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:history->2.088246
+Q:of->0.250675
+Q:the->0.165628
+Q:electronic->3.114860
+Q:medical->1.640440
+Q:record->2.686465
+<query> history of the electronic medical record</query><numhits>10</numhits><time>10584</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:educational->2.048816
+Q:advantages->3.609817
+Q:of->0.250675
+Q:social->2.379400
+Q:networking->2.343104
+Q:sites->0.938761
+<query> educational advantages of social networking sites</query><numhits>10</numhits><time>7472</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:flowering->3.371690
+Q:plants->3.322896
+<query> flowering plants</query><numhits>10</numhits><time>910</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:how->1.374110
+Q:to->0.249354
+Q:tie->3.726733
+Q:a->0.251930
+Q:windsor->5.477421
+Q:knot->5.536800
+<query> how to tie a windsor knot</query><numhits>10</numhits><time>8171</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:recycling->4.521835
+Q:lead->2.564568
+Q:acid->4.645726
+Q:batteries->4.691609
+<query> recycling lead acid batteries</query><numhits>10</numhits><time>1687</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:altitude->6.270696
+Q:sickness->4.252505
+<query> altitude sickness</query><numhits>10</numhits><time>625</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:medical->1.640440
+Q:care->1.583847
+Q:and->0.266484
+Q:jehovah->7.755667
+Q:s->0.448648
+Q:witnesses->4.007665
+<query> medical care and jehovah s witnesses</query><numhits>10</numhits><time>8517</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:pink->3.813147
+Q:slime->5.028131
+Q:in->0.263045
+Q:ground->3.331909
+Q:beef->5.139774
+<query> pink slime in ground beef</query><numhits>10</numhits><time>4466</time>
+</ATIREsearch>
+<ATIREsearch>
+Q:how->1.374110
+Q:to->0.249354
+Q:find->1.119751
+Q:the->0.165628
+Q:mean->2.410231
+<query> how to find the mean</query><numhits>10</numhits><time>10921</time>
+</ATIREsearch>
+Total elapsed time including startup and shutdown 05:00.659 minutes
+Kernel: 2.000 seconds
+  User: 280.100 seconds
