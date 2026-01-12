@@ -1,22 +1,23 @@
 #!/bin/bash
 
-ATIRE_PATH=/home/katelyn/Documents/COSC490/ATIRE
-GOV2_PATH=/home/katelyn/Documents/COSC490/GOV2
-EVAL_PATH=/home/katelyn/Documents/COSC490/trec_eval
+ATIRE_PATH=/home/harka424/Documents/COSC490/ATIRE
+GOV2_PATH=/home/harka424/Documents/COSC490/GOV2
+EVAL_PATH=/home/harka424/Documents/trec_eval
+STEM_PATH=/home/harka424/Documents/COSC490/Stemming/Data/gov2
 
 stem=(h k s Xe Xl w -)
 stemmer=("paiceHusk" "krovetz" "sStripping" "porter2" "lovins" "wikt" "none")
 
-cd $ATIRE_PATH
+# cd $ATIRE_PATH
 
-for i in "${!stemmer[@]}"
-do
-    ./bin/atire -t"${stem[$i]}" -findex $GOV2_PATH/index.aspt -q$GOV2_PATH/701-850.topics -a$GOV2_PATH/701-850.qrels -et -o$GOV2_PATH/output/"${stemmer[$i]}".out
-done
+# for i in "${!stemmer[@]}"
+# do
+#     ./bin/atire -t"${stem[$i]}" -findex $GOV2_PATH/index.aspt -q$GOV2_PATH/701-850.topics -a$GOV2_PATH/701-850.qrels -et -o$GOV2_PATH/output/"${stemmer[$i]}".out
+# done
 
 cd $EVAL_PATH
 
-echo "stemmer qid map" > $GOV2_PATH/map/map_gov2
+echo "stemmer qid map" > $STEM_PATH/map_gov2
 for s in "${stemmer[@]}"
 do
     : > $GOV2_PATH/map/temp
@@ -24,7 +25,7 @@ do
     while read -r line
     do
         echo "${s} $line"
-        done < $GOV2_PATH/map/temp >> $GOV2_PATH/map/map_gov2
+        done < $GOV2_PATH/map/temp >> $STEM_PATH/map_gov2
 done
 
 rm $GOV2_PATH/map/temp

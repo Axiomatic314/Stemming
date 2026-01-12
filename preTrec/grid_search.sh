@@ -1,12 +1,8 @@
 #!/bin/bash 
 
-# STEM_PATH=/home/katelyn/Documents/COSC490/Stemming
-# MAIN_DIR=/home/katelyn/Desktop/PreTREC
-# ATIRE_PATH=/home/katelyn/Documents/COSC490/SearchEngines/ATIRE
-
-STEM_PATH=/home/katelyn/Documents/COSC490/Stemming
-MAIN_DIR=/home/katelyn/Documents/preTREC
-ATIRE_PATH=/home/katelyn/Documents/COSC490/ATIRE
+STEM_PATH=/home/harka424/Documents/COSC490/Stemming
+MAIN_DIR=/home/harka424/Documents/COSC490/preTREC
+ATIRE_PATH=/home/harka424/Documents/COSC490/ATIRE
 
 COLLECTION=$1
 COL=$2
@@ -24,7 +20,7 @@ do
 declare -a results=()
 declare -a MAP_results=()
 
-    for k1 in $(seq 2.7 0.1 5)
+    for k1 in $(seq 0 0.1 5)
     do 
         for b in $(seq 0 0.1 1)
         do

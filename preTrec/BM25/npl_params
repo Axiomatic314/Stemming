@@ -1,9 +1,9 @@
-stemmer:-th, k1:0.9, b:0.5, MAP:0.324404
+stemmer:-th, k1:0.7, b:0.5, MAP:0.331443
 stemmer:-tk, k1:0.9, b:0.5, MAP:0.324025
-stemmer:-ts, k1:0.7, b:0.5, MAP:0.314949
+stemmer:-ts, k1:0.7, b:0.5, MAP:0.315451
 stemmer:-tXe, k1:0.7, b:0.7, MAP:0.330860
 stemmer:-tXl, k1:0.7, b:0.7, MAP:0.348629
-stemmer:-tw, k1:0.8, b:0.6, MAP:0.327329
+stemmer:-tw, k1:0.8, b:0.6, MAP:0.326592
 stemmer:-t-, k1:0.9, b:0.4, MAP:0.273633
-0.9 0.9 0.7 0.7 0.7 0.8 0.9
+0.7 0.9 0.7 0.7 0.7 0.8 0.9
 0.5 0.5 0.5 0.7 0.7 0.6 0.4
