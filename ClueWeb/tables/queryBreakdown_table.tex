@@ -1,0 +1,26 @@
+\begin{table}[H]
+\centering
+\caption{Comparison of Stemming Output on the ClueWeb.}
+\label{tab:queryBreakdown}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{@{}lll@{ }ll@{ }ll@{ }ll@{ }ll@{ }ll@{ }ll@{ }l@{}}
+\toprule
+ & QID & \multicolumn{2}{c}{None} & \multicolumn{2}{c}{Paice/Husk} & \multicolumn{2}{c}{Krovetz}  & \multicolumn{2}{c}{S-Stripping}  & \multicolumn{2}{c}{Porter2}  & \multicolumn{2}{c}{Lovins} & \multicolumn{2}{c}{Wikt} \\ \midrule 
+ & 228 & hawaiian & 5.930  & haway  & 5.910 & hawaii  & 3.816 & hawaiian  & 5.916 & hawaiian  & 5.916 & hawai  & 3.816 & hawaii  & 3.816 \\
+ &  & volcano & 6.424  & volcano  & 6.122 & volcano  & 6.124 & volcano  & 6.124 & volcano  & 6.122 & volcan  & 5.970 & volcano  & 5.806 \\
+ &  & observatories & 8.517  & observ  & 3.761 & observatory  & 6.427 & observatory  & 6.427 & observatori  & 6.426 & observator  & 8.449 & observatory  & 6.427 \\ \midrule
+nDCG@10 &  & \multicolumn{2}{c}{0.0000} & \multicolumn{2}{c}{0.5499} & \multicolumn{2}{c}{0.4109} & \multicolumn{2}{c}{0.5499} & \multicolumn{2}{c}{0.5499} & \multicolumn{2}{c}{0.0000} & \multicolumn{2}{c}{0.4109}\\ \midrule 
+ & 240 & presidential & 5.040  & presid  & 3.182 & presidential  & 5.038 & presidential  & 5.040 & presidenti  & 5.037 & presid  & 3.228 & president  & 3.211 \\
+ &  & middle & 3.237  & middl  & 3.233 & middle  & 3.234 & middle  & 3.237 & middl  & 3.233 & middl  & 3.233 & middle  & 3.216 \\
+ &  & names & 3.439  & name  & 1.496 & name  & 1.450 & nam  & 3.325 & name  & 1.446 & nam  & 1.434 & name  & 1.445 \\ \midrule
+nDCG@10 &  & \multicolumn{2}{c}{0.7581} & \multicolumn{2}{c}{0.2798} & \multicolumn{2}{c}{0.2314} & \multicolumn{2}{c}{0.7523} & \multicolumn{2}{c}{0.2314} & \multicolumn{2}{c}{0.3339} & \multicolumn{2}{c}{0.1878}\\ \midrule 
+ & 293 & educational & 3.674  & educ  & 2.048 & educational  & 3.671 & educational  & 3.674 & educ  & 2.049 & educ  & 2.049 & educate  & 2.052 \\
+ &  & advantages & 4.819  & adv  & 1.581 & advantage  & 3.610 & advantag  & 4.818 & advantag  & 3.589 & advant  & 3.610 & advantage  & 3.590 \\
+ &  & of & 0.251  & of  & 0.251 & of  & 0.251 & of  & 0.251 & of  & 0.251 & of  & 0.251 & of  & 0.251 \\
+ &  & social & 2.441  & social  & 2.385 & social  & 2.396 & social  & 2.439 & social  & 2.395 & soc  & 2.379 & social  & 2.385 \\
+ &  & networking & 3.866  & network  & 2.342 & network  & 2.342 & networking  & 3.865 & network  & 2.342 & network  & 2.343 & network  & 2.342 \\
+ &  & sites & 2.607  & site  & 0.977 & site  & 0.976 & sit  & 2.403 & site  & 0.977 & sit  & 0.939 & site  & 0.976 \\ \midrule
+nDCG@10 &  & \multicolumn{2}{c}{0.0000} & \multicolumn{2}{c}{0.5499} & \multicolumn{2}{c}{0.3249} & \multicolumn{2}{c}{0.0000} & \multicolumn{2}{c}{0.6498} & \multicolumn{2}{c}{0.6498} & \multicolumn{2}{c}{0.6498}\\ \bottomrule 
+\end{tabular}%
+}
+\end{table}
